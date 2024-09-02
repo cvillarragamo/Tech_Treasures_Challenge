@@ -1,1 +1,9 @@
-techtreasure/
+#Virtual env
+geo_env/
+
+#Config VS Code
+.vscode/
+
+#Logs
+*.log
+
