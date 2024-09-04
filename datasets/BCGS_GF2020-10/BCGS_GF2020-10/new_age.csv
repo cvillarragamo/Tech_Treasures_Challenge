@@ -1,0 +1,1103 @@
+Sample Name,WGS84-long,WGS84-lat,Elevation(m),Rock Type,Sample Description,Sample Age,Uncertainty (+),Uncertainty (-),Age Interpretation,Isotopic System,Mineral Analyzed,Method,Lab,Primary Reference,Authors
+G-167,-118.781477,49.21229098,,metamorphic,"medium-grained, hornblende orthogneiss",162.8,1.2,1.2,crystallization,U-Pb,zircon,CA-ID-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",GeoscienceBC Report GBC2018-011,"Hoy, T."
+G-200,-118.6887724,49.21457455,,plutonic,"medium-grained, equigranular, relative fresh, massive granodiorite",168.3,1.2,1.2,crystallization,U-Pb,zircon,CA-ID-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",GeoscienceBC Report GBC2018-011,"Hoy, T."
+AM-391,-118.9639393,49.35209757,,plutonic,"massive, relatively fresh, leuco",63.6,1.3,1.3,cooling,Ar-Ar,biotite,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",GeoscienceBC Report GBC2018-011,"Hoy, T."
+AM-404,-118.9344054,49.48055126,,plutonic,"medium-grained, relatively fresh, hornblende-biotite granodiorite",177.7,3,3,cooling,Ar-Ar,muscovite,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",GeoscienceBC Report GBC2018-011,"Hoy, T."
+AM-470,-118.9083775,49.38203099,,volcanic,"medium to dark grey, amygdaloidal alkali ""andesite""",57.8,2.1,2.1,cooling,Ar-Ar,feldspar,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",GeoscienceBC Report GBC2018-011,"Hoy, T."
+AM-529,-118.9000848,49.39065962,,plutonic,"medium-grained, relatively fresh (biotitie)-hornblende granite",179.3,4.5,4.5,cooling,Ar-Ar,hornblende,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",GeoscienceBC Report GBC2018-011,"Hoy, T."
+AM-557,-118.9034988,49.25100576,,volcanic,plagioclase-phyric andesite,59.2,0.8,0.8,cooling,Ar-Ar,plagioclase,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",GeoscienceBC Report GBC2018-011,"Hoy, T."
+AM-563,-118.8988897,49.27306769,,plutonic,megacrystic k-feldspar porphyritic granite,67.7,8,8,cooling,Ar-Ar,feldspar,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",GeoscienceBC Report GBC2018-011,"Hoy, T."
+CV-06,-118.9010771,49.53935944,,plutonic,"fresh, medium-grained, massive to foliated granite/granodiorite",50.79,0.69,0.69,cooling,Ar-Ar,hornblende,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",GeoscienceBC Report GBC2018-011,"Hoy, T."
+CV-41,-118.8719937,49.61383951,,volcanic,"fresh, crowded feldspar porphyry",53.8,1.8,1.8,cooling,Ar-Ar,feldspar,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",GeoscienceBC Report GBC2018-011,"Hoy, T."
+CV-43,-118.8780486,49.60028424,,plutonic,"fresh, fine to medium-grained, equigranular, leucocratic granite",47.16,0.36,0.36,cooling,Ar-Ar,biotite,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",GeoscienceBC Report GBC2018-011,"Hoy, T."
+CV-104,-118.9272469,49.56402397,,plutonic,"fresh, medium-grained, equigranular, leucocratic biotite granite",67,0.46,0.46,crystallization,U-Pb,zircon,CA-ID-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",GeoscienceBC Report GBC2018-011,"Hoy, T."
+CV-113,-118.971804,49.63565112,,plutonic,"porphyritic to massive, medium-grained granite",50.3,0.19,0.19,cooling,Ar-Ar,feldspar,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",GeoscienceBC Report GBC2018-011,"Hoy, T."
+CV-159,-118.8531636,49.56266166,,volcanic,"black, fine-grained amygdaloidal lava flow with widely scattered biotite",52.77,0.38,0.38,cooling,Ar-Ar,biotite,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",GeoscienceBC Report GBC2018-011,"Hoy, T."
+CV-258,-118.7383857,49.57491383,,plutonic,unaltered megacrystic quartz monzonite,51.47,0.45,0.45,crystallization,U-Pb,zircon,CA-ID-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",GeoscienceBC Report GBC2018-011,"Hoy, T."
+CV-294,-118.8209572,49.62106753,,?,light grew microporphyritic alkalic dyke,49.4,0.77,0.77,crystallization,U-Pb,zircon,CA-ID-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",GeoscienceBC Report GBC2018-011,"Hoy, T."
+BC-193,-118.3152052,49.54714364,,plutonic,massive to porphyritic hornblende-(biotite) granite,52.8,1.6,1.6,cooling,Ar-Ar,hornblende,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",GeoscienceBC Report GBC2018-011,"Hoy, T."
+BC-213,-118.3102936,49.55526799,,plutonic,foliated to gneissic biotite pyroxenite,50.6,0.6,0.6,cooling,Ar-Ar,biotite,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",GeoscienceBC Report GBC2018-011,"Hoy, T."
+BC-227,-118.2912448,49.56749959,,plutonic,"granular, medium to coarse-grained ""quartz monzonite""",51.6,0.6,0.6,cooling,Ar-Ar,biotite,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",GeoscienceBC Report GBC2018-011,"Hoy, T."
+BC-252,-118.3744328,49.58320936,,plutonic,"fine grained, equigranular, fresh monzonite",161.3,2.4,2.4,cooling,Ar-Ar,hornblende,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",GeoscienceBC Report GBC2018-011,"Hoy, T."
+BC-255,-118.3784526,49.58053498,,plutonic,"medium grained to coarse grained, equigranular ""monzodiorite""",176,2.5,2.5,cooling,Ar-Ar,hornblende,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",GeoscienceBC Report GBC2018-011,"Hoy, T."
+BC-258,-118.3808797,49.57732177,,plutonic,coarse grained massive syenite/monzonite,80.9,1.2,1.2,cooling,Ar-Ar,plagioclase,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",GeoscienceBC Report GBC2018-011,"Hoy, T."
+BC-260,-118.3768631,49.57173868,,plutonic,"fresh, coarse-grained syenite",165.4,1.9,1.9,cooling,Ar-Ar,hornblende,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",GeoscienceBC Report GBC2018-011,"Hoy, T."
+BC-262,-119.2224798,49.57619847,,plutonic,"medium-grained, equigranular, monzogabbro or monzodiorite",175.9,2.1,2.1,cooling,Ar-Ar,biotite,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",GeoscienceBC Report GBC2018-011,"Hoy, T."
+BC-313,-118.2930637,49.56410611,,plutonic,"small exposure of ""diorite""",58.9,0.7,0.7,cooling,Ar-Ar,biotite,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",GeoscienceBC Report GBC2018-011,"Hoy, T."
+BC-314,-118.2913886,49.5650873,,plutonic,foliated to massive leucocratic monzonite,59.3,0.7,0.7,cooling,Ar-Ar,biotite,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",GeoscienceBC Report GBC2018-011,"Hoy, T."
+AM19-577,-119.0796527,49.431054,,granite,hosts Beaverdell veins,59.2,,,cooling,Ar-Ar,muscovite,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",GeoscienceBC Report GBC2018-011,"Hoy, T."
+AM19-579,-119.0753928,49.43110357,,granodiorite,hosts Beaverdell veins,168.4,,,cooling,Ar-Ar,hornblende,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",GeoscienceBC Report GBC2018-011,"Hoy, T."
+H19-45,-119.1114266,49.30040531,,granodiorite,Nelson,163.7,,,crystallization,U-Pb,zircon,CA-ID-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",GeoscienceBC Report GBC2018-011,"Hoy, T."
+LP-109,-118.571499,49.93075899,,bi granodiorite,hosts Lightning Peak veins,137.33,,,crystallization,U-Pb,zircon,CA-ID-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",GeoscienceBC Report GBC2018-011,"Hoy, T."
+LP-143,-118.5375345,49.94587568,,bi granodiorite,Nelson,164.07,,,crystallization,U-Pb,zircon,CA-ID-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",GeoscienceBC Report GBC2018-011,"Hoy, T."
+LP-227,-118.6742718,49.84686456,,hb granodiorite,hosts Lightning Peak veins,120-130,,,crystallization,U-Pb,zircon,CA-ID-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",GeoscienceBC Report GBC2018-011,"Hoy, T."
+H19-8,-118.1393984,49.35008891,,monzonite,Coryell,51.99,,,crystallization,U-Pb,zircon,CA-ID-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",GeoscienceBC Report GBC2018-011,"Hoy, T."
+H19-10,-118.1515558,49.36362333,,granite,Nelson,52.6,,,crystallization,U-Pb,zircon,CA-ID-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",GeoscienceBC Report GBC2018-011,"Hoy, T."
+H19-15,-118.3198717,49.5007204,,granodiorite,Okanagan,52.99,,,crystallization,U-Pb,zircon,CA-ID-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",GeoscienceBC Report GBC2018-011,"Hoy, T."
+06NMAGreenwood1,-118.680876,49.09704101,,plutonic,"medium- to coarse-grained, grey bio titehornblende granodiorite to quartz diorite",179.9,3.8,3.8,crystallization,U-Pb,zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geofile GF2010-01,"Massey, N.W.D., Gabites, J.E., Mortensen, J.K. and Ullrich, T.D.
+Massey, N.W.D., Gabites, J.E., Mortensen, J.K. and Ullrich, T.D.
+Massey, N.W.D., Gabites, J. E., Mortensen, J. K. and Ullrich, T. D."
+06NMA05-01-02,-119.011401,49.01655312,,plutonic,grey to orangey white quartz diorite,157,1.2,1.2,crystallization,U-Pb,zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geofile GF2010-01,"Massey, N.W.D., Gabites, J.E., Mortensen, J.K. and Ullrich, T.D.
+Massey, N.W.D., Gabites, J.E., Mortensen, J.K. and Ullrich, T.D.
+Massey, N.W.D., Gabites, J. E., Mortensen, J. K. and Ullrich, T. D."
+07NMA45-005,-119.004991,49.41036936,,plutonic,granodiorite from the West Kettle batholith,213.5,0.9,0.9,crystallization,U-Pb,zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geofile GF2010-01,"Massey, N.W.D., Gabites, J.E., Mortensen, J.K. and Ullrich, T.D.
+Massey, N.W.D., Gabites, J.E., Mortensen, J.K. and Ullrich, T.D.
+Massey, N.W.D., Gabites, J. E., Mortensen, J. K. and Ullrich, T. D."
+07NMA09-02,-119.1164934,49.06151691,,plutonic,biotite granodiorite,57.1,0.5,0.5,crystallization,U-Pb,zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geofile GF2010-01,"Massey, N.W.D., Gabites, J.E., Mortensen, J.K. and Ullrich, T.D.
+Massey, N.W.D., Gabites, J.E., Mortensen, J.K. and Ullrich, T.D.
+Massey, N.W.D., Gabites, J. E., Mortensen, J. K. and Ullrich, T. D."
+05NMA25-01B,-118.6951705,49.00908412,,plutonic,leucocratic quartz-feldspar porphyry,171.6,2.3,2.3,crystallization,U-Pb,zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geofile GF2010-01,"Massey, N.W.D., Gabites, J.E., Mortensen, J.K. and Ullrich, T.D.
+Massey, N.W.D., Gabites, J.E., Mortensen, J.K. and Ullrich, T.D.
+Massey, N.W.D., Gabites, J. E., Mortensen, J. K. and Ullrich, T. D."
+07NMA09-01,-119.2406452,49.16147966,,plutonic,Mount Baldy granodiorite,168.5,1.4,1.4,crystallization,U-Pb,zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geofile GF2010-01,"Massey, N.W.D., Gabites, J.E., Mortensen, J.K. and Ullrich, T.D.
+Massey, N.W.D., Gabites, J.E., Mortensen, J.K. and Ullrich, T.D.
+Massey, N.W.D., Gabites, J. E., Mortensen, J. K. and Ullrich, T. D."
+07NMA05-16A,-119.1675116,49.15478854,,plutonic,"medium-to coarse-grained, black to grey dioriteto gabbro that weathers dark greenish grey",51,0.28,0.28,cooling,Ar-Ar,hornblende,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geofile GF2010-01,"Massey, N.W.D., Gabites, J.E., Mortensen, J.K. and Ullrich, T.D.
+Massey, N.W.D., Gabites, J.E., Mortensen, J.K. and Ullrich, T.D.
+Massey, N.W.D., Gabites, J. E., Mortensen, J. K. and Ullrich, T. D."
+07NMA05-16B,-119.1675116,49.15478854,,plutonic,"medium-to coarse-grained, black to grey dioriteto gabbro that weathers dark greenish grey",51,0.31,0.31,cooling,Ar-Ar,biotite,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geofile GF2010-01,"Massey, N.W.D., Gabites, J.E., Mortensen, J.K. and Ullrich, T.D.
+Massey, N.W.D., Gabites, J.E., Mortensen, J.K. and Ullrich, T.D.
+Massey, N.W.D., Gabites, J. E., Mortensen, J. K. and Ullrich, T. D."
+07NMA43-010,-118.9374971,49.41858207,,plutonic,hornblende crowded feldspar diorite,177.3,1,1,cooling,Ar-Ar,hornblende,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geofile GF2010-01,"Massey, N.W.D., Gabites, J.E., Mortensen, J.K. and Ullrich, T.D.
+Massey, N.W.D., Gabites, J.E., Mortensen, J.K. and Ullrich, T.D.
+Massey, N.W.D., Gabites, J. E., Mortensen, J. K. and Ullrich, T. D."
+MMI12-3-15,-120.474339,49.47660475,,plutonic,rusty diorite dyke in the Southwest zone at Miner Mountain,155.8,0.14,0.14,crystallization,U-Pb,zircon,CA-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geofile GF2014-03,"Mihalynuk, M.G. Friedman, R.M., Gabites J.E. and Logan, J. M."
+MMI13-10-8,-120.5524862,49.62393166,,sedimentary,"collected from a tuffaceous polymictic conglomerate section that sits on, and interfingers with, flow-banded rhyolite.",~103 and ~220 (2 age groups),,,maximum depositional,U-Pb,detrital zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geofile GF2014-03,"Mihalynuk, M.G. Friedman, R.M., Gabites J.E. and Logan, J. M."
+MMI12-5-8,-120.4585084,49.75774468,,plutonic,collected from a mineralized hornblende diorite at the Primer South prospect,188.2,2.5,2.5,cooling,Ar-Ar,hornblende,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geofile GF2014-03,"Mihalynuk, M.G. Friedman, R.M., Gabites J.E. and Logan, J. M."
+MMI12-7-4,-120.4627082,49.70201711,,volcanic,oxyhornblende and biotite-phyric rhyolite breccia,50.17,0.6,0.6,cooling,Ar-Ar,biotite,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geofile GF2014-03,"Mihalynuk, M.G. Friedman, R.M., Gabites J.E. and Logan, J. M."
+MMI12-8-6,-120.4685367,49.77128724,,volcanic,hornblende-pyroxene porphyritic volcanic breccia,182.1,2.3,2.3,cooling,Ar-Ar,hornblende,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geofile GF2014-03,"Mihalynuk, M.G. Friedman, R.M., Gabites J.E. and Logan, J. M."
+JLO12-51-47,-120.6242486,50.01973243,,sedimentary,maroon sandstone,208,7.6,7.6,maximum depositional,U-Pb,detrital zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geofile GF2015-02,"Mihalynuk, M.G., Friedman, R.M. and Logan, J.M."
+MMI13-16-3,-120.5809856,49.94627178,,sedimentary,maroon sandstone,202.4,8.7,8.7,maximum depositional,U-Pb,detrital zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geofile GF2015-02,"Mihalynuk, M.G., Friedman, R.M. and Logan, J.M."
+MMI13-4-8,-120.4532792,49.67331976,,volcanic,"grey-weathering, porphyritic granodiorite",162,2,2,crystallization,U-Pb,zircon,CA-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geofile GF2015-02,"Mihalynuk, M.G., Friedman, R.M. and Logan, J.M."
+MMI13-16-5,-120.5809955,49.94635294,,volcanic,fine-grained dike that cuts red volcanic sandstone,200.99,0.25,0.25,crystallization,U-Pb,zircon,CA-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geofile GF2015-02,"Mihalynuk, M.G., Friedman, R.M. and Logan, J.M."
+MMI13-29-7,-120.4754348,49.47382186,,plutonic,"(drillhole DDH13, 3.45m to 11.11m)",100,3,3,crystallization,U-Pb,zircon,CA-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geofile GF2015-02,"Mihalynuk, M.G., Friedman, R.M. and Logan, J.M."
+MMI13-30-1,-120.428817,49.46110818,,plutonic,Bromley pegmatite,193.59,0.2,0.2,crystallization,U-Pb,zircon,CA-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geofile GF2015-02,"Mihalynuk, M.G., Friedman, R.M. and Logan, J.M."
+MMI13-30-2,-120.4229724,49.46017735,,plutonic,from a swarm of north-trending quartz-feldspar porphyry dikes,103.92,0.14,0.14,crystallization,U-Pb,zircon,CA-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geofile GF2015-02,"Mihalynuk, M.G., Friedman, R.M. and Logan, J.M."
+MMI13-30-4,-120.5294119,49.68392096,,volcanic,Missezula Mountain rhyolite,238.15,0.33,0.33,crystallization,U-Pb,zircon,CA-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geofile GF2015-02,"Mihalynuk, M.G., Friedman, R.M. and Logan, J.M."
+MMI14-55-13,-120.6931959,49.51235893,,volcanic,Central belt rhyolite tuffite near Coalmont,238.6,0.3,0.3,crystallization,U-Pb,zircon,CA-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geofile GF2016-03,"Friedman, R.M., Mihalynuk, M.G., Diakow, L. J. and Gabites, J. E."
+LDi12-1-9,-120.6560576,50.1041706,,volcanic,dacite tuff at top of marker unit at Hamilton Creek,224.51,0.15,0.15,crystallization,U-Pb,zircon,CA-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geofile GF2016-03,"Friedman, R.M., Mihalynuk, M.G., Diakow, L. J. and Gabites, J. E."
+LDi07-7-5,-120.748313,50.04825738,,volcanic,dacite near base of marker unit at Iron Mountain,223.55,0.29,0.29,crystallization,U-Pb,zircon,CA-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geofile GF2016-03,"Friedman, R.M., Mihalynuk, M.G., Diakow, L. J. and Gabites, J. E."
+LDi07-7-2,-120.7443356,50.04728059,,volcanic,rhyolite at top of marker unit at Iron Mountain,224.11,0.26,0.26,crystallization,U-Pb,zircon,CA-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geofile GF2016-03,"Friedman, R.M., Mihalynuk, M.G., Diakow, L. J. and Gabites, J. E."
+LDi07-32-1,-120.8699616,50.00964496,,volcanic,welded rhyolite tuff near base of marker,224.58,0.22,0.22,crystallization,U-Pb,zircon,CA-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geofile GF2016-03,"Friedman, R.M., Mihalynuk, M.G., Diakow, L. J. and Gabites, J. E."
+MMI14-50-2,-120.6655601,49.71147623,,plutonic,dioritic zone of Allison pluton,223.32,0.22,0.22,crystallization,U-Pb,zircon,CA-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geofile GF2016-03,"Friedman, R.M., Mihalynuk, M.G., Diakow, L. J. and Gabites, J. E."
+LDi07-20-3,-120.8761964,49.94829543,,plutonic,"medium-grained equigranular quartz diorite, Coldwater pluton",210.27,0.68,0.68,crystallization,Ar-Ar,biotite,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geofile GF2016-03,"Friedman, R.M., Mihalynuk, M.G., Diakow, L. J. and Gabites, J. E."
+MMI14-62-4,-120.5730303,49.83768168,,volcanic,"dacite, Zig volcanic unit",202.28,0.26,0.26,crystallization,U-Pb,zircon,CA-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geofile GF2016-03,"Friedman, R.M., Mihalynuk, M.G., Diakow, L. J. and Gabites, J. E."
+MMI14-23-15,-120.5503346,49.78944575,,sedimentary,Ketcham rhyolite sharpstone conglomerate,<227,,,maximum deposional,U-Pb,detrital zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geofile GF2016-03,"Friedman, R.M., Mihalynuk, M.G., Diakow, L. J. and Gabites, J. E."
+LDI14-60-3,-120.6490352,49.99788404,,sedimentary,Voght sandstone,<213,,,maximum deposional,U-Pb,detrital zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geofile GF2016-03,"Friedman, R.M., Mihalynuk, M.G., Diakow, L. J. and Gabites, J. E."
+MMI14-15-13,-120.2482891,49.939616,,sedimentary,fine siliciclastic unit from the Eastern belt sedimentary rocks,<202,,,maximum deposional,U-Pb,detrital zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geofile GF2016-03,"Friedman, R.M., Mihalynuk, M.G., Diakow, L. J. and Gabites, J. E."
+MMI14-19-3,-120.4209455,49.79281677,,plutonic,"western Pennask batholith, gabbro border phase",193.11,0.6,0.6,crystallization,U-Pb,zircon,CA-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geofile GF2016-03,"Friedman, R.M., Mihalynuk, M.G., Diakow, L. J. and Gabites, J. E."
+MMI14-59-12,-120.4607681,49.66846455,,volcanic,"post-Nicola rhyolite ""Osprey volcanic unit""",163.22,0.15,0.15,crystallization,U-Pb,zircon,CA-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geofile GF2016-03,"Friedman, R.M., Mihalynuk, M.G., Diakow, L. J. and Gabites, J. E."
+MMI14-53-2,-120.3280818,49.77405081,,plutonic,Snowstorm quartz-feldspar porphyry,53.36,0.07,0.07,crystallization,U-Pb,zircon,CA-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geofile GF2016-03,"Friedman, R.M., Mihalynuk, M.G., Diakow, L. J. and Gabites, J. E."
+MMI14-62-1,-120.7754397,49.90616992,,sedimentary,sandstone layer in a section of oxidized reddish brown conglomerate outcrop,"< 190, possibly ~185",,,maximum deposional,U-Pb,detrital zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geofile GF2016-03,"Friedman, R.M., Mihalynuk, M.G., Diakow, L. J. and Gabites, J. E."
+GMC14-60-2,-120.6356344,49.96980683,,sedimentary,"from a chert granule to pebble-rich bed of the Bates conglomerate, uncharacteristically fine-grained for the cobble and boulder-rich conglomerate.","< 163, possibly ~134",,,maximum deposional,U-Pb,detrital zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geofile GF2016-03,"Friedman, R.M., Mihalynuk, M.G., Diakow, L. J. and Gabites, J. E."
+07JA05-01,-128.453716,54.43283275,,plutonic,unfoliated Kleanza granodiorite dike,325,9,1,Crystallization,U-Pb,zircon,CA-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geofile GF2017-01,"Nelson, J. and Friedman, R. M.
+J. Nelson and
+Nelson, J. and Friedman, R.M."
+07JK17-09,-128.4363699,54.43753437,,plutonic,Willams Creek foliated tonalite,324,0.8,0.8,Crystallization,U-Pb,zircon,CA-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geofile GF2017-01,"Nelson, J. and Friedman, R. M.
+J. Nelson and
+Nelson, J. and Friedman, R.M."
+08JN01-03,-128.7327931,54.12203977,,volcanic,pale green dacite with lavender-blue opaline quartz phenocrysts,322.2,1,1,Crystallization,U-Pb,zircon,CA-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geofile GF2017-01,"Nelson, J. and Friedman, R. M.
+J. Nelson and
+Nelson, J. and Friedman, R.M."
+MMI16-6-2,-134.1755059,59.98312032,,volcanic,a granitic dike that cuts the deformed chertargillite section along the eastern shore of Tagish Lake,145.75,0.11,0.11,crystallization,U-Pb,zircon,CA-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geofile GF2018-03,"Mihalynuk, M.G., Friedman, R.M., Joyce, N.,  Camacho, A. and Zagorevski, A."
+MTS16-1-4c,-134.3793938,59.93836831,,volcanic,a rhyolite tuff along the southern shore of Tutshi Lake,80.63,0.07,0.07,crystallization,U-Pb,zircon,CA-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geofile GF2018-03,"Mihalynuk, M.G., Friedman, R.M., Joyce, N.,  Camacho, A. and Zagorevski, A."
+MMI16-18-1,-134.1051835,59.75390633,,plutonic,a weakly altered quartz diorite that underlies Sunday Peak,55.61,0.04,0.04,crystallization,U-Pb,zircon,CA-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geofile GF2018-03,"Mihalynuk, M.G., Friedman, R.M., Joyce, N.,  Camacho, A. and Zagorevski, A."
+DMI16-5-1A,-134.175488,59.98312021,,sedimentary,Turtle Lake Sandstone,111,,,miximum depositional,U-Pb,detrital zircon,SHRIMP,Geological Survey of Canada,BCGS Geofile GF2018-03,"Mihalynuk, M.G., Friedman, R.M., Joyce, N.,  Camacho, A. and Zagorevski, A."
+MMI16-16-9,-134.0992189,59.75003106,,sedimentary,Sunday Peak Conglomerate,111,1,1,miximum depositional,U-Pb,detrital zircon,SHRIMP,Geological Survey of Canada,BCGS Geofile GF2018-03,"Mihalynuk, M.G., Friedman, R.M., Joyce, N.,  Camacho, A. and Zagorevski, A."
+MTS16-24-13,-134.2177493,59.85442756,,sedimentary,"collected from a relatively volcanic-rich protolith that contained both aphanitic green and cream-coloured, lapilli-sized volcanic clasts as well as angular limestone and rare chert",285,,,miximum depositional,U-Pb,detrital zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geofile GF2018-03,"Mihalynuk, M.G., Friedman, R.M., Joyce, N.,  Camacho, A. and Zagorevski, A."
+MMI16-8-1,-134.2777241,59.85047777,,sedimentary,grey-green feldsparpyroxene-phyric breccia,79.7,1.3,1.3,miximum depositional,U-Pb,detrital zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geofile GF2018-03,"Mihalynuk, M.G., Friedman, R.M., Joyce, N.,  Camacho, A. and Zagorevski, A."
+MMI16-20-16,-134.1058811,59.82967607,,volcanic,Synkinematic Lost Sheep peak intrusion,161.61,0.85,0.85,cooling,Ar-Ar,biotite,Laser step heating,University of Manitoba Geochronology Lab in Winnipeg,BCGS Geofile GF2018-03,"Mihalynuk, M.G., Friedman, R.M., Joyce, N.,  Camacho, A. and Zagorevski, A."
+MMI16-29-05,-134.4091209,59.85670028,,volcanic,Biotite quartz diorite at Mount Lanning,56.12,0.29,0.29,cooling,Ar-Ar,biotite,Laser step heating,University of Manitoba Geochronology Lab in Winnipeg,BCGS Geofile GF2018-03,"Mihalynuk, M.G., Friedman, R.M., Joyce, N.,  Camacho, A. and Zagorevski, A."
+MMI16-14-9,-134.0404156,59.78379352,,volcanic,Lamprophyre dikes,174,2.7,2.7,cooling,Ar-Ar,hornblende,Laser step heating,University of Manitoba Geochronology Lab in Winnipeg,BCGS Geofile GF2018-03,"Mihalynuk, M.G., Friedman, R.M., Joyce, N.,  Camacho, A. and Zagorevski, A."
+MTS16-24-23,-134.2371496,59.8397605,,volcanic,Lamprophyre dikes,163.6,2.2,2.2,cooling,Ar-Ar,biotite,Laser step heating,University of Manitoba Geochronology Lab in Winnipeg,BCGS Geofile GF2018-03,"Mihalynuk, M.G., Friedman, R.M., Joyce, N.,  Camacho, A. and Zagorevski, A."
+HFBL02-2003,-126.7378427,52.96047943,,volcanic,quarts-dacite lapilli tuff,191,12,12,crystallization,U-Pb,zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geoscience Map GM2006-07,"Haggart, J. W., Diakow, L.J., Mahoney, J.B., Woodsworth, G.J., Struik, L.C., Gordee, S.M., Israel, S., Hooper, R. L., van der Heyden, P., Rusmore, M., Lett, R. E., Ceh, M., Hastings, N.L. and Wagner, C.
+J.W. Haggart, 
+J.W. Haggart, L.J. Diakow, J.B. Mahoney, G.J. Woodsworth, L.C. Struik, S.M Gordee, S. Israel, R.L. Hooper, 
+J.W. Haggart, L.J. Diakow, J.B. Mahoney, G.J. Woodsworth, L.C. Struik, S.M Gordee, S. Israel, R.L. Hooper, P. van"
+HFBM02-3020,-126.725959,52.16771198,,plutonic,tonalite,189,0.8,0.8,crystallization,U-Pb,zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geoscience Map GM2006-07,"Haggart, J. W., Diakow, L.J., Mahoney, J.B., Woodsworth, G.J., Struik, L.C., Gordee, S.M., Israel, S., Hooper, R. L., van der Heyden, P., Rusmore, M., Lett, R. E., Ceh, M., Hastings, N.L. and Wagner, C.
+J.W. Haggart, 
+J.W. Haggart, L.J. Diakow, J.B. Mahoney, G.J. Woodsworth, L.C. Struik, S.M Gordee, S. Israel, R.L. Hooper, 
+J.W. Haggart, L.J. Diakow, J.B. Mahoney, G.J. Woodsworth, L.C. Struik, S.M Gordee, S. Israel, R.L. Hooper, P. van"
+GJP-27,-127.0560071,52.62300023,,plutonic,diorite,182.4,4.7,4.7,crystallization,U-Pb,zircon,LA-ICP-MS,University of Arizona,BCGS Geoscience Map GM2006-07,"Haggart, J. W., Diakow, L.J., Mahoney, J.B., Woodsworth, G.J., Struik, L.C., Gordee, S.M., Israel, S., Hooper, R. L., van der Heyden, P., Rusmore, M., Lett, R. E., Ceh, M., Hastings, N.L. and Wagner, C.
+J.W. Haggart, 
+J.W. Haggart, L.J. Diakow, J.B. Mahoney, G.J. Woodsworth, L.C. Struik, S.M Gordee, S. Israel, R.L. Hooper, 
+J.W. Haggart, L.J. Diakow, J.B. Mahoney, G.J. Woodsworth, L.C. Struik, S.M Gordee, S. Israel, R.L. Hooper, P. van"
+HFBL02-1604-1,-126.5507229,52.29125924,,plutonic,foliated biotite tonalite,181.9,0.8,0.8,crystallization,U-Pb,zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geoscience Map GM2006-07,"Haggart, J. W., Diakow, L.J., Mahoney, J.B., Woodsworth, G.J., Struik, L.C., Gordee, S.M., Israel, S., Hooper, R. L., van der Heyden, P., Rusmore, M., Lett, R. E., Ceh, M., Hastings, N.L. and Wagner, C.
+J.W. Haggart, 
+J.W. Haggart, L.J. Diakow, J.B. Mahoney, G.J. Woodsworth, L.C. Struik, S.M Gordee, S. Israel, R.L. Hooper, 
+J.W. Haggart, L.J. Diakow, J.B. Mahoney, G.J. Woodsworth, L.C. Struik, S.M Gordee, S. Israel, R.L. Hooper, P. van"
+HFB03-0508-1,-126.7421599,52.64901151,,volcanic,quartz-rich crystal lithic tuff,181.6,1,1,crystallization,U-Pb,zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geoscience Map GM2006-07,"Haggart, J. W., Diakow, L.J., Mahoney, J.B., Woodsworth, G.J., Struik, L.C., Gordee, S.M., Israel, S., Hooper, R. L., van der Heyden, P., Rusmore, M., Lett, R. E., Ceh, M., Hastings, N.L. and Wagner, C.
+J.W. Haggart, 
+J.W. Haggart, L.J. Diakow, J.B. Mahoney, G.J. Woodsworth, L.C. Struik, S.M Gordee, S. Israel, R.L. Hooper, 
+J.W. Haggart, L.J. Diakow, J.B. Mahoney, G.J. Woodsworth, L.C. Struik, S.M Gordee, S. Israel, R.L. Hooper, P. van"
+HFBM02-1405-1,-126.5438634,52.97988007,,volcanic,crystal-lithic lapilli tuff,176.5,0.6,0.6,crystallization,U-Pb,zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geoscience Map GM2006-07,"Haggart, J. W., Diakow, L.J., Mahoney, J.B., Woodsworth, G.J., Struik, L.C., Gordee, S.M., Israel, S., Hooper, R. L., van der Heyden, P., Rusmore, M., Lett, R. E., Ceh, M., Hastings, N.L. and Wagner, C.
+J.W. Haggart, 
+J.W. Haggart, L.J. Diakow, J.B. Mahoney, G.J. Woodsworth, L.C. Struik, S.M Gordee, S. Israel, R.L. Hooper, 
+J.W. Haggart, L.J. Diakow, J.B. Mahoney, G.J. Woodsworth, L.C. Struik, S.M Gordee, S. Israel, R.L. Hooper, P. van"
+SCBD01-0605,-126.3795075,52.58070823,,volcanic,aphanitic dacite flow dome,171.6,2.3,2.3,crystallization,U-Pb,zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geoscience Map GM2006-07,"Haggart, J. W., Diakow, L.J., Mahoney, J.B., Woodsworth, G.J., Struik, L.C., Gordee, S.M., Israel, S., Hooper, R. L., van der Heyden, P., Rusmore, M., Lett, R. E., Ceh, M., Hastings, N.L. and Wagner, C.
+J.W. Haggart, 
+J.W. Haggart, L.J. Diakow, J.B. Mahoney, G.J. Woodsworth, L.C. Struik, S.M Gordee, S. Israel, R.L. Hooper, 
+J.W. Haggart, L.J. Diakow, J.B. Mahoney, G.J. Woodsworth, L.C. Struik, S.M Gordee, S. Israel, R.L. Hooper, P. van"
+HFBL02-1404-1,-126.460617,52.57575006,,volcanic,quartz-rhyolite flow,170.2,1.4,1.4,crystallization,U-Pb,zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geoscience Map GM2006-07,"Haggart, J. W., Diakow, L.J., Mahoney, J.B., Woodsworth, G.J., Struik, L.C., Gordee, S.M., Israel, S., Hooper, R. L., van der Heyden, P., Rusmore, M., Lett, R. E., Ceh, M., Hastings, N.L. and Wagner, C.
+J.W. Haggart, 
+J.W. Haggart, L.J. Diakow, J.B. Mahoney, G.J. Woodsworth, L.C. Struik, S.M Gordee, S. Israel, R.L. Hooper, 
+J.W. Haggart, L.J. Diakow, J.B. Mahoney, G.J. Woodsworth, L.C. Struik, S.M Gordee, S. Israel, R.L. Hooper, P. van"
+SCB01-4104/VN01-B05,-126.6960314,52.59363219,,sedimentary,wacke with granitic detritus,180-138 with peak ca. 160,,,maximum depositional,U-Pb,detrital zircon,LA-ICP-MS,Geological Survey of Canada,BCGS Geoscience Map GM2006-07,"Haggart, J. W., Diakow, L.J., Mahoney, J.B., Woodsworth, G.J., Struik, L.C., Gordee, S.M., Israel, S., Hooper, R. L., van der Heyden, P., Rusmore, M., Lett, R. E., Ceh, M., Hastings, N.L. and Wagner, C.
+J.W. Haggart, 
+J.W. Haggart, L.J. Diakow, J.B. Mahoney, G.J. Woodsworth, L.C. Struik, S.M Gordee, S. Israel, R.L. Hooper, 
+J.W. Haggart, L.J. Diakow, J.B. Mahoney, G.J. Woodsworth, L.C. Struik, S.M Gordee, S. Israel, R.L. Hooper, P. van"
+SCBD01-2502,-126.4300752,52.63303781,,volcanic,rhyolite ash-flow tuff,164.7,2,2,crystallization,U-Pb,zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geoscience Map GM2006-07,"Haggart, J. W., Diakow, L.J., Mahoney, J.B., Woodsworth, G.J., Struik, L.C., Gordee, S.M., Israel, S., Hooper, R. L., van der Heyden, P., Rusmore, M., Lett, R. E., Ceh, M., Hastings, N.L. and Wagner, C.
+J.W. Haggart, 
+J.W. Haggart, L.J. Diakow, J.B. Mahoney, G.J. Woodsworth, L.C. Struik, S.M Gordee, S. Israel, R.L. Hooper, 
+J.W. Haggart, L.J. Diakow, J.B. Mahoney, G.J. Woodsworth, L.C. Struik, S.M Gordee, S. Israel, R.L. Hooper, P. van"
+SCB00-0707-1,-126.4133588,52.5851938,,volcanic,Dacitic breccia,163.7,0.4,0.4,crystallization,U-Pb,zircon,LA-ICP-MS,Geological Survey of Canada,BCGS Geoscience Map GM2006-07,"Haggart, J. W., Diakow, L.J., Mahoney, J.B., Woodsworth, G.J., Struik, L.C., Gordee, S.M., Israel, S., Hooper, R. L., van der Heyden, P., Rusmore, M., Lett, R. E., Ceh, M., Hastings, N.L. and Wagner, C.
+J.W. Haggart, 
+J.W. Haggart, L.J. Diakow, J.B. Mahoney, G.J. Woodsworth, L.C. Struik, S.M Gordee, S. Israel, R.L. Hooper, 
+J.W. Haggart, L.J. Diakow, J.B. Mahoney, G.J. Woodsworth, L.C. Struik, S.M Gordee, S. Israel, R.L. Hooper, P. van"
+HFBL02-3001-3,-126.4160614,52.69423155,,plutonic,Biotite granodiorite,162.4,1.3,0.6,crystallization,Ar-Ar,k-fspar,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geoscience Map GM2006-07,"Haggart, J. W., Diakow, L.J., Mahoney, J.B., Woodsworth, G.J., Struik, L.C., Gordee, S.M., Israel, S., Hooper, R. L., van der Heyden, P., Rusmore, M., Lett, R. E., Ceh, M., Hastings, N.L. and Wagner, C.
+J.W. Haggart, 
+J.W. Haggart, L.J. Diakow, J.B. Mahoney, G.J. Woodsworth, L.C. Struik, S.M Gordee, S. Israel, R.L. Hooper, 
+J.W. Haggart, L.J. Diakow, J.B. Mahoney, G.J. Woodsworth, L.C. Struik, S.M Gordee, S. Israel, R.L. Hooper, P. van"
+04-M-213,-126.9697626,52.99337686,,plutonic,Hornblende-biotite granodiorite,149.1,0.5,0.5,crystallization,U-Pb,zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geoscience Map GM2006-07,"Haggart, J. W., Diakow, L.J., Mahoney, J.B., Woodsworth, G.J., Struik, L.C., Gordee, S.M., Israel, S., Hooper, R. L., van der Heyden, P., Rusmore, M., Lett, R. E., Ceh, M., Hastings, N.L. and Wagner, C.
+J.W. Haggart, 
+J.W. Haggart, L.J. Diakow, J.B. Mahoney, G.J. Woodsworth, L.C. Struik, S.M Gordee, S. Israel, R.L. Hooper, 
+J.W. Haggart, L.J. Diakow, J.B. Mahoney, G.J. Woodsworth, L.C. Struik, S.M Gordee, S. Israel, R.L. Hooper, P. van"
+HFBL02-0601-1,-126.6142308,52.81172118,,plutonic,Hornblende-biotite granodiorite,149,1,1,crystallization,U-Pb,zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geoscience Map GM2006-07,"Haggart, J. W., Diakow, L.J., Mahoney, J.B., Woodsworth, G.J., Struik, L.C., Gordee, S.M., Israel, S., Hooper, R. L., van der Heyden, P., Rusmore, M., Lett, R. E., Ceh, M., Hastings, N.L. and Wagner, C.
+J.W. Haggart, 
+J.W. Haggart, L.J. Diakow, J.B. Mahoney, G.J. Woodsworth, L.C. Struik, S.M Gordee, S. Israel, R.L. Hooper, 
+J.W. Haggart, L.J. Diakow, J.B. Mahoney, G.J. Woodsworth, L.C. Struik, S.M Gordee, S. Israel, R.L. Hooper, P. van"
+HFBL02-3004-2,-126.556607,52.69180902,,plutonic,K-mega granodiorite,148.6,0.6,0.6,crystallization,U-Pb,zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geoscience Map GM2006-07,"Haggart, J. W., Diakow, L.J., Mahoney, J.B., Woodsworth, G.J., Struik, L.C., Gordee, S.M., Israel, S., Hooper, R. L., van der Heyden, P., Rusmore, M., Lett, R. E., Ceh, M., Hastings, N.L. and Wagner, C.
+J.W. Haggart, 
+J.W. Haggart, L.J. Diakow, J.B. Mahoney, G.J. Woodsworth, L.C. Struik, S.M Gordee, S. Israel, R.L. Hooper, 
+J.W. Haggart, L.J. Diakow, J.B. Mahoney, G.J. Woodsworth, L.C. Struik, S.M Gordee, S. Israel, R.L. Hooper, P. van"
+SCBM01-1405-1,-126.7815127,52.66191194,,plutonic,Quartz-phyric granodiorite,141,1,1,cooling,Ar-Ar,hornblende/biotite,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geoscience Map GM2006-07,"Haggart, J. W., Diakow, L.J., Mahoney, J.B., Woodsworth, G.J., Struik, L.C., Gordee, S.M., Israel, S., Hooper, R. L., van der Heyden, P., Rusmore, M., Lett, R. E., Ceh, M., Hastings, N.L. and Wagner, C.
+J.W. Haggart, 
+J.W. Haggart, L.J. Diakow, J.B. Mahoney, G.J. Woodsworth, L.C. Struik, S.M Gordee, S. Israel, R.L. Hooper, 
+J.W. Haggart, L.J. Diakow, J.B. Mahoney, G.J. Woodsworth, L.C. Struik, S.M Gordee, S. Israel, R.L. Hooper, P. van"
+SCBD01-1803-2,-126.8116888,52.45103074,,volcanic,Quartz-phyric rhyolite dyke,140,1,1,crystallization,U-Pb,zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geoscience Map GM2006-07,"Haggart, J. W., Diakow, L.J., Mahoney, J.B., Woodsworth, G.J., Struik, L.C., Gordee, S.M., Israel, S., Hooper, R. L., van der Heyden, P., Rusmore, M., Lett, R. E., Ceh, M., Hastings, N.L. and Wagner, C.
+J.W. Haggart, 
+J.W. Haggart, L.J. Diakow, J.B. Mahoney, G.J. Woodsworth, L.C. Struik, S.M Gordee, S. Israel, R.L. Hooper, 
+J.W. Haggart, L.J. Diakow, J.B. Mahoney, G.J. Woodsworth, L.C. Struik, S.M Gordee, S. Israel, R.L. Hooper, P. van"
+HFBWV02-0905,-126.51809,52.17110047,,plutonic,Tonalite,118.8,0.4,0.4,crystallization,U-Pb,zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geoscience Map GM2006-07,"Haggart, J. W., Diakow, L.J., Mahoney, J.B., Woodsworth, G.J., Struik, L.C., Gordee, S.M., Israel, S., Hooper, R. L., van der Heyden, P., Rusmore, M., Lett, R. E., Ceh, M., Hastings, N.L. and Wagner, C.
+J.W. Haggart, 
+J.W. Haggart, L.J. Diakow, J.B. Mahoney, G.J. Woodsworth, L.C. Struik, S.M Gordee, S. Israel, R.L. Hooper, 
+J.W. Haggart, L.J. Diakow, J.B. Mahoney, G.J. Woodsworth, L.C. Struik, S.M Gordee, S. Israel, R.L. Hooper, P. van"
+SCBD01-0402,-126.3822564,52.56629109,,volcanic,Rhyodacite lapilli tuff,>113,,,crystallization,U-Pb,zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geoscience Map GM2006-07,"Haggart, J. W., Diakow, L.J., Mahoney, J.B., Woodsworth, G.J., Struik, L.C., Gordee, S.M., Israel, S., Hooper, R. L., van der Heyden, P., Rusmore, M., Lett, R. E., Ceh, M., Hastings, N.L. and Wagner, C.
+J.W. Haggart, 
+J.W. Haggart, L.J. Diakow, J.B. Mahoney, G.J. Woodsworth, L.C. Struik, S.M Gordee, S. Israel, R.L. Hooper, 
+J.W. Haggart, L.J. Diakow, J.B. Mahoney, G.J. Woodsworth, L.C. Struik, S.M Gordee, S. Israel, R.L. Hooper, P. van"
+79-JBM-05,-126.4903961,52.478674,,volcanic,Welded tuff,112.8,1.5,1.5,crystallization,U-Pb,zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geoscience Map GM2006-07,"Haggart, J. W., Diakow, L.J., Mahoney, J.B., Woodsworth, G.J., Struik, L.C., Gordee, S.M., Israel, S., Hooper, R. L., van der Heyden, P., Rusmore, M., Lett, R. E., Ceh, M., Hastings, N.L. and Wagner, C.
+J.W. Haggart, 
+J.W. Haggart, L.J. Diakow, J.B. Mahoney, G.J. Woodsworth, L.C. Struik, S.M Gordee, S. Israel, R.L. Hooper, 
+J.W. Haggart, L.J. Diakow, J.B. Mahoney, G.J. Woodsworth, L.C. Struik, S.M Gordee, S. Israel, R.L. Hooper, P. van"
+SCBD01-2803-1,-126.9503813,52.49168625,,volcanic,Hornblende andesite tuff,110.6 (considered unreliable),2.6,2.6,cooling,Ar-Ar,hornblende,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geoscience Map GM2006-07,"Haggart, J. W., Diakow, L.J., Mahoney, J.B., Woodsworth, G.J., Struik, L.C., Gordee, S.M., Israel, S., Hooper, R. L., van der Heyden, P., Rusmore, M., Lett, R. E., Ceh, M., Hastings, N.L. and Wagner, C.
+J.W. Haggart, 
+J.W. Haggart, L.J. Diakow, J.B. Mahoney, G.J. Woodsworth, L.C. Struik, S.M Gordee, S. Israel, R.L. Hooper, 
+J.W. Haggart, L.J. Diakow, J.B. Mahoney, G.J. Woodsworth, L.C. Struik, S.M Gordee, S. Israel, R.L. Hooper, P. van"
+HFBWV02-0803-2,-126.1279238,52.32474246,,plutonic,Granite,110.3,0.5,0.5,crystallization,U-Pb,zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geoscience Map GM2006-07,"Haggart, J. W., Diakow, L.J., Mahoney, J.B., Woodsworth, G.J., Struik, L.C., Gordee, S.M., Israel, S., Hooper, R. L., van der Heyden, P., Rusmore, M., Lett, R. E., Ceh, M., Hastings, N.L. and Wagner, C.
+J.W. Haggart, 
+J.W. Haggart, L.J. Diakow, J.B. Mahoney, G.J. Woodsworth, L.C. Struik, S.M Gordee, S. Israel, R.L. Hooper, 
+J.W. Haggart, L.J. Diakow, J.B. Mahoney, G.J. Woodsworth, L.C. Struik, S.M Gordee, S. Israel, R.L. Hooper, P. van"
+SCBD01-0406,-126.3946535,52.56303963,,volcanic,Augite-hornblende phyric andesite,104.6,2.5,2.5,cooling,Ar-Ar,hornblende,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geoscience Map GM2006-07,"Haggart, J. W., Diakow, L.J., Mahoney, J.B., Woodsworth, G.J., Struik, L.C., Gordee, S.M., Israel, S., Hooper, R. L., van der Heyden, P., Rusmore, M., Lett, R. E., Ceh, M., Hastings, N.L. and Wagner, C.
+J.W. Haggart, 
+J.W. Haggart, L.J. Diakow, J.B. Mahoney, G.J. Woodsworth, L.C. Struik, S.M Gordee, S. Israel, R.L. Hooper, 
+J.W. Haggart, L.J. Diakow, J.B. Mahoney, G.J. Woodsworth, L.C. Struik, S.M Gordee, S. Israel, R.L. Hooper, P. van"
+HFBL02-1704-1,-126.5573888,52.30736815,,plutonic,Biotite tonalite,95.1,0.76,0.76,cooling,Ar-Ar,biotite,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geoscience Map GM2006-07,"Haggart, J. W., Diakow, L.J., Mahoney, J.B., Woodsworth, G.J., Struik, L.C., Gordee, S.M., Israel, S., Hooper, R. L., van der Heyden, P., Rusmore, M., Lett, R. E., Ceh, M., Hastings, N.L. and Wagner, C.
+J.W. Haggart, 
+J.W. Haggart, L.J. Diakow, J.B. Mahoney, G.J. Woodsworth, L.C. Struik, S.M Gordee, S. Israel, R.L. Hooper, 
+J.W. Haggart, L.J. Diakow, J.B. Mahoney, G.J. Woodsworth, L.C. Struik, S.M Gordee, S. Israel, R.L. Hooper, P. van"
+HFB02-0101-2,-126.644417,52.3108992,,plutonic,Biotite granodiorite,86.9,0.9,0.9,crystallization,U-Pb,zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geoscience Map GM2006-07,"Haggart, J. W., Diakow, L.J., Mahoney, J.B., Woodsworth, G.J., Struik, L.C., Gordee, S.M., Israel, S., Hooper, R. L., van der Heyden, P., Rusmore, M., Lett, R. E., Ceh, M., Hastings, N.L. and Wagner, C.
+J.W. Haggart, 
+J.W. Haggart, L.J. Diakow, J.B. Mahoney, G.J. Woodsworth, L.C. Struik, S.M Gordee, S. Israel, R.L. Hooper, 
+J.W. Haggart, L.J. Diakow, J.B. Mahoney, G.J. Woodsworth, L.C. Struik, S.M Gordee, S. Israel, R.L. Hooper, P. van"
+GJP-23,-127.2469936,52.5480007,,plutonic,2-mica granite,82.8,2.8,2.8,crystallization,U-Pb,zircon,LA-ICP-MS,University of Arizona,BCGS Geoscience Map GM2006-07,"Haggart, J. W., Diakow, L.J., Mahoney, J.B., Woodsworth, G.J., Struik, L.C., Gordee, S.M., Israel, S., Hooper, R. L., van der Heyden, P., Rusmore, M., Lett, R. E., Ceh, M., Hastings, N.L. and Wagner, C.
+J.W. Haggart, 
+J.W. Haggart, L.J. Diakow, J.B. Mahoney, G.J. Woodsworth, L.C. Struik, S.M Gordee, S. Israel, R.L. Hooper, 
+J.W. Haggart, L.J. Diakow, J.B. Mahoney, G.J. Woodsworth, L.C. Struik, S.M Gordee, S. Israel, R.L. Hooper, P. van"
+SCB00-0505-1,-126.3505493,52.21661047,,plutonic,Granodiorite to quartz diorite,79,4,6,crystallization,U-Pb,zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geoscience Map GM2006-07,"Haggart, J. W., Diakow, L.J., Mahoney, J.B., Woodsworth, G.J., Struik, L.C., Gordee, S.M., Israel, S., Hooper, R. L., van der Heyden, P., Rusmore, M., Lett, R. E., Ceh, M., Hastings, N.L. and Wagner, C.
+J.W. Haggart, 
+J.W. Haggart, L.J. Diakow, J.B. Mahoney, G.J. Woodsworth, L.C. Struik, S.M Gordee, S. Israel, R.L. Hooper, 
+J.W. Haggart, L.J. Diakow, J.B. Mahoney, G.J. Woodsworth, L.C. Struik, S.M Gordee, S. Israel, R.L. Hooper, P. van"
+SCB01-1401-1,-126.6109071,52.54747875,,volcanic,Basalt flows,77.7,1.8,1.8,cooling,Ar-Ar,hornblende,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geoscience Map GM2006-07,"Haggart, J. W., Diakow, L.J., Mahoney, J.B., Woodsworth, G.J., Struik, L.C., Gordee, S.M., Israel, S., Hooper, R. L., van der Heyden, P., Rusmore, M., Lett, R. E., Ceh, M., Hastings, N.L. and Wagner, C.
+J.W. Haggart, 
+J.W. Haggart, L.J. Diakow, J.B. Mahoney, G.J. Woodsworth, L.C. Struik, S.M Gordee, S. Israel, R.L. Hooper, 
+J.W. Haggart, L.J. Diakow, J.B. Mahoney, G.J. Woodsworth, L.C. Struik, S.M Gordee, S. Israel, R.L. Hooper, P. van"
+GJP-9,-126.924002,52.34699732,,plutonic,Diorite,77.3,1.7,1.7,crystallization,U-Pb,zircon,LA-ICP-MS,University of Arizona,BCGS Geoscience Map GM2006-07,"Haggart, J. W., Diakow, L.J., Mahoney, J.B., Woodsworth, G.J., Struik, L.C., Gordee, S.M., Israel, S., Hooper, R. L., van der Heyden, P., Rusmore, M., Lett, R. E., Ceh, M., Hastings, N.L. and Wagner, C.
+J.W. Haggart, 
+J.W. Haggart, L.J. Diakow, J.B. Mahoney, G.J. Woodsworth, L.C. Struik, S.M Gordee, S. Israel, R.L. Hooper, 
+J.W. Haggart, L.J. Diakow, J.B. Mahoney, G.J. Woodsworth, L.C. Struik, S.M Gordee, S. Israel, R.L. Hooper, P. van"
+SCBM01-1802-1,-126.7502376,52.49037738,,plutonic,Hornblende-biotite tonalite,76.34,0.52,0.52,cooling,Ar-Ar,hornblende,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geoscience Map GM2006-07,"Haggart, J. W., Diakow, L.J., Mahoney, J.B., Woodsworth, G.J., Struik, L.C., Gordee, S.M., Israel, S., Hooper, R. L., van der Heyden, P., Rusmore, M., Lett, R. E., Ceh, M., Hastings, N.L. and Wagner, C.
+J.W. Haggart, 
+J.W. Haggart, L.J. Diakow, J.B. Mahoney, G.J. Woodsworth, L.C. Struik, S.M Gordee, S. Israel, R.L. Hooper, 
+J.W. Haggart, L.J. Diakow, J.B. Mahoney, G.J. Woodsworth, L.C. Struik, S.M Gordee, S. Israel, R.L. Hooper, P. van"
+HFBM02-2507-1,-126.712216,52.45151256,,plutonic,Fougner plutonic suite,75.3,0.5,0.5,crystallization,U-Pb,zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geoscience Map GM2006-07,"Haggart, J. W., Diakow, L.J., Mahoney, J.B., Woodsworth, G.J., Struik, L.C., Gordee, S.M., Israel, S., Hooper, R. L., van der Heyden, P., Rusmore, M., Lett, R. E., Ceh, M., Hastings, N.L. and Wagner, C.
+J.W. Haggart, 
+J.W. Haggart, L.J. Diakow, J.B. Mahoney, G.J. Woodsworth, L.C. Struik, S.M Gordee, S. Israel, R.L. Hooper, 
+J.W. Haggart, L.J. Diakow, J.B. Mahoney, G.J. Woodsworth, L.C. Struik, S.M Gordee, S. Israel, R.L. Hooper, P. van"
+SCB00-0710-1,-126.6312808,52.41613465,,plutonic,Garnet-muscovite granite,72.1,0.2,1,crystallization,U-Pb,zircon,LA-ICP-MS,Geological Survey of Canada,BCGS Geoscience Map GM2006-07,"Haggart, J. W., Diakow, L.J., Mahoney, J.B., Woodsworth, G.J., Struik, L.C., Gordee, S.M., Israel, S., Hooper, R. L., van der Heyden, P., Rusmore, M., Lett, R. E., Ceh, M., Hastings, N.L. and Wagner, C.
+J.W. Haggart, 
+J.W. Haggart, L.J. Diakow, J.B. Mahoney, G.J. Woodsworth, L.C. Struik, S.M Gordee, S. Israel, R.L. Hooper, 
+J.W. Haggart, L.J. Diakow, J.B. Mahoney, G.J. Woodsworth, L.C. Struik, S.M Gordee, S. Israel, R.L. Hooper, P. van"
+01JBM03,-126.5598655,52.37991687,,plutonic,Garnet 2-mica granite,72,0.3,0.3,crystallization,U-Pb,zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geoscience Map GM2006-07,"Haggart, J. W., Diakow, L.J., Mahoney, J.B., Woodsworth, G.J., Struik, L.C., Gordee, S.M., Israel, S., Hooper, R. L., van der Heyden, P., Rusmore, M., Lett, R. E., Ceh, M., Hastings, N.L. and Wagner, C.
+J.W. Haggart, 
+J.W. Haggart, L.J. Diakow, J.B. Mahoney, G.J. Woodsworth, L.C. Struik, S.M Gordee, S. Israel, R.L. Hooper, 
+J.W. Haggart, L.J. Diakow, J.B. Mahoney, G.J. Woodsworth, L.C. Struik, S.M Gordee, S. Israel, R.L. Hooper, P. van"
+HFBM02-0301-3,-126.0565106,52.05983927,,plutonic,Biotite tonalite,70.18,0.6,0.6,cooling,Ar-Ar,hornblende,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geoscience Map GM2006-07,"Haggart, J. W., Diakow, L.J., Mahoney, J.B., Woodsworth, G.J., Struik, L.C., Gordee, S.M., Israel, S., Hooper, R. L., van der Heyden, P., Rusmore, M., Lett, R. E., Ceh, M., Hastings, N.L. and Wagner, C.
+J.W. Haggart, 
+J.W. Haggart, L.J. Diakow, J.B. Mahoney, G.J. Woodsworth, L.C. Struik, S.M Gordee, S. Israel, R.L. Hooper, 
+J.W. Haggart, L.J. Diakow, J.B. Mahoney, G.J. Woodsworth, L.C. Struik, S.M Gordee, S. Israel, R.L. Hooper, P. van"
+HFBL02-2201-1,-126.8034346,52.28698819,,plutonic,Biotite tonalite,68.2,1,1,crystallization,U-Pb,zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geoscience Map GM2006-07,"Haggart, J. W., Diakow, L.J., Mahoney, J.B., Woodsworth, G.J., Struik, L.C., Gordee, S.M., Israel, S., Hooper, R. L., van der Heyden, P., Rusmore, M., Lett, R. E., Ceh, M., Hastings, N.L. and Wagner, C.
+J.W. Haggart, 
+J.W. Haggart, L.J. Diakow, J.B. Mahoney, G.J. Woodsworth, L.C. Struik, S.M Gordee, S. Israel, R.L. Hooper, 
+J.W. Haggart, L.J. Diakow, J.B. Mahoney, G.J. Woodsworth, L.C. Struik, S.M Gordee, S. Israel, R.L. Hooper, P. van"
+HFBG02-1003-1,-126.7967609,52.48058879,,plutonic,"Muscovite-biotite granite, trace muscovite",67.2,0.3,0.3,cooling,Ar-Ar,biotite,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geoscience Map GM2006-07,"Haggart, J. W., Diakow, L.J., Mahoney, J.B., Woodsworth, G.J., Struik, L.C., Gordee, S.M., Israel, S., Hooper, R. L., van der Heyden, P., Rusmore, M., Lett, R. E., Ceh, M., Hastings, N.L. and Wagner, C.
+J.W. Haggart, 
+J.W. Haggart, L.J. Diakow, J.B. Mahoney, G.J. Woodsworth, L.C. Struik, S.M Gordee, S. Israel, R.L. Hooper, 
+J.W. Haggart, L.J. Diakow, J.B. Mahoney, G.J. Woodsworth, L.C. Struik, S.M Gordee, S. Israel, R.L. Hooper, P. van"
+GJP-22,-127.2229988,52.53699723,,plutonic,Diorite,61.5,1.7,1.7,crystallization,U-Pb,zircon,LA-ICP-MS,University of Arizona,BCGS Geoscience Map GM2006-07,"Haggart, J. W., Diakow, L.J., Mahoney, J.B., Woodsworth, G.J., Struik, L.C., Gordee, S.M., Israel, S., Hooper, R. L., van der Heyden, P., Rusmore, M., Lett, R. E., Ceh, M., Hastings, N.L. and Wagner, C.
+J.W. Haggart, 
+J.W. Haggart, L.J. Diakow, J.B. Mahoney, G.J. Woodsworth, L.C. Struik, S.M Gordee, S. Israel, R.L. Hooper, 
+J.W. Haggart, L.J. Diakow, J.B. Mahoney, G.J. Woodsworth, L.C. Struik, S.M Gordee, S. Israel, R.L. Hooper, P. van"
+GJP-12,-127.1629937,52.31499827,,plutonic,Tonalite,58.4,1.9,1.9,crystallization,U-Pb,zircon,LA-ICP-MS,University of Arizona,BCGS Geoscience Map GM2006-07,"Haggart, J. W., Diakow, L.J., Mahoney, J.B., Woodsworth, G.J., Struik, L.C., Gordee, S.M., Israel, S., Hooper, R. L., van der Heyden, P., Rusmore, M., Lett, R. E., Ceh, M., Hastings, N.L. and Wagner, C.
+J.W. Haggart, 
+J.W. Haggart, L.J. Diakow, J.B. Mahoney, G.J. Woodsworth, L.C. Struik, S.M Gordee, S. Israel, R.L. Hooper, 
+J.W. Haggart, L.J. Diakow, J.B. Mahoney, G.J. Woodsworth, L.C. Struik, S.M Gordee, S. Israel, R.L. Hooper, P. van"
+HFBW02-1203-1,-126.7618531,52.76034284,,plutonic,Biotite tonalite,53,0.2,0.2,cooling,Ar-Ar,biotite,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geoscience Map GM2006-07,"Haggart, J. W., Diakow, L.J., Mahoney, J.B., Woodsworth, G.J., Struik, L.C., Gordee, S.M., Israel, S., Hooper, R. L., van der Heyden, P., Rusmore, M., Lett, R. E., Ceh, M., Hastings, N.L. and Wagner, C.
+J.W. Haggart, 
+J.W. Haggart, L.J. Diakow, J.B. Mahoney, G.J. Woodsworth, L.C. Struik, S.M Gordee, S. Israel, R.L. Hooper, 
+J.W. Haggart, L.J. Diakow, J.B. Mahoney, G.J. Woodsworth, L.C. Struik, S.M Gordee, S. Israel, R.L. Hooper, P. van"
+HFBL02-0903,-126.5861298,52.8857488,,volcanic,Biotite-quartz rhyolite flow dome,53,0.1,0.1,crystallization,U-Pb,zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geoscience Map GM2006-07,"Haggart, J. W., Diakow, L.J., Mahoney, J.B., Woodsworth, G.J., Struik, L.C., Gordee, S.M., Israel, S., Hooper, R. L., van der Heyden, P., Rusmore, M., Lett, R. E., Ceh, M., Hastings, N.L. and Wagner, C.
+J.W. Haggart, 
+J.W. Haggart, L.J. Diakow, J.B. Mahoney, G.J. Woodsworth, L.C. Struik, S.M Gordee, S. Israel, R.L. Hooper, 
+J.W. Haggart, L.J. Diakow, J.B. Mahoney, G.J. Woodsworth, L.C. Struik, S.M Gordee, S. Israel, R.L. Hooper, P. van"
+GJP-16,-127.2170015,52.38499782,,plutonic,2-mica granite,52.7,1.5,1.5,crystallization,U-Pb,zircon,LA-ICP-MS,University of Arizona,BCGS Geoscience Map GM2006-07,"Haggart, J. W., Diakow, L.J., Mahoney, J.B., Woodsworth, G.J., Struik, L.C., Gordee, S.M., Israel, S., Hooper, R. L., van der Heyden, P., Rusmore, M., Lett, R. E., Ceh, M., Hastings, N.L. and Wagner, C.
+J.W. Haggart, 
+J.W. Haggart, L.J. Diakow, J.B. Mahoney, G.J. Woodsworth, L.C. Struik, S.M Gordee, S. Israel, R.L. Hooper, 
+J.W. Haggart, L.J. Diakow, J.B. Mahoney, G.J. Woodsworth, L.C. Struik, S.M Gordee, S. Israel, R.L. Hooper, P. van"
+HFBL02-1201-1,-126.6535562,52.93474724,,plutonic,Quartz biotite granitoid dyke,52.52,0.49,0.49,cooling,Ar-Ar,biotite,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geoscience Map GM2006-07,"Haggart, J. W., Diakow, L.J., Mahoney, J.B., Woodsworth, G.J., Struik, L.C., Gordee, S.M., Israel, S., Hooper, R. L., van der Heyden, P., Rusmore, M., Lett, R. E., Ceh, M., Hastings, N.L. and Wagner, C.
+J.W. Haggart, 
+J.W. Haggart, L.J. Diakow, J.B. Mahoney, G.J. Woodsworth, L.C. Struik, S.M Gordee, S. Israel, R.L. Hooper, 
+J.W. Haggart, L.J. Diakow, J.B. Mahoney, G.J. Woodsworth, L.C. Struik, S.M Gordee, S. Israel, R.L. Hooper, P. van"
+HFBW02-0201-2,-127.0789637,52.36591207,,plutonic,Muscovite-biotite granite,51.9,0.2,0.2,cooling,Ar-Ar,biotite,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geoscience Map GM2006-07,"Haggart, J. W., Diakow, L.J., Mahoney, J.B., Woodsworth, G.J., Struik, L.C., Gordee, S.M., Israel, S., Hooper, R. L., van der Heyden, P., Rusmore, M., Lett, R. E., Ceh, M., Hastings, N.L. and Wagner, C.
+J.W. Haggart, 
+J.W. Haggart, L.J. Diakow, J.B. Mahoney, G.J. Woodsworth, L.C. Struik, S.M Gordee, S. Israel, R.L. Hooper, 
+J.W. Haggart, L.J. Diakow, J.B. Mahoney, G.J. Woodsworth, L.C. Struik, S.M Gordee, S. Israel, R.L. Hooper, P. van"
+11BVA31-232,-129.3599488,58.05262757,,plutonic,hornblende-bearing biotite monzogranite,169.1,0.8,0.8,crystallization,U-Pb,zircon,LA-ICP-MS,University of Washington,BCGS Open File OF2012-06,"van Straaten, B.I., Logan, J.M. and Diakow, L. J.
+B.I. van Straaten, J.M. Logan, and L.J. Diakow"
+11BVA35-276,-129.3283953,58.09445226,,plutonic,hornblende-bearing biotite quartz monzonite to monzogranite,169,1.1,1.1,cooling,U-Pb,zircon,LA-ICP-MS,University of Washington,BCGS Open File OF2012-06,"van Straaten, B.I., Logan, J.M. and Diakow, L. J.
+B.I. van Straaten, J.M. Logan, and L.J. Diakow"
+11BVA42-329,-129.5610928,58.17560154,,plutonic,Acicular hornblende-rich quartz diorite,171.9,1.7,1.7,cooling,Ar-Ar,hornblende,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Open File OF2012-06,"van Straaten, B.I., Logan, J.M. and Diakow, L. J.
+B.I. van Straaten, J.M. Logan, and L.J. Diakow"
+11BVA42-332,-129.3424649,58.06514286,,plutonic,Fine grained hornblende-biotite quartz diorite,173.2,1.4,1.4,cooling,Ar-Ar,hornblende,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Open File OF2012-06,"van Straaten, B.I., Logan, J.M. and Diakow, L. J.
+B.I. van Straaten, J.M. Logan, and L.J. Diakow"
+11BVA27-199,-129.6260307,57.9872577,,plutonic,Cpx-bearing hornblende-rich gabbro,210.9,1.6,1.6,cooling,Ar-Ar,hornblende,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Open File OF2012-06,"van Straaten, B.I., Logan, J.M. and Diakow, L. J.
+B.I. van Straaten, J.M. Logan, and L.J. Diakow"
+11JLO32-319,-129.8206907,58.25226925,,plutonic,Plag-porphyritic hypabyssal intrusion (DDL G-89-8 55.47 - 60.05 m),216.5,1.4,1.4,crystallization,U-Pb,zircon,LA-ICP-MS,University of Washington,BCGS Open File OF2012-06,"van Straaten, B.I., Logan, J.M. and Diakow, L. J.
+B.I. van Straaten, J.M. Logan, and L.J. Diakow"
+11BVA38-304,-129.3162056,58.10093214,,plutonic,hornblende-bearing granodiorite to monzogranite,216.2,1.2,1.2,crystallization,U-Pb,zircon,LA-ICP-MS,University of Washington,BCGS Open File OF2012-06,"van Straaten, B.I., Logan, J.M. and Diakow, L. J.
+B.I. van Straaten, J.M. Logan, and L.J. Diakow"
+11BVA42-333,-129.6146098,58.02052985,,plutonic,hornblende quartz-monzonite,220.2,2.2,2.2,cooling,U-Pb,zircon,LA-ICP-MS,University of Washington,BCGS Open File OF2012-06,"van Straaten, B.I., Logan, J.M. and Diakow, L. J.
+B.I. van Straaten, J.M. Logan, and L.J. Diakow"
+00PSC-388,-120.2430874,51.39952483,,plutonic,hornblende-biotite granodiorite,192.7,0.9,0.9,crystallization,U-Pb,zircon,CA-ID-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Open File OF2013-05,"Schiarizza, P., Israel, S., Heffernan, S., Boulton, A., Bligh, J., Bell, K., Bayliss, S., Macauley, J., Bluemel, B., Zuber, J., Friedman, R.M., Orchard, M.J. and Poulton, T.P."
+01PSC-161,-120.4019726,51.53072578,,plutonic,leucocratic gabbro,197.8,1.4,1.4,crystallization,U-Pb,zircon,SHRIMP,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Open File OF2013-05,"Schiarizza, P., Israel, S., Heffernan, S., Boulton, A., Bligh, J., Bell, K., Bayliss, S., Macauley, J., Bluemel, B., Zuber, J., Friedman, R.M., Orchard, M.J. and Poulton, T.P."
+01PSC-296,-120.2924183,51.43848681,,plutonic,hornblende-biotite quartz monzodiorite,195.3,0.6,0.6,crystallization,U-Pb,zircon,CA-ID-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Open File OF2013-05,"Schiarizza, P., Israel, S., Heffernan, S., Boulton, A., Bligh, J., Bell, K., Bayliss, S., Macauley, J., Bluemel, B., Zuber, J., Friedman, R.M., Orchard, M.J. and Poulton, T.P."
+01PSC-341,-120.4833832,51.47742416,,plutonic,hornblende-biotite granodiorite,195,2,2,crystallization,U-Pb,zircon,SHRIMP,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Open File OF2013-05,"Schiarizza, P., Israel, S., Heffernan, S., Boulton, A., Bligh, J., Bell, K., Bayliss, S., Macauley, J., Bluemel, B., Zuber, J., Friedman, R.M., Orchard, M.J. and Poulton, T.P."
+01SHE-291,-120.2535281,51.75367336,,plutonic,biotite monzodiorite,105.5,0.5,0.5,crystallization,U-Pb,zircon,CA-ID-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Open File OF2013-05,"Schiarizza, P., Israel, S., Heffernan, S., Boulton, A., Bligh, J., Bell, K., Bayliss, S., Macauley, J., Bluemel, B., Zuber, J., Friedman, R.M., Orchard, M.J. and Poulton, T.P."
+01SHE-338,-120.2784689,51.54567805,,volcanic,flow-banded rhyolite dike,107.6,0.4,0.4,crystallization,U-Pb,zircon,CA-ID-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Open File OF2013-05,"Schiarizza, P., Israel, S., Heffernan, S., Boulton, A., Bligh, J., Bell, K., Bayliss, S., Macauley, J., Bluemel, B., Zuber, J., Friedman, R.M., Orchard, M.J. and Poulton, T.P."
+05PSC-47,-120.8073201,51.99577083,,plutonic,hornblende-biotite quartz monzodiorite,202.5,0.5,0.5,crystallization,U-Pb,zircon,CA-ID-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Open File OF2013-05,"Schiarizza, P., Israel, S., Heffernan, S., Boulton, A., Bligh, J., Bell, K., Bayliss, S., Macauley, J., Bluemel, B., Zuber, J., Friedman, R.M., Orchard, M.J. and Poulton, T.P."
+05PSC-115,-120.649992,51.99900353,,plutonic,biotite-hornblende monzodiorite to granodiorite,104.9,1.9,1.9,crystallization,U-Pb,zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Open File OF2013-05,"Schiarizza, P., Israel, S., Heffernan, S., Boulton, A., Bligh, J., Bell, K., Bayliss, S., Macauley, J., Bluemel, B., Zuber, J., Friedman, R.M., Orchard, M.J. and Poulton, T.P."
+05PSC-323,-120.5011176,51.85223656,,plutonic,diorite,184,0.4,0.4,crystallization,U-Pb,zircon,CA-ID-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Open File OF2013-05,"Schiarizza, P., Israel, S., Heffernan, S., Boulton, A., Bligh, J., Bell, K., Bayliss, S., Macauley, J., Bluemel, B., Zuber, J., Friedman, R.M., Orchard, M.J. and Poulton, T.P."
+05PSC-372,-120.5592665,51.83420377,,plutonic,hornblende-biotite quartz monzodiorite,108.3,0.6,0.6,crystallization,U-Pb,zircon,CA-ID-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Open File OF2013-05,"Schiarizza, P., Israel, S., Heffernan, S., Boulton, A., Bligh, J., Bell, K., Bayliss, S., Macauley, J., Bluemel, B., Zuber, J., Friedman, R.M., Orchard, M.J. and Poulton, T.P."
+05PSC-373,-120.8470916,51.80909862,,plutonic,hornblende-biotite monzonite to quartz monzonite,196.3,0.6,0.6,crystallization,U-Pb,zircon,CA-ID-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Open File OF2013-05,"Schiarizza, P., Israel, S., Heffernan, S., Boulton, A., Bligh, J., Bell, K., Bayliss, S., Macauley, J., Bluemel, B., Zuber, J., Friedman, R.M., Orchard, M.J. and Poulton, T.P."
+05PSC-374,-120.9809398,51.95553302,,plutonic,k-spar porphyritic hornblende-biotite monzodiorite,195,0.4,0.4,crystallization,U-Pb,zircon,CA-ID-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Open File OF2013-05,"Schiarizza, P., Israel, S., Heffernan, S., Boulton, A., Bligh, J., Bell, K., Bayliss, S., Macauley, J., Bluemel, B., Zuber, J., Friedman, R.M., Orchard, M.J. and Poulton, T.P."
+05PSC-375,-120.8547312,51.93708676,,plutonic,diorite,190.4,0.5,0.5,crystallization,U-Pb,titanite,CA-ID-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Open File OF2013-05,"Schiarizza, P., Israel, S., Heffernan, S., Boulton, A., Bligh, J., Bell, K., Bayliss, S., Macauley, J., Bluemel, B., Zuber, J., Friedman, R.M., Orchard, M.J. and Poulton, T.P."
+06PSC-281,-120.5201061,52.04958648,,plutonic,muscovite-biotite-garnet granite,106.4,0.2,0.2,crystallization,U-Pb,zircon,CA-ID-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Open File OF2013-05,"Schiarizza, P., Israel, S., Heffernan, S., Boulton, A., Bligh, J., Bell, K., Bayliss, S., Macauley, J., Bluemel, B., Zuber, J., Friedman, R.M., Orchard, M.J. and Poulton, T.P."
+06PSC-294,-120.8910657,52.0639972,,plutonic,hornblende-biotite granodiorite,199.5,0.3,0.3,crystallization,U-Pb,zircon,CA-ID-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Open File OF2013-05,"Schiarizza, P., Israel, S., Heffernan, S., Boulton, A., Bligh, J., Bell, K., Bayliss, S., Macauley, J., Bluemel, B., Zuber, J., Friedman, R.M., Orchard, M.J. and Poulton, T.P."
+06PSC-298,-120.9729441,52.20171024,,plutonic,hornblende-biotite quartz monzodiorite,199.6,0.3,0.3,crystallization,U-Pb,zircon,CA-ID-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Open File OF2013-05,"Schiarizza, P., Israel, S., Heffernan, S., Boulton, A., Bligh, J., Bell, K., Bayliss, S., Macauley, J., Bluemel, B., Zuber, J., Friedman, R.M., Orchard, M.J. and Poulton, T.P."
+07PSC-114,-121.3213806,51.98020371,,plutonic,pyroxene-biotite monzodiorite,205,0.3,0.3,crystallization,U-Pb,zircon,CA-ID-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Open File OF2013-05,"Schiarizza, P., Israel, S., Heffernan, S., Boulton, A., Bligh, J., Bell, K., Bayliss, S., Macauley, J., Bluemel, B., Zuber, J., Friedman, R.M., Orchard, M.J. and Poulton, T.P."
+07PSC-282,-121.3293175,51.99309408,,plutonic,pyroxene-biotite monzodiorite,203.6,0.3,0.3,crystallization,U-Pb,zircon,CA-ID-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Open File OF2013-05,"Schiarizza, P., Israel, S., Heffernan, S., Boulton, A., Bligh, J., Bell, K., Bayliss, S., Macauley, J., Bluemel, B., Zuber, J., Friedman, R.M., Orchard, M.J. and Poulton, T.P."
+07PSC-336,-121.285963,51.96275258,,plutonic,altered monzodiorite,204,0.4,0.4,crystallization,U-Pb,zircon,CA-ID-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Open File OF2013-05,"Schiarizza, P., Israel, S., Heffernan, S., Boulton, A., Bligh, J., Bell, K., Bayliss, S., Macauley, J., Bluemel, B., Zuber, J., Friedman, R.M., Orchard, M.J. and Poulton, T.P."
+08PSC-253,-121.3909944,52.21482424,,plutonic,corse plagioclase porphyry,203.9,0.4,0.4,crystallization,U-Pb,zircon,CA-ID-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Open File OF2013-05,"Schiarizza, P., Israel, S., Heffernan, S., Boulton, A., Bligh, J., Bell, K., Bayliss, S., Macauley, J., Bluemel, B., Zuber, J., Friedman, R.M., Orchard, M.J. and Poulton, T.P."
+08PSC-254,-121.3136021,52.22255526,,plutonic,hornblende-biotite granodiorite,196.9,0.3,0.3,crystallization,U-Pb,zircon,CA-ID-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Open File OF2013-05,"Schiarizza, P., Israel, S., Heffernan, S., Boulton, A., Bligh, J., Bell, K., Bayliss, S., Macauley, J., Bluemel, B., Zuber, J., Friedman, R.M., Orchard, M.J. and Poulton, T.P."
+08SBA-83,-121.1219557,52.02094726,,plutonic,quartz-feldspar porphyry,195,2,2,crystallization,U-Pb,zircon,CA-ID-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Open File OF2013-05,"Schiarizza, P., Israel, S., Heffernan, S., Boulton, A., Bligh, J., Bell, K., Bayliss, S., Macauley, J., Bluemel, B., Zuber, J., Friedman, R.M., Orchard, M.J. and Poulton, T.P."
+05PSC-325,-120.4902691,51.85720357,,plutonic,hornblende-px gabbro,183,1.1,1.1,cooling,Ar-Ar,hornblende,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Open File OF2013-05,"Schiarizza, P., Israel, S., Heffernan, S., Boulton, A., Bligh, J., Bell, K., Bayliss, S., Macauley, J., Bluemel, B., Zuber, J., Friedman, R.M., Orchard, M.J. and Poulton, T.P."
+05PSC-397-02,-120.892545,51.95535035,,plutonic,coarse hornblende-biotite gabbro,186.3,1,1,cooling,Ar-Ar,biotite,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Open File OF2013-05,"Schiarizza, P., Israel, S., Heffernan, S., Boulton, A., Bligh, J., Bell, K., Bayliss, S., Macauley, J., Bluemel, B., Zuber, J., Friedman, R.M., Orchard, M.J. and Poulton, T.P."
+03M-113,-126.8128525,54.44442405,,volcanic,rhyolite on Mt. Harry Davis,179.3,0.8,0.8,crystallization,U-Pb,zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geological Fieldwork P2005-01-04,"Mortensen, J.K., Wojdak, P., Macdonald, R., Gordee, S. M. and Gabites, J. E."
+03M-106,-129.5847236,55.74015513,,volcanic,South Dome rhyolite,219.7,1,1,crystallization,U-Pb,zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geological Fieldwork P2005-01-04,"Mortensen, J.K., Wojdak, P., Macdonald, R., Gordee, S. M. and Gabites, J. E."
+RDN-01-16-85.34m,-130.6443357,56.93254831,,plutonic,K-feldspar-phyric monzonite,193.6,0.3,0.3,crystallization,U-Pb,zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geological Fieldwork P2005-01-04,"Mortensen, J.K., Wojdak, P., Macdonald, R., Gordee, S. M. and Gabites, J. E."
+RDN-01-19-94.0m,-130.6470372,57.00723231,,plutonic,Gossan Creek porphyry,193,1.3,1.3,crystallization,U-Pb,zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geological Fieldwork P2005-01-04,"Mortensen, J.K., Wojdak, P., Macdonald, R., Gordee, S. M. and Gabites, J. E."
+RDN-01-20-23.2m,-130.6465283,57.00540607,,volcanic,plagioclase-phyric dacite,193.6,1,1,crystallization,U-Pb,zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geological Fieldwork P2005-01-04,"Mortensen, J.K., Wojdak, P., Macdonald, R., Gordee, S. M. and Gabites, J. E."
+AS-099a,-126.7826543,58.5486841,,volcanic,"Rhyolite flow, fine grained, aphanitic",80.8,3.6,4.9,crystallization,U-Pb,zircon,CA-ID-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geological Fieldwork P2005-01-RR15,"Simmons, A. T., Tosdal, R. M., Baker, D. E. L., Friedman, R. M. and Ullrich, T. D."
+AS-035a,-126.7929813,58.55746896,,volcanic,"Trachyte flow, feldsparpheric, feldspar phenocrystic",81.1,1.5,1.5,crystallization,U-Pb,zircon,SHRIMP,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geological Fieldwork P2005-01-RR15,"Simmons, A. T., Tosdal, R. M., Baker, D. E. L., Friedman, R. M. and Ullrich, T. D."
+AS-107a,-126.7428412,58.55841246,,plutonic,"Cirque monzonite, feldspar porphyritic",82.2,0.2,0.2,crystallization,U-Pb,zircon,CA-ID-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geological Fieldwork P2005-01-RR15,"Simmons, A. T., Tosdal, R. M., Baker, D. E. L., Friedman, R. M. and Ullrich, T. D."
+4AS9B,-126.8140372,58.56359692,,volcanic,"Weakly welded crystal tuff, feldsparpheric",84.7,0.8,0.8,crystallization,U-Pb,zircon,SHRIMP,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geological Fieldwork P2005-01-RR15,"Simmons, A. T., Tosdal, R. M., Baker, D. E. L., Friedman, R. M. and Ullrich, T. D."
+AS-071a,-126.7234813,58.53273445,,volcanic,Fine grained aphanitic rhyodacite dyke,168.1,0.7,0.7,crystallization,U-Pb,zircon,CA-ID-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geological Fieldwork P2005-01-RR15,"Simmons, A. T., Tosdal, R. M., Baker, D. E. L., Friedman, R. M. and Ullrich, T. D."
+4AS11,-127.067392,58.68451555,,plutonic,Biotite-hornblende-feldspar porphyritic diorite,55.3,0.8,0.8,crystallization,U-Pb,zircon,SHRIMP,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geological Fieldwork P2005-01-RR15,"Simmons, A. T., Tosdal, R. M., Baker, D. E. L., Friedman, R. M. and Ullrich, T. D."
+AS-017b,-126.7944759,58.56568831,,volcanic,"Trachyandesite sill, intruding Windy Table volcanic rocks",83.1,1.8,1.8,cooling,Ar-Ar,muscovite,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geological Fieldwork P2005-01-RR15,"Simmons, A. T., Tosdal, R. M., Baker, D. E. L., Friedman, R. M. and Ullrich, T. D."
+AS-068e,-126.710595,58.55330453,,plutonic,Equigranular monzonite bearing biotite and hornblende,90.7,3.6,3.6,cooling,Ar-Ar,biotite,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geological Fieldwork P2005-01-RR15,"Simmons, A. T., Tosdal, R. M., Baker, D. E. L., Friedman, R. M. and Ullrich, T. D."
+AS-025a,-126.8051455,58.54632128,,hydrothermal,In vein sericite from B-zone qtz-enargite-tetrahedrite-pyrite vein,79.3,1.4,1.4,mineralization,Ar-Ar,sericite,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geological Fieldwork P2005-01-RR15,"Simmons, A. T., Tosdal, R. M., Baker, D. E. L., Friedman, R. M. and Ullrich, T. D."
+Outlaw,-126.8074441,58.53428567,,hydrothermal,Sericite adjacent to arsenopyrite from AS-071a,84.8,0.5,0.5,mineralization,Ar-Ar,biotite,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geological Fieldwork P2005-01-RR15,"Simmons, A. T., Tosdal, R. M., Baker, D. E. L., Friedman, R. M. and Ullrich, T. D."
+THN03-22,-126.787316,58.54862076,,hydrothermal,In vein sericite from Oban Breccia-Thorn Property,87.7,0.6,0.6,mineralization,Ar-Ar,sericite,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geological Fieldwork P2005-01-RR15,"Simmons, A. T., Tosdal, R. M., Baker, D. E. L., Friedman, R. M. and Ullrich, T. D."
+277540,-126.7997469,58.54197033,,hydrothermal,"Sericite from ""unaltered"" Thorn Stock",91,0.9,0.9,mineralization,Ar-Ar,sericite,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geological Fieldwork P2005-01-RR15,"Simmons, A. T., Tosdal, R. M., Baker, D. E. L., Friedman, R. M. and Ullrich, T. D."
+04AS-21,-132.6650744,58.43107415,,volcanic,Stuhini Group andesitic lapilli and crystal tuff,249,6.4,6.4,crystallization,U-Pb,zircon,SHRIMP,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geological Fieldwork P2007-01-19,"Simmons, A.T., Tosdal, R.M., Awmack, H.J., Wooden, J.L. and Friedman, R.M."
+04AS-27,-132.1399879,58.36080247,,plutonic,Stuhini Group subvolcanic intrusion-foliated gabbro,214.2,2.4,2.4,crystallization,U-Pb,zircon,SHRIMP,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geological Fieldwork P2007-01-19,"Simmons, A.T., Tosdal, R.M., Awmack, H.J., Wooden, J.L. and Friedman, R.M."
+04AS-28,-132.1089925,58.42090061,,plutonic,Stuhini Group subvolcanic granodiorite intrusion,219.2,2.4,2.4,crystallization,U-Pb,zircon,SHRIMP,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geological Fieldwork P2007-01-19,"Simmons, A.T., Tosdal, R.M., Awmack, H.J., Wooden, J.L. and Friedman, R.M."
+AS-071a,-132.7234813,58.53273445,,volcanic,Fourth of July suite rhyodacite dike,168.1,0.7,0.7,crystallization,U-Pb,zircon,CA-ID-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geological Fieldwork P2007-01-19,"Simmons, A.T., Tosdal, R.M., Awmack, H.J., Wooden, J.L. and Friedman, R.M."
+04AS-11,-133.067392,58.68451555,,plutonic,Sloko suite diorite porphyry,56.3,0.7,0.7,crystallization,U-Pb,zircon,SHRIMP,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geological Fieldwork P2007-01-19,"Simmons, A.T., Tosdal, R.M., Awmack, H.J., Wooden, J.L. and Friedman, R.M."
+04AS-19,-132.8789852,58.68085769,,plutonic,Sloko suite diorite porphyry,55.5,0.6,0.6,crystallization,U-Pb,zircon,SHRIMP,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geological Fieldwork P2007-01-19,"Simmons, A.T., Tosdal, R.M., Awmack, H.J., Wooden, J.L. and Friedman, R.M."
+147aJBM04,-127.043021,52.39845661,,plutonic,Biotite-quartz monzonite,53,0.3,0.3,crystallization,U-Pb,zircon,SHRIMP,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geological Fieldwork P2007-01-37,"Mahoney, J.B., Haggart, J.W., Hooper, R.L., Snyder, L.D., Woodsworth, G.J. and Friedman, R.M."
+HFB-05-94,-127.3483709,53.36113194,,plutonic,Granodiorite,146.3,1.6,1.6,crystallization,U-Pb,zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geological Fieldwork P2007-01-37,"Mahoney, J.B., Haggart, J.W., Hooper, R.L., Snyder, L.D., Woodsworth, G.J. and Friedman, R.M."
+05-wv-50,-127.5388116,53.29157168,,plutonic,Quartz diorite,187.5,1.8,1.8,crystallization,U-Pb,zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geological Fieldwork P2007-01-37,"Mahoney, J.B., Haggart, J.W., Hooper, R.L., Snyder, L.D., Woodsworth, G.J. and Friedman, R.M."
+HFB-05-52,-127.277295,53.24535903,,volcanic,Rhyolite breccia,170.28,0.97,0.97,crystallization,U-Pb,zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geological Fieldwork P2007-01-37,"Mahoney, J.B., Haggart, J.W., Hooper, R.L., Snyder, L.D., Woodsworth, G.J. and Friedman, R.M."
+05-RH-11,-127.7358167,53.28710753,,plutonic,Metatonalite,206,1.7,1.7,crystallization,U-Pb,zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geological Fieldwork P2007-01-37,"Mahoney, J.B., Haggart, J.W., Hooper, R.L., Snyder, L.D., Woodsworth, G.J. and Friedman, R.M."
+HFB-05-53,-127.4472993,53.2524147,,plutonic,Hornblende quartz diorite,123.9,1.6,1.6,crystallization,U-Pb,zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geological Fieldwork P2007-01-37,"Mahoney, J.B., Haggart, J.W., Hooper, R.L., Snyder, L.D., Woodsworth, G.J. and Friedman, R.M."
+60JBM05,-127.7326573,53.22808383,,plutonic,Epidote-biotite granodiorite,125.5,0.65,0.65,crystallization,U-Pb,zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geological Fieldwork P2007-01-37,"Mahoney, J.B., Haggart, J.W., Hooper, R.L., Snyder, L.D., Woodsworth, G.J. and Friedman, R.M."
+07MM-10-03,-128.3301908,54.35307591,,volcanic,deformed quartz-feldspar porphyry,211.2,0.4,0.4,crystallization,U-Pb,zircon,CA-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geological Fieldwork P2008-01-11,"McKeown, M., Nelson, J. and Friedman, R."
+MMI06-5-1,-125.4900242,54.59143241,,volcanic,foliated dacitic ignimbrite,171.4,0.4,0.4,crystallization,U-Pb,zircon,CA-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geological Fieldwork P2008-01-13,"Mihalynuk, M.G., Friedman, R.M. and Ullrich, T.D."
+MMI06-24-11,-125.5452299,54.53088673,,volcanic,"quartz eye porphyry dike, synkinematic, variable ductile fabric",218.7,0.4,0.4,crystallization,U-Pb,zircon,CA-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geological Fieldwork P2008-01-13,"Mihalynuk, M.G., Friedman, R.M. and Ullrich, T.D."
+MMI04-11-7b,-120.4343914,50.58791093,,metamorphic,fine-grained muscovite-quarts-carbonate schist,53.39,0.45,0.45,cooling,Ar-Ar,muscovite,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geological Fieldwork P2008-01-13,"Mihalynuk, M.G., Friedman, R.M. and Ullrich, T.D."
+MMI06-24-4,-125.5077661,54.50703726,,metamorphic,"sparse biotite booklets in porphyritic, intermediate to mafic volcanic breccia, deformed to chlorite-actinolite-epidote schist",134.65,0.74,0.74,cooling,Ar-Ar,biotite,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geological Fieldwork P2008-01-13,"Mihalynuk, M.G., Friedman, R.M. and Ullrich, T.D."
+MMI06-34-8,-122.4457317,51.92173909,,volcanic,ignimbritic lapilli tuff-breccia,51.65,0.58,0.58,cooling,Ar-Ar,hornblende,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geological Fieldwork P2008-01-13,"Mihalynuk, M.G., Friedman, R.M. and Ullrich, T.D."
+07NMA05-16,-119.1675116,49.15478854,,plutonic,"medium-to coarse-grained, black to grey dioriteto gabbro that weathers dark greenish grey",51,0.28,0.28,cooling,Ar-Ar,biotite,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geological Fieldwork P2010-01-11,"Massey, N.W.D., Gabites, J.E., Mortensen, J.K. and Ullrich, T.D."
+07JLO32-225,-120.004159,49.87697566,,plutonic,hornblende-biotite granodiorite,194.7,0.3,0.3,crystallization,Ar-Ar,biotite,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geological Fieldwork P2011-01-09,"Logan, J.M., Mihalynuk, M.G., Friedman, R.M. and Creaser, R.A."
+07JLO32-226,-120.0034267,49.87868401,,hydrothermal,chalcopyrite-molybdenum-pyrite bearing quartz veins,193.9,0.9,0.9,crystallization,Re-Os,molybdenite,N-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geological Fieldwork P2011-01-09,"Logan, J.M., Mihalynuk, M.G., Friedman, R.M. and Creaser, R.A."
+WJ07-79,-121.3438,52.23294559,,plutonic,interval of Takomkane batholith quartz monzonite containing molybdenum from 317 m below the collar of diamond-drill hole WJ07-79.,196.9,0.9,0.9,crystallization,Re-Os,molybdenite,N-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geological Fieldwork P2011-01-09,"Logan, J.M., Mihalynuk, M.G., Friedman, R.M. and Creaser, R.A."
+11JLO12-117,-130.412875,58.45377884,1586,plutonic,biotite-hornblende quartz monzodiorite to granodiorite that is locally weakly K-feldspar porphyritic,64.4,0.5,0.5,crystallization,U-Pb,zircon,LA-ICP-MS,University of Washington,BCGS Geological Fieldwork P2012-01-06,"Moynihan, D.P. and Logan J.M."
+05NMA-Win,-118.5865009,49.07167691,,plutonic,plagiogranite dike in varitextured gabbro,380,2.9,2.9,crystallization,U-Pb,zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geological Fieldwork P2013-01-03,"Massey, N.W.D., Gabites, J.E. and Mortensen, J.K."
+06NMA-Winner,-118.5865009,49.07167691,,plutonic,plagiogranite dike in varitextured gabbro,386.9,3,3,crystallization,U-Pb,zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geological Fieldwork P2013-01-03,"Massey, N.W.D., Gabites, J.E. and Mortensen, J.K."
+06NMA-GABB1,-118.9997866,49.06460649,,plutonic,"Typical varitextured gabbro, with white felsic vein network",387.3,2.5,2.5,crystallization,U-Pb,zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geological Fieldwork P2013-01-03,"Massey, N.W.D., Gabites, J.E. and Mortensen, J.K."
+06NMA04-004,-118.5720249,49.074178,,plutonic,pegmatitic gabbro,389,2.9,2.9,crystallization,U-Pb,zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geological Fieldwork P2013-01-03,"Massey, N.W.D., Gabites, J.E. and Mortensen, J.K."
+ZE11-556a,-131.38604,56.91732,,volcanic,"light bluegreen quartz and feldspar porphyritic, granophyric rhyolite",7.78,0.01,0.01,crystallization,U-Pb,zircon,CA-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geological Fieldwork P2013-01-09,"Zagorevski, A., Dziawa, C., Friedman, R.M. and Mihalynuk, M.G."
+12JLO50-31,-120.4430393,51.0061077,,plutonic,"weakly propylitically altered, holocrystalline biotitehornblende monzodiorite",188.8,0.02,0.02,crystallization,U-Pb,zircon,CA-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geological Fieldwork P2014-01-04,"Friedman, R.M., Gabites, J.E., and Logan, J.M."
+12JLO50-38,-120.4467747,51.00662117,,plutonic,quartz diorite,165.9,0.02,0.02,crystallization,U-Pb,zircon,CA-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geological Fieldwork P2014-01-04,"Friedman, R.M., Gabites, J.E., and Logan, J.M."
+12JLO50-30x,-120.4456772,51.00687599,,hydrothermal,Muscovite-quartz-carbonate veins,160.4,2.4,2.4,cooling,Ar-Ar,muscovite,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geological Fieldwork P2014-01-04,"Friedman, R.M., Gabites, J.E., and Logan, J.M."
+04-ATSK-106-L01,-130.3824824,56.5958023,,volcanic,spherulitic rhyolite,178.5,1.8,1.8,crystallization,U-Pb,zircon,SHRIMP,Geological Survey of Canada,BCGS Geological Fieldwork P2015-01-05,"Cutts, J.A., McNicoll, V.J., Zagorevski, A., Anderson, R.G. and Martin, K."
+04-ATSL-042-L01,-130.4358096,56.50478861,,volcanic,felsic volcaniclastic rock,174.6,1.8,1.8,crystallization,U-Pb,zircon,SHRIMP,Geological Survey of Canada,BCGS Geological Fieldwork P2015-01-05,"Cutts, J.A., McNicoll, V.J., Zagorevski, A., Anderson, R.G. and Martin, K."
+04-AT0-1001-L01,-130.1863345,56.54576033,,volcanic,lapilli tuff,172.8,1.7,1.7,crystallization,U-Pb,zircon,SHRIMP,Geological Survey of Canada,BCGS Geological Fieldwork P2015-01-05,"Cutts, J.A., McNicoll, V.J., Zagorevski, A., Anderson, R.G. and Martin, K."
+04-ATSK-026-L02,-130.1123893,56.59552789,,volcanic,flow-banded rhyolite,174.4,1.7,1.7,crystallization,U-Pb,zircon,SHRIMP,Geological Survey of Canada,BCGS Geological Fieldwork P2015-01-05,"Cutts, J.A., McNicoll, V.J., Zagorevski, A., Anderson, R.G. and Martin, K."
+04-ATSK-020-L01,-130.1005907,56.60536329,,volcanic,felsic volcaniclastic rock,187.1,1.9,1.9,crystallization,U-Pb,zircon,SHRIMP,Geological Survey of Canada,BCGS Geological Fieldwork P2015-01-05,"Cutts, J.A., McNicoll, V.J., Zagorevski, A., Anderson, R.G. and Martin, K."
+04-ATSK-008-L01,-130.0933388,56.60019813,,volcanic,spherulitic rhyolite,174.7,1.8,1.8,crystallization,U-Pb,zircon,SHRIMP,Geological Survey of Canada,BCGS Geological Fieldwork P2015-01-05,"Cutts, J.A., McNicoll, V.J., Zagorevski, A., Anderson, R.G. and Martin, K."
+04-ATSK-004-L01,-130.0355795,56.21289429,,volcanic,felsic volcaniclastic rock,173.6,1.7,1.7,crystallization,U-Pb,zircon,SHRIMP,Geological Survey of Canada,BCGS Geological Fieldwork P2015-01-05,"Cutts, J.A., McNicoll, V.J., Zagorevski, A., Anderson, R.G. and Martin, K."
+MMI14-53-13,-120.6931959,49.51235893,,volcanic,"rhyolite lapilli tuff at Coalmont, Western belt.",238.6,0.3,0.3,crystallization,U-Pb,zircon,CA-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geological Fieldwork P2016-01-03,"Mihalynuk, M.G., Diakow, L.J., Friedman, R.M., and Logan, J.M."
+ZE09-059A,-131.11436,57.31425,,plutonic,medium-grained plagioclase porphyritic hornblende-biotite granodiorite,211.2,4.4,4.4,cooling,Ar-Ar,hornblende,Laser step heating,Geological Survey of Canada,BCGS Geological Fieldwork P2016-01-06,"Milidragovic, D., Joyce, N.L., Zagorevski, A., Chapman, J.B."
+ZE09-059B,-131.11436,57.31425,,plutonic,rounded to amoeboid diorite enclaves in medium-grained plagioclase porphyritic hornblende-biotite granodiorite,222.2,2.8,2.8,cooling,Ar-Ar,hornblende,Laser step heating,Geological Survey of Canada,BCGS Geological Fieldwork P2016-01-06,"Milidragovic, D., Joyce, N.L., Zagorevski, A., Chapman, J.B."
+ZE09-060,-131.0485,57.31402,,plutonic,"weakly-foliated, medium-grained, hornblende-biotite diorite.",221.6,2.5,2.5,cooling,Ar-Ar,hornblende,Laser step heating,Geological Survey of Canada,BCGS Geological Fieldwork P2016-01-06,"Milidragovic, D., Joyce, N.L., Zagorevski, A., Chapman, J.B."
+ZE09-061,-131.0655,57.29168,,plutonic,medium-grained to pegmatitic hornblende gabbro,220.1,2.7,2.7,cooling,Ar-Ar,hornblende,Laser step heating,Geological Survey of Canada,BCGS Geological Fieldwork P2016-01-06,"Milidragovic, D., Joyce, N.L., Zagorevski, A., Chapman, J.B."
+TZ15-01(352.26-373.43m),-129.660027,58.31966613,,plutonic,plagioclase porphyry,173.25,0.13,0.13,crystallization,U-Pb,zircon,CA-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geological Fieldwork P2016-01-07,"van Straaten, B.I., and Nelson, J."
+14MT-03-04,-129.6503715,58.31908684,,sedimentary,Polymictic conglomerate with white (felsic/silicified) clasts and Aug-Pl-phyric clasts,170,1.5,1.5,maximum depositional,U-Pb,detrital zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geological Fieldwork P2017-01-06,"van Straaten, B.I., and Gibson, R."
+15BvS-03-14,-129.6538578,58.23695634,,sedimentary,Polymictic conglomerate with plutonic clasts and pale aphyric volcanic clasts,214.8,1.5,1.5,maximum depositional,U-Pb,detrital zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geological Fieldwork P2017-01-06,"van Straaten, B.I., and Gibson, R."
+15BvS-14-05,-129.6143223,58.31240287,,plutonic,Medium-grained equigranular Hbl-Bt tonalite,160.43,0.16,0.16,crystallization,U-Pb,zircon,CA-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geological Fieldwork P2017-01-06,"van Straaten, B.I., and Gibson, R."
+15BvS-20-07,-129.6648056,58.31868931,,hydrothermal,Intensely Qtz-Ser altered rock with coarse white mica,135.83,0.44,0.44,mineralization,Ar-Ar,white mica,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geological Fieldwork P2017-01-06,"van Straaten, B.I., and Gibson, R."
+15BvS-20-08,-129.6619767,58.32350928,,sedimentary,Polymictic conglomerate and sandstone,170,3.2,3.2,maximum depositional,U-Pb,detrital zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geological Fieldwork P2017-01-06,"van Straaten, B.I., and Gibson, R."
+16BvS-15-111a,-129.5324054,58.2297957,,sedimentary,Felsic lapilli tuff with abundant aphyric to Pl-phyric clasts,215.5,1.4,1.4,maximum depositional,U-Pb,detrital zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geological Fieldwork P2017-01-06,"van Straaten, B.I., and Gibson, R."
+CL01-094,-132.5962134,59.62144631,,plutonic,Surprise Lake batholith (granite),79.7,0.15,0.15,crystallization,U-Pb,zircon,CA-ID-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geological Fieldwork P2017-01-08,"Zagorerevski, A., Mihalynuk, M.G., Joyce, N., and Anderson, R.G."
+ZE10-248,-133.9877036,59.72561017,,volcanic,Rhyolite,85,1.6,1.6,crystallization,U-Pb,zircon,SHRIMP,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geological Fieldwork P2017-01-08,"Zagorerevski, A., Mihalynuk, M.G., Joyce, N., and Anderson, R.G."
+MMI15-18-3,-134.7898454,59.84419119,,plutonic,biotite monzogranite,76.5,1.3,1.3,crystallization,U-Pb,zircon,SHRIMP,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geological Fieldwork P2017-01-08,"Zagorerevski, A., Mihalynuk, M.G., Joyce, N., and Anderson, R.G."
+16BvS-20-149,-129.4481472,58.22113719,,plutonic,equigranular hornblende monzogranite from the quartz-rich phase of the Cake Hill pluton,217.91,0.24,0.24,crystalization,U-Pb,zircon,CA-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geological Fieldwork P2018-01-03,"van Straaten, B.I., and Bichlmaier, S."
+16BVS-15-111a,-129.5324393,58.22978658,,volcanic,felsic lapilli-tuff bed with abundant aphyric to plagioclase-phyric clasts from the Horn Mountain lowermost mafi c volcanic unit,215,1.4,1.4,maximum depositioanl,U-Pb,detrital zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geological Fieldwork P2018-01-03,"van Straaten, B.I., and Bichlmaier, S."
+16RGI-45-307,-129.6087573,58.36795495,,sedimentary,"coarse-grained, moderately-sorted feldspathic arenite from the Takwahoni greywacke unit",187.8,1.1,1.1,maximum depositioanl,U-Pb,detrital zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geological Fieldwork P2018-01-03,"van Straaten, B.I., and Bichlmaier, S."
+16BvS-35-256,-129.3320713,58.31455151,,sedimentary,"medium-grained, moderately-sorted feldspathic arenite in a section of predominantly siltstone",187.4,1.2,1.2,maximum depositioanl,U-Pb,detrital zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geological Fieldwork P2018-01-03,"van Straaten, B.I., and Bichlmaier, S."
+16lo20A,-134.8631551,59.96478243,,plutonic,medium-grained granite with k-feldspar phenocrysts from east of the Llewellyn fault and south of the BC-Yukon border,56.58,0.07,0.07,crystallization,U-Pb,zircon,CA-ID-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geological Fieldwork P2018-01-04,"Ootes, L., Castonguay, S., Friedman, R., Devine, F., and Simmonds, R."
+16lo22A,-134.8697399,59.97994617,,plutonic,Equigranular biotite-hornblende granite,56.46,0.06,0.06,crystallization,U-Pb,zircon,CA-ID-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geological Fieldwork P2018-01-04,"Ootes, L., Castonguay, S., Friedman, R., Devine, F., and Simmonds, R."
+16lo11B,-134.8573496,59.91545267,,plutonic,Granodiorite porphyry,76.03,0.05,0.05,crystallization,U-Pb,zircon,CA-ID-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geological Fieldwork P2018-01-04,"Ootes, L., Castonguay, S., Friedman, R., Devine, F., and Simmonds, R."
+16lo05B,-134.7170659,59.81374894,,plutonic,Granodiorite,73.93,0.28,0.28,crystallization,U-Pb,zircon,CA-ID-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geological Fieldwork P2018-01-04,"Ootes, L., Castonguay, S., Friedman, R., Devine, F., and Simmonds, R."
+16lo18B,-134.5360085,59.69766583,,volcanic,Rhyolite,120.53,0.19,0.19,crystallization,U-Pb,zircon,CA-ID-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geological Fieldwork P2018-01-04,"Ootes, L., Castonguay, S., Friedman, R., Devine, F., and Simmonds, R."
+JLO10-10-51,-130.3505,56.199,,sedimentary,"heterolithic breccia within the Granduc mine stratigraphy, collected from a 0.6 m interval (6.3 to 6.9 m) from fresh, cut core of diamond drill hole 2006-7",208,,,maximum depositional,U-Pb,detrital zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geological Fieldwork P2019-01-06,"Mihalynuk, M.G., Zagorevski, A., Logan, J.M., Friedman, R.M., and Johnston, S.T."
+TST09-03-5,-131.2314,56.7143,,sedimentary,a tuff band in deformed limestone from Rock and Roll,209.7,0.9,0.9,maximum depositional,U-Pb,detrital zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geological Fieldwork P2019-01-06,"Mihalynuk, M.G., Zagorevski, A., Logan, J.M., Friedman, R.M., and Johnston, S.T."
+TST09-03-16,-131.2251,56.7143,,sedimentary,"Cherty siltstone, Laminated, cream to rusty weathering, cherty, tuffaceous siltstone with a structural thickness of up to 100 m occurs to the north and east of Lost Lake",291.7,1,1,crystallization,U-Pb,zircon,CA-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geological Fieldwork P2019-01-06,"Mihalynuk, M.G., Zagorevski, A., Logan, J.M., Friedman, R.M., and Johnston, S.T."
+TST09-6-11,-131.2315,56.7184,,plutonic,"mediumgrained, hornblende-feldspar-titanite quartz diorite",185.6,0.5,0.5,crystallization,U-Pb,zircon,CA-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geological Fieldwork P2019-01-06,"Mihalynuk, M.G., Zagorevski, A., Logan, J.M., Friedman, R.M., and Johnston, S.T."
+TST09-7-01,-131.2289,56.7188,,plutonic,"Rhyodacitic dike, diamond drill hole RR91-70 (Fig. 2a) north of Lost Lake intersected an interval of felsic rock within the laminated volcanic siltstone unit.",182.92,0.22,0.22,crystallization,U-Pb,zircon,CA-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geological Fieldwork P2019-01-06,"Mihalynuk, M.G., Zagorevski, A., Logan, J.M., Friedman, R.M., and Johnston, S.T."
+WLTD-005,-130.0905095,56.27011627,,Intrusive,quartz dioritic to granodioritic in composition,190.6,1.3,1.3,crystallization,U-Pb,Zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","B.Sc. Thesis, University of British Columbia, Vancouver, B.C.","Lepore, W."
+WLTD-008,-130.0856957,56.28601738,,Intrusive,monzodioritic,189,2.3,2.3,crystallization,U-Pb,Zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","B.Sc. Thesis, University of British Columbia, Vancouver, B.C.","Lepore, W."
+EP-98-181,-129.9793838,55.82287304,,Plutonic,"Granodiorite, granite and quartz monzonite.",193,0.3,0.3,crystallization,U-Pb,zircon,AA-ID-TIMS,Geological Survey of Canada,"Canadian Journal of Earth Sciences, NRC Research Press, v.41/p.199-216","Evenchick, C. A. et al"
+EP-98-104-1,-130.0412618,55.79693509,,Plutonic,"Massive, grey-weathering, quartz-potassium feldspar porphyritic felsic body. It is abundantly porphyritic to megacrystic, comprising about 10% potassium feldspar phenocrysts 4-10mm across, 40% potassium feldspar phenocrysts 1-2mm across, 10% quartz phenocrysts 1-2mm across, 30% very fine grained quartzofeldspathic groundmass, and 10% randomly oriented fine (1 mm) porphyroblasts of biotite.",189.8,0.3,0.3,crystallization,U-Pb,zircon,AA-ID-TIMS,Geological Survey of Canada,"Canadian Journal of Earth Sciences, NRC Research Press, v.41/p.199-216","Evenchick, C. A. et al"
+EP-98-184,-129.9256973,55.70620482,,Volcanic,Andesitic crystal tuff.,189.8,0.6,0.6,crystallization,U-Pb,zircon,AA-ID-TIMS,Geological Survey of Canada,"Canadian Journal of Earth Sciences, NRC Research Press, v.41/p.199-216","Evenchick, C. A. et al"
+EP-98-114-1,-129.9531187,55.7278306,,Volcanic,Subvolcanic intrusion.,189.7,0.3,0.3,crystallization,U-Pb,zircon,AA-ID-TIMS,Geological Survey of Canada,"Canadian Journal of Earth Sciences, NRC Research Press, v.41/p.199-216","Evenchick, C. A. et al"
+EP-98-129-1,-129.9422679,55.70041774,,Sedimentary,"Lithic pebble conglomerate. The conglomerate is clast supported and composed primarily of siliceous clasts, possibly including rhyolite, dacite, chert and (or) quartzite, with lesser siltstone and quartzo-feldspathic sandstone. Clasts are rounded to angular, and subspherical.",185-212,,,maximum depositional,U-Pb,zircon,AA-ID-TIMS,Geological Survey of Canada,"Canadian Journal of Earth Sciences, NRC Research Press, v.41/p.199-216","Evenchick, C. A. et al"
+EP-98-186,-130.0299398,55.68821175,,Volcanic,"Rhyolite. White to rusty weathering and is massive or brecciated, and aphanitic. It contains 5%-10% subhedral plagioclase phenocrysts up to 0.5 mm across, trace muscovite and chlorite, and 90%-95% is a mosaic of cryptocrystalline to microcrystalline quartz.",176.6,1.1,1.1,crystallization,U-Pb,zircon,AA-ID-TIMS,Geological Survey of Canada,"Canadian Journal of Earth Sciences, NRC Research Press, v.41/p.199-216","Evenchick, C. A. et al"
+96JN46-5,-128.8406965,58.82026819,,Plutonic,Mylonitic granite,390,2.7,2.7,igneous crystallization,U-Pb,zircon,AA-ID-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Canadian Journal of Earth Sciences, NRC Research Press, v.41/p.1201-1235","Nelson, J. and Friedman, R."
+96JN47-3,-128.8339005,58.82924053,,Plutonic,Potassium feldspar megacrystic granite; deformed but texturally intact,373,20,20,igneous crystallization,U-Pb,zircon,AA-ID-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Canadian Journal of Earth Sciences, NRC Research Press, v.41/p.1201-1235","Nelson, J. and Friedman, R."
+97TH13,-130.3963523,59.46267803,,Plutonic,Foliated greenschist-grade tonalite,356,,,igneous crystallization,U-Pb,zircon,AA-ID-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Canadian Journal of Earth Sciences, NRC Research Press, v.41/p.1201-1235","Nelson, J. and Friedman, R."
+97TH33,-130.4845923,59.44322141,,Plutonic,Foliated and lineated tonalite,355.3,0.9,0.9,igneous crystallization,U-Pb,zircon,AA-ID-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Canadian Journal of Earth Sciences, NRC Research Press, v.41/p.1201-1235","Nelson, J. and Friedman, R."
+96JN32-6,-130.3235717,59.37254554,,Plutonic,Strongly foliated and transposed metatonalite,349.9,4.2,4.2,igneous crystallization,U-Pb,zircon,AA-ID-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Canadian Journal of Earth Sciences, NRC Research Press, v.41/p.1201-1235","Nelson, J. and Friedman, R."
+97TH47,-130.4263798,59.42569174,,Metamorphic,Siliceous tectonite (granite or possible rhyolite parent),340.4,5.5,5.5,igneous crystallization,U-Pb,zircon,AA-ID-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Canadian Journal of Earth Sciences, NRC Research Press, v.41/p.1201-1235","Nelson, J. and Friedman, R."
+96JN34-5,-130.4821573,59.63527943,,Metamorphic,"Pyritic quartz-sericite schist with quartz, plagioclase eyes (metadacite tuff)",336.4,3.6,3.6,igneous crystallization,U-Pb,zircon,AA-ID-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Canadian Journal of Earth Sciences, NRC Research Press, v.41/p.1201-1235","Nelson, J. and Friedman, R."
+97JN9-12,-130.3351066,59.4407933,,Metamorphic,Quartz eye-sericite schist (metadacite tuff),322-334,,,igneous crystallization,U-Pb,zircon,AA-ID-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Canadian Journal of Earth Sciences, NRC Research Press, v.41/p.1201-1235","Nelson, J. and Friedman, R."
+97TH25A,-130.3907708,59.44879859,,Plutonic,Weakly deformed muscovite pegmatite dyke; cuts local layering and foliation,269.8,3.2,3.2,igneous crystallization,U-Pb,zircon,AA-ID-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Canadian Journal of Earth Sciences, NRC Research Press, v.41/p.1201-1235","Nelson, J. and Friedman, R."
+01LL9-2,-129.1832098,58.91416722,,Plutonic,"Pegmatite, locally mylonitic; cuts across layering and foliation in amphibolite",264.3,0.9,0.9,igneous crystallization,U-Pb,zircon,AA-ID-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Canadian Journal of Earth Sciences, NRC Research Press, v.41/p.1201-1235","Nelson, J. and Friedman, R."
+01LL21-1,-128.9923132,58.97075857,,Plutonic,"Tonalite, from multiphase unfoliated intrusion. Post-kinematic to ductile deformation in lower Dorsey Complex",264,1.5,1.5,igneous crystallization,U-Pb,zircon,AA-ID-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Canadian Journal of Earth Sciences, NRC Research Press, v.41/p.1201-1235","Nelson, J. and Friedman, R."
+01LL13-2,-129.1287129,58.93865161,,Plutonic,"Pale green plagioclase-phyric dykes cut garnet amphibolite at base of complex. Cuts both foliation and brittle shears, although offset on a few of them. Does not penetrate basal fault.",235-260,,,igneous crystallization,U-Pb,zircon,AA-ID-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Canadian Journal of Earth Sciences, NRC Research Press, v.41/p.1201-1235","Nelson, J. and Friedman, R."
+00JN6-9,-130.677416,59.90564906,,Plutonic,"Coarse granite, Plate Creek Stock",197.3,0.9,0.9,igneous crystallization,U-Pb,zircon,AA-ID-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Canadian Journal of Earth Sciences, NRC Research Press, v.41/p.1201-1235","Nelson, J. and Friedman, R."
+97JN17-6,-131.6189006,59.98883624,,Plutonic,"Pegmatitic monzonite, intrudes Triassic Logjam clastics",186.6,5.8,5.8,inheritance,U-Pb,zircon,AA-ID-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Canadian Journal of Earth Sciences, NRC Research Press, v.41/p.1201-1235","Nelson, J. and Friedman, R."
+96JN32-4,-130.311272,59.37395408,,Plutonic,"Diorite, heterogeneous late synkinematic pluton",186.6,1.8,1.8,inheritance,U-Pb,titanite,ID-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Canadian Journal of Earth Sciences, NRC Research Press, v.41/p.1201-1235","Nelson, J. and Friedman, R."
+00JN4-10,-130.7141425,59.85842826,,Plutonic,Tonalite dyke-offshoot of Plate Creek Stock; undeformed; cuts sheared Dorsey - Swift River contact,185.2,1.7,1.7,inheritance,U-Pb,titanite,ID-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Canadian Journal of Earth Sciences, NRC Research Press, v.41/p.1201-1235","Nelson, J. and Friedman, R."
+99JN6-9,-130.31485,59.06300663,,Plutonic,"Slightly folded granite, intrudes Dorsey Complex",173,0.6,0.6,igneous crystallization,U-Pb,zircon,AA-ID-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Canadian Journal of Earth Sciences, NRC Research Press, v.41/p.1201-1235","Nelson, J. and Friedman, R."
+PE00-70,-128.7702756,58.45273271,,Plutonic,"Chloritized, medium-grained hornblende granodiorite to tonalite-diorite that is weakly to strongly foliated, locally with abundant secondary epidote.",187.5,2.9,2.9,Igneous crystallization,U-Pb,zircon,AA-ID-TIMS,University of Alberta,"Canadian Journal of Earth Sciences, Canadian Science Publishing, v.42/p.1449-1465","Erdmer, P. et al"
+PE00-75,-128.7758761,58.43427674,,Plutonic,"Pale green to white, coarse-grained, epidote-chlorite-actinolite-bearing felsic schist. It contains quartz and plagioclase crystals whose abundance and concentration suggest that the protolith was a plagioclase and quartz-eye bearing porphyry. Its chemical composition is consistent with an andesite protolith. Gradation between fine- and coarse-grained layers is typical. A penetrative stretching lineation is defined by rods and extended aggregates of grey-blue quartz and chalky white plagioclase.",339.7,0.6,0.6,Igneous crystallization,U-Pb,zircon,AA-ID-TIMS,University of Alberta,"Canadian Journal of Earth Sciences, Canadian Science Publishing, v.42/p.1449-1465","Erdmer, P. et al"
+PE00-78,-128.7707413,58.42592387,,Plutonic,"Granitic dyke. Coarse grained subporphyritic rock is mainly quartz orthoclase and muscovite with minor plagioclase. It displays calcite and sericite alteration, and a weak to locally strong, grain shape-defined foliation.",170.9,0.7,0.7,Igneous crystallization,U-Pb,zircon,AA-ID-TIMS,University of Alberta,"Canadian Journal of Earth Sciences, Canadian Science Publishing, v.42/p.1449-1465","Erdmer, P. et al"
+S1,-119.4018414,50.07617168,,Metamorphic,"Hornblende-biotite gneiss. Cm scaled compositional layering parallel to the metamorphic foliation. Leucocratic layers contained plagioclase, quartz, hornblende, biotite, and secondary chlorite. Mafic layers were dominated by hornblende and plagioclase with lesser biotite.",171,0.4,0.4,igneous crystallization,U-Pb,zircon and titanite,CA-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Canadian Journal of Earth Sciences, NRC Research Press, v.43/p.213-244","Glombick, P. et al"
+S2,-119.4022825,50.07493019,,Plutonic,Pegmatite veins.,161.7,2.8,2.8,igneous crystallization,U-Pb,zircon,CA-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Canadian Journal of Earth Sciences, NRC Research Press, v.43/p.213-244","Glombick, P. et al"
+M1,-119.29457,50.20089217,,Metamorphic,Calcareous quartzite gneiss that is mylonitic and diopside bearing. Mm to cm discontinuous quartzofeldspathic layers oriented subparallel to the mylonitic foliation.,88.7,0.2,0.2,migmatization,U-Pb,zircon and titanite,CA-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Canadian Journal of Earth Sciences, NRC Research Press, v.43/p.213-244","Glombick, P. et al"
+M2,-119.3204953,50.16649249,,Plutonic,"Medium grained, strongly foliated, biotite- and hornblende-bearing granodiorite.",102.2,3.8,3.8,igneous crystallization,U-Pb,zircon and titanite,ID-TIMS,University of Alberta,"Canadian Journal of Earth Sciences, NRC Research Press, v.43/p.213-244","Glombick, P. et al"
+M3,-119.2608996,50.13572688,,Metamorphic,Diorite gneiss,Multiple,,,closure age of titanite grains at 61.6 ± 4.2 and metamorphic zircon growth at 88.7 ± 0.2,U-Pb,zircon,SHRIMP,Geological Survey of Canada,"Canadian Journal of Earth Sciences, NRC Research Press, v.43/p.213-244","Glombick, P. et al"
+M4,-119.1679902,50.11780028,,Metamorphic,"Migmatitic schist. Mm to cm scale, discontinuous leucosome layers oriented coplanar with the transportation foliation.",154.5,0.4,0.4,migmatization,U-Pb,zircon,ID-TIMS,University of Alberta,"Canadian Journal of Earth Sciences, NRC Research Press, v.43/p.213-244","Glombick, P. et al"
+M5,-119.0708503,50.11200931,,Plutonic,"Massive to weakly deformed pluton of medium to coarse grained, biotite-bearing, potassium-feldspar megacrystic monzonite to quartz monzonite.",51.7,0.6,0.6,igneous crystallization,U-Pb,zircon,ID-TIMS,University of Alberta,"Canadian Journal of Earth Sciences, NRC Research Press, v.43/p.213-244","Glombick, P. et al"
+M6,-118.9470116,50.11664422,,Metamorphic,"Homogeneous, medium-grained, foliated, hornblende-bearing toanlite gneiss.",150.6,0.4,0.4,igneous crystallization,U-Pb,zircon,ID-TIMS,University of Alberta,"Canadian Journal of Earth Sciences, NRC Research Press, v.43/p.213-244","Glombick, P. et al"
+CFar-19,-118.412552,52.15827356,,Volcanic,"Perlitic lava and ?ow breccia, potassium feldspar, vitreous biotite, sparse quartz",48.58,0.54,0.54,Igneous Crystallization,Ar-Ar,Biotite,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Canadian Journal of Earth Sciences, NRC Research Press, v.51/p.56-103","Bordet, E. et al"
+CFar-20a,-118.4770346,52.12374335,,Volcanic,Hornblende–biotite-porphyritic black vitric ash tuff,47.51,0.59,0.59,Igneous Crystallization,Ar-Ar,Biotite,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Canadian Journal of Earth Sciences, NRC Research Press, v.51/p.56-103","Bordet, E. et al"
+CFar-20b,-118.4770346,52.12374335,,Volcanic,Hornblende–biotite-porphyritic black vitric ash tuff,47.67,0.52,0.52,Igneous Crystallization,Ar-Ar,Biotite,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Canadian Journal of Earth Sciences, NRC Research Press, v.51/p.56-103","Bordet, E. et al"
+CFar-20c,-118.4770346,52.12374335,,Volcanic,Hornblende–biotite-porphyritic black vitric ash tuff,47.94,0.62,0.62,Igneous Crystallization,Ar-Ar,Hornblende,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Canadian Journal of Earth Sciences, NRC Research Press, v.51/p.56-103","Bordet, E. et al"
+CFar-20d,-118.4770346,52.12374335,,Volcanic,Hornblende–biotite-porphyritic black vitric ash tuff,47.9,0.65,0.65,Igneous Crystallization,Ar-Ar,Hornblende,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Canadian Journal of Earth Sciences, NRC Research Press, v.51/p.56-103","Bordet, E. et al"
+B22Kar-6,-124.205093,52.62049622,,Volcanic,"Yellow–orange weathered white to pale pink Hb-phyric rhyolite, correlated with the ""acicular hornblende dacite unit"" of Milhalynuk et al.(2008b, 2009a)",51,1.5,1.5,Igneous Crystallization,Ar-Ar,Hornblende,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Canadian Journal of Earth Sciences, NRC Research Press, v.51/p.56-103","Bordet, E. et al"
+B22Kz-8,-124.2471954,52.73009499,,Volcanic,"Orange–rusty weathering, extremely silici?ed, pale yellow–white, clay-altered plagioclase–biotite-phyric rhyolite, quartz veinlets",48.9,0.4,0.4,Igneous Crystallization,U-Pb,Zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Canadian Journal of Earth Sciences, NRC Research Press, v.51/p.56-103","Bordet, E. et al"
+BAdz-27,-123.7044564,52.86989509,,Volcanic,Epiclastic alluvial fan deposit with internal layering and volcanic blocks of various composition,40,,,Maximum deposition,U-Pb,Zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Canadian Journal of Earth Sciences, NRC Research Press, v.51/p.56-103","Bordet, E. et al"
+BAz-16a,-123.9801333,52.88294405,,Volcanic,Flow-banded ?ow-folded dark grey aphanitique rhyolite-dacite,47.2,3.4,3.4,Igneous Crystallization,U-Pb,Zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Canadian Journal of Earth Sciences, NRC Research Press, v.51/p.56-103","Bordet, E. et al"
+BAz-26b,-123.9166667,52.83528267,,Volcanic,Columnar-jointed black vitreous plagioclase-phyric dacite,48.13,0.05,0.05,Igneous Crystallization,U-Pb,Zircon,CA-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Canadian Journal of Earth Sciences, NRC Research Press, v.51/p.56-103","Bordet, E. et al"
+CFar-1,-124.0638467,52.29351019,,Plutonic,Eocene intrusion. Biotite–feldspar porphyritic stock. Possibly related to Chili Cu mineral occurrence,51.69,0.38,0.38,Cooling,Ar-Ar,Biotite,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Canadian Journal of Earth Sciences, NRC Research Press, v.51/p.56-103","Bordet, E. et al"
+CFar-12,-118.4125481,52.10290943,,Volcanic,Biotite-phyric dacite ash tuff with ignimbritic textures,48.15,0.64,0.64,Igneous Crystallization,Ar-Ar,Hornblende,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Canadian Journal of Earth Sciences, NRC Research Press, v.51/p.56-103","Bordet, E. et al"
+CFar-2a,-124.0561722,52.28772601,,Plutonic,Eocene intrusion. Biotite–feldspar porphyritic stock. Possibly related to Chili Cu mineral occurrence,51.85,0.57,0.57,Cooling,Ar-Ar,Biotite,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Canadian Journal of Earth Sciences, NRC Research Press, v.51/p.56-103","Bordet, E. et al"
+CFar-2b,-124.0561722,52.28772601,,Plutonic,Eocene intrusion. Biotite–feldspar porphyritic stock. Possibly related to Chili Cu mineral occurrence,54.66,0.89,0.89,Cooling,Ar-Ar,Hornblende,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Canadian Journal of Earth Sciences, NRC Research Press, v.51/p.56-103","Bordet, E. et al"
+CFar-21,-118.4753233,52.13297218,,Volcanic,Black vitric ash tuff,48.31,0.34,0.34,Igneous Crystallization,Ar-Ar,Glass,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Canadian Journal of Earth Sciences, NRC Research Press, v.51/p.56-103","Bordet, E. et al"
+CFar-22,-118.4438429,52.11896283,,Volcanic,Vitreous black dike cuts ignimbrite section of biotite-phyric dacite ash tuff,47.11,0.55,0.55,Igneous Crystallization,Ar-Ar,Glass,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Canadian Journal of Earth Sciences, NRC Research Press, v.51/p.56-103","Bordet, E. et al"
+CLz-14,-123.9209767,52.75547158,,Volcanic,Proximal biotite–quartz-phyric felsic block and ash ?ow covered by flow banded plagioclase-pyroxene-phyric dacite and vitreous black dacite,49.3,0.3,0.3,Igneous Crystallization,U-Pb,Zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Canadian Journal of Earth Sciences, NRC Research Press, v.51/p.56-103","Bordet, E. et al"
+CZar-23,-124.1078313,52.40017783,,Volcanic,Vitreous hornblende porphyric blocks in breccia,48.2,3.2,3.2,Igneous Crystallization,Ar-Ar,Hornblende,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Canadian Journal of Earth Sciences, NRC Research Press, v.51/p.56-103","Bordet, E. et al"
+CZar-24,-118.0815628,52.56408226,,Volcanic,Thick dike with glassy margins cutting through vitreous black dacite,47.93,0.72,0.72,Igneous Crystallization,Ar-Ar,Glass,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Canadian Journal of Earth Sciences, NRC Research Press, v.51/p.56-103","Bordet, E. et al"
+CZar-25,-118.0432727,52.59686647,,Volcanic,Quartz–pyroxene phyric dacite,46.58,0.51,0.51,Igneous Crystallization,Ar-Ar,Glass,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Canadian Journal of Earth Sciences, NRC Research Press, v.51/p.56-103","Bordet, E. et al"
+CZar-3,-124.4591609,52.4998047,,Plutonic,Eocene intrusion. Hornblende-quartz–biotite porphyry dike cutting Ootsa Lake Group,53.74,0.57,0.57,Cooling,Ar-Ar,Biotite,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Canadian Journal of Earth Sciences, NRC Research Press, v.51/p.56-103","Bordet, E. et al"
+CZar-4,-124.2324907,52.3864465,,Volcanic,Flow-banded acicular hornblende-porphyritic lava,54.15,0.85,0.85,Igneous Crystallization,Ar-Ar,Hornblende,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Canadian Journal of Earth Sciences, NRC Research Press, v.51/p.56-103","Bordet, E. et al"
+CZar-5,-124.0750949,52.48709634,,Volcanic,Flow-banded hornblende-porphyritic dacite,50.91,0.53,0.53,Igneous Crystallization,Ar-Ar,Hornblende,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Canadian Journal of Earth Sciences, NRC Research Press, v.51/p.56-103","Bordet, E. et al"
+CZar-7a,-118.0111827,52.55408429,,Volcanic,Acicular hornblende porphyry lava interlayered with ?ow breccia and vesicular ?ow tops,49.11,0.99,0.99,Igneous Crystallization,Ar-Ar,Hornblende,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Canadian Journal of Earth Sciences, NRC Research Press, v.51/p.56-103","Bordet, E. et al"
+CZar-7b,-118.0111827,52.55408429,,Volcanic,Acicular hornblende porphyry lava interlayered with ?ow breccia and vesicular ?ow tops,50.4,1.3,1.3,Igneous Crystallization,Ar-Ar,Hornblende,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Canadian Journal of Earth Sciences, NRC Research Press, v.51/p.56-103","Bordet, E. et al"
+CZz-13,-118.1302047,52.44000874,,Volcanic,Silici?ed ash tuff at Vampire mineral showing,51,,,Maximum deposition,U-Pb,Zircon,CA-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Canadian Journal of Earth Sciences, NRC Research Press, v.51/p.56-103","Bordet, E. et al"
+NAz-15,-123.5558125,52.73221319,,Volcanic,"Chalky white–grey ash tuff and lapilli with fragments of pumice, ash, black lithics, and quartz crystals; marker unit below the vitreous black dacite",49.9,0.3,0.3,Igneous Crystallization,U-Pb,Zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Canadian Journal of Earth Sciences, NRC Research Press, v.51/p.56-103","Bordet, E. et al"
+NAz-9,-123.5273243,52.80381287,,Volcanic,"Orange weathered, ?ow banded and brecciated, white-grey quartz-biotite-phyric rhyolite",51.14,0.07,0.07,Igneous Crystallization,U-Pb,Zircon,CA-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Canadian Journal of Earth Sciences, NRC Research Press, v.51/p.56-103","Bordet, E. et al"
+TBar-10,-123.196427,53.01405432,,Volcanic,Pale yellow ?ow-banded biotite–feldspar-phyric rhyolitic lava,52.75,0.36,0.36,Igneous Crystallization,Ar-Ar,Biotite,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Canadian Journal of Earth Sciences, NRC Research Press, v.51/p.56-103","Bordet, E. et al"
+TBar-11,-123.2730944,52.91836248,,Volcanic,Pale yellow–pink ?ow-banded biotite–quartz–feldspar-phyric rhyolite,50.6,1.1,1.1,Igneous Crystallization,Ar-Ar,Biotite,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Canadian Journal of Earth Sciences, NRC Research Press, v.51/p.56-103","Bordet, E. et al"
+TBz-10,-123.196427,53.01405432,,Volcanic,Pale yellow ?ow-banded biotite–feldspar-phyric rhyolite,50.5,2,2,Igneous Crystallization,U-Pb,Zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Canadian Journal of Earth Sciences, NRC Research Press, v.51/p.56-103","Bordet, E. et al"
+TBz-17,-123.2321774,52.86794583,,Volcanic,Dark grey ?ow-banded biotite–plagioclase-phyric rhyodacite,51.35,0.68,0.68,Igneous Crystallization,U-Pb,Zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Canadian Journal of Earth Sciences, NRC Research Press, v.51/p.56-103","Bordet, E. et al"
+TBz-18,-123.2850013,52.86981753,,Volcanic,Grey ?ow-banded biotite–plagioclase-phyric rhyolite,52.6,1.5,1.5,Igneous Crystallization,U-Pb,Zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Canadian Journal of Earth Sciences, NRC Research Press, v.51/p.56-103","Bordet, E. et al"
+04ES00-07-01,-128.8871249,58.49305355,,Plutonic,Medium grained melanocratic diorite that contains large plagioclase crystals (<1cm across; 10-15 volume %),188.11,0.13,0.13,igneous crystallization,U-Pb,zircon,CA-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Canadian Journal of Earth Sciences, NRC Research Press, v.57/p.575-600","Nixon, G. et al"
+04ES00-07-02a,-128.9009127,58.5006452,,Sedimentary,Volcanic wacke comprising epidote-plagioclase-opaques ± amphibole ± biotite ± quartz that was collected from the large screen of metasedimentary rocks at the northwestern margin of the Turnagain intrusion. These rocks are intruded by coarse-grained hornblendite and medium-grained dunite (both Stage 2) and cut by Stage 2 hornblendite dykes.,301.7,7.2,7.2,maximum deposition,U-Pb,zircon,AA-ID-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Canadian Journal of Earth Sciences, NRC Research Press, v.57/p.575-600","Nixon, G. et al"
+04ES00-07-02b,-128.9009127,58.5006452,,Sedimentary,Volcanic wacke comprising epidote-plagioclase-opaques ± amphibole ± biotite ± quartz that was collected from the large screen of metasedimentary rocks at the northwestern margin of the Turnagain intrusion. These rocks are intruded by coarse-grained hornblendite and medium-grained dunite (both Stage 2) and cut by Stage 2 hornblendite dykes.,2142.1,3.1,3.1,inheritance,U-Pb,zircon,AA-ID-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Canadian Journal of Earth Sciences, NRC Research Press, v.57/p.575-600","Nixon, G. et al"
+04ES00-07-03,-128.8362942,58.4640787,,Plutonic,Medium-grained wehrlite that contains minor interstitial phlogopite (1-2 volume %) and was collected at the southern extremity of the Turnagain intrusion.,188.6,1.2,1.2,cooling,Ar-Ar,phlogopite,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Canadian Journal of Earth Sciences, NRC Research Press, v.57/p.575-600","Nixon, G. et al"
+04ES00-07-04a,-128.9013414,58.5007084,,Plutonic,"Thin (30-50cm wide), fine-grained, equigranular hornblendite dyke that cuts the screen of hornfelsed sedimentary rocks that contain the volcanic wacke",190.3,4.6,4.6,igneous crystallization,U-Pb,titanite,ID-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Canadian Journal of Earth Sciences, NRC Research Press, v.57/p.575-600","Nixon, G. et al"
+04ES00-07-04b,-128.9013414,58.5007084,,Plutonic,"Thin (30-50cm wide), fine-grained, equigranular hornblendite dyke that cuts the screen of hornfelsed sedimentary rocks that contain the volcanic wacke",187.4,1.5,1.5,igneous crystallization,Ar-Ar,hornblende,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Canadian Journal of Earth Sciences, NRC Research Press, v.57/p.575-600","Nixon, G. et al"
+13GNX60-2-1a,-128.9013869,58.48449708,,Plutonic,Coarse-grained to pegmatitic with large crystals of clinopyroxene (1-6cm in length) and serpentinized olivine (?1cm across).,185.68,0.19,0.19,igneous crystallization,U-Pb,zircon,CA-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Canadian Journal of Earth Sciences, NRC Research Press, v.57/p.575-600","Nixon, G. et al"
+13GNX60-2-1b,-128.9013869,58.48449708,,Plutonic,Coarse-grained to pegmatitic with large crystals of clinopyroxene (1-6cm in length) and serpentinized olivine (?1cm across).,236.37,0.23,0.23,xenocrysts,U-Pb,zircon xenocryst,CA-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Canadian Journal of Earth Sciences, NRC Research Press, v.57/p.575-600","Nixon, G. et al"
+DDH04-07-12-89.2,-128.8925813,58.48696887,,Plutonic,"Coarse-grained to pegmatitic, leucocratic hornblende diorite with euhedral crystals of amphibole (3cm long; 20 volume %) and euhedral plagioclase (1cm across). The 9m interval from which this sample was taken contains multiple 10-50cm thick, hornblende-and feldspar-rich layers with gradational contacts.",185.3,0.12,0.12,igneous crystallization,U-Pb,zircon,CA-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Canadian Journal of Earth Sciences, NRC Research Press, v.57/p.575-600","Nixon, G. et al"
+14-JN-18-3,-130.8171186,56.52305995,,Plutonic,Plagioclase-phyric dike with sheared margins cutting into and across S-C fabric on Pins Ridge; S = 324/23 NE; C = 305/56 NE,194.28,0.18,0.18,igneous crystallization,U-Pb,zircon,CA-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Canadian Institute of Mining Metallurgy and Petroleum, Porphyry Deposits of the Northwestern Cordillera of North America: A 25-Year Update, Special Volume 57 Section 1","Nelson, J. L., and van Straaten, B. I."
+2014JK308,-131.0600801,56.60129629,,Plutonic,Plagioclase-phyric dike with sheared margins and foliated chlorite cutting Sky fault system on south side of  Johnny Mountain; internal flattening fabric 327/65 parallels bounding faults and fabrics in host conglomerates,190.7,0.17,0.17,igneous crystallization,U-Pb,zircon,CA-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Canadian Institute of Mining Metallurgy and Petroleum, Porphyry Deposits of the Northwestern Cordillera of North America: A 25-Year Update, Special Volume 57 Section 1","Nelson, J. L., and van Straaten, B. I."
+2014JK227,-130.9804799,56.65670387,,Plutonic,"Plagioclase-phyric diorite, top of Snippaker Mountain",191.55,0.2,0.2,igneous crystallization,U-Pb,zircon,CA-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Canadian Institute of Mining Metallurgy and Petroleum, Porphyry Deposits of the Northwestern Cordillera of North America: A 25-Year Update, Special Volume 57 Section 1","Nelson, J. L., and van Straaten, B. I."
+"EP-1,EP3-1,EP3-2,EP-5",-133.38905,59.110733,,Sedimentary,"?5mm in diameter eclogite clasts and comprise garnet + clinopyroxene + rutile ± apatite ± quartz ± zircon within ERM conglomerate. Rutile is 20 - 100 µm in diameter and occurs as inclusions in garnet and clinopyroxene, and as cuspate crystals along grain boundaries.",182,15,15,maximum deposition,U-Pb,rutile,SHRIMP,Geological Survey of Canada,"Earth and Planetary Science Letters, Elsevier B.V., v.494/p.23-31","Kellett, D. A. et al"
+ZE09-006,-133.7720833,59.32708333,,Sedimentary,?5mm in diameter eclogite clasts and comprise garnet + clinopyroxene + rutile ± apatite ± quartz ± zircon within ERM conglomerate. Zircon was identified as ? 2µm grains in some eclogite clasts.,182.8,2.3,2.3,maximum deposition,U-Pb,zircon,SHRIMP,Geological Survey of Canada,"Earth and Planetary Science Letters, Elsevier B.V., v.494/p.23-31","Kellett, D. A. et al"
+ZE09-016,-133.3872778,59.11041667,,Sedimentary,?5mm in diameter eclogite clasts and comprise garnet + clinopyroxene + rutile ± apatite ± quartz ± zircon within ERM conglomerate. Zircon was identified as ? 2µm grains in some eclogite clasts.,186,2,2,maximum deposition,U-Pb,zircon,SHRIMP,Geological Survey of Canada,"Earth and Planetary Science Letters, Elsevier B.V., v.494/p.23-31","Kellett, D. A. et al"
+12MMA-5-4-1,-121.5102476,49.46746135,,ultramafic,olivine-bearing pyroxenite,88.6,1.9,1.9,crystallization,U-Pb,Zircon,CA-ID-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Economic Geology, Society of Economic Geologists Inc., v.112/p.1395-1418","Manor, M. J. et al"
+03GNX-3-1-1,-121.4987301,49.46857175,,ultramafic,hornblende pyroxenite,94.3,1.4,1.4,crystallization,U-Pb,Zircon,CA-ID-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Economic Geology, Society of Economic Geologists Inc., v.112/p.1395-1418","Manor, M. J. et al"
+12MMA-2-4-1,-121.4962232,49.46524688,,ultramafic,hornblende pyroxenite,91.35,0.92,0.92,crystallization,U-Pb,Zircon,CA-ID-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Economic Geology, Society of Economic Geologists Inc., v.112/p.1395-1418","Manor, M. J. et al"
+13MMA-2-7-1,-121.4940813,49.46848432,,ultramafic,hornblendite,93.3,1.5,1.5,crystallization,U-Pb,Zircon,CA-ID-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Economic Geology, Society of Economic Geologists Inc., v.112/p.1395-1418","Manor, M. J. et al"
+12MMA-2-3-1,-121.4962598,49.46675857,,ultramafic,Spuzzum gabbronorite,89.6,1.5,1.5,crystallization,U-Pb,Zircon,CA-ID-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Economic Geology, Society of Economic Geologists Inc., v.112/p.1395-1418","Manor, M. J. et al"
+12MMA-2-1-5,-121.4797907,49.47221033,,ultramafic,Spuzzum quartz diorite,88.9,1.9,1.9,crystallization,U-Pb,Zircon,CA-ID-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Economic Geology, Society of Economic Geologists Inc., v.112/p.1395-1418","Manor, M. J. et al"
+12MMA-6-5-1,-121.4942758,49.47564716,,ultramafic,Spuzzum quartz diorite,93.1,2,2,crystallization,U-Pb,Zircon,CA-ID-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Economic Geology, Society of Economic Geologists Inc., v.112/p.1395-1418","Manor, M. J. et al"
+11GNX-1-3-1,-121.4968435,49.46888007,,ultramafic,Spuzzum quartz diorite,95.27,0.95,0.95,crystallization,U-Pb,Zircon,CA-ID-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Economic Geology, Society of Economic Geologists Inc., v.112/p.1395-1418","Manor, M. J. et al"
+RC13-40,-129.8050447,57.69877294,-173.5,Plutonic,"Leucodiorite porphyry, sericite with pyrite vein",211.6,1.3,1.3,igneous crystallization,U-Pb,zircon,LA-ICP-MS,University of Alberta,"Economic Geology, Society of Economic Geologists Inc., v.113/p.1047-1075","Zhu, J. et al"
+RC13-107,-129.8286103,57.69388124,-943.8,Plutonic,"Quartz monzonite porphyry, secondary K-feldspar with hematite",206,1.2,1.2,igneous crystallization,U-Pb,zircon,LA-ICP-MS,University of Alberta,"Economic Geology, Society of Economic Geologists Inc., v.113/p.1047-1075","Zhu, J. et al"
+RC13-33,-129.7947938,57.70290531,-1008.8,Plutonic,"Quartz monzonite porphyry, minor sericite",203.6,1.8,1.8,igneous crystallization,U-Pb,zircon,LA-ICP-MS,University of Alberta,"Economic Geology, Society of Economic Geologists Inc., v.113/p.1047-1075","Zhu, J. et al"
+RC13-78,-129.7972415,57.70669179,-1003.4,Plutonic,"Monzonite porphyry, minor chlorite",201.7,1.2,1.2,igneous crystallization,U-Pb,zircon,LA-ICP-MS,University of Alberta,"Economic Geology, Society of Economic Geologists Inc., v.113/p.1047-1075","Zhu, J. et al"
+RC13-82,-129.7972415,57.70669179,-1122,Hydrothermal,Quartz-carbonate-pyrite-molybdenite-chalcopyrite vein,206.5,0.8,0.8,mineralization,Re-Os,molybdenite,LA-MC-ICP-MS,University of Alberta,"Economic Geology, Society of Economic Geologists Inc., v.113/p.1047-1075","Zhu, J. et al"
+RC13-88,-129.826979,57.69225944,-795,Hydrothermal,Quartz-carbonate-pyrite-molybdenite-chalcopyrite vein,205.7,0.9,0.9,mineralization,Re-Os,molybdenite,LA-MC-ICP-MS,University of Alberta,"Economic Geology, Society of Economic Geologists Inc., v.113/p.1047-1075","Zhu, J. et al"
+RC13-103,-129.8286103,57.69388124,-1124,Hydrothermal,Quartz-carbonate-pyrite-molybdenite-chalcopyrite vein,205.9,1.1,1.1,mineralization,Re-Os,molybdenite,LA-MC-ICP-MS,University of Alberta,"Economic Geology, Society of Economic Geologists Inc., v.113/p.1047-1075","Zhu, J. et al"
+S-73,-130.2441038,56.52527581,1015,Hydrothermal,Quartz-molybdenite vein,191.3,0.7,0.7,hydrothermal,Re-Os,molybdenite,N-TIMS,"Colorado State University
+of Manitoba Geochronology Laboratory","Economic Geology, Society of Economic Geologists Inc., v.114/p.303-324","Febbo, G. E. et al"
+S-11,-130.2414144,56.53102615,722,Hydrothermal,Quartz-molybdenite vein,192,1,1,hydrothermal,Re-Os,molybdenite,N-TIMS,"Colorado State University
+of Manitoba Geochronology Laboratory","Economic Geology, Society of Economic Geologists Inc., v.114/p.303-324","Febbo, G. E. et al"
+SF-12,-130.2171781,56.51396982,1617,Hydrothermal,Quartz-pyrite-molybdenite veinlet,191.1,0.8,0.8,hydrothermal,Re-Os,molybdenite,N-TIMS,ALS Canada Ltd. (Vancouver),"Economic Geology, Society of Economic Geologists Inc., v.114/p.303-324","Febbo, G. E. et al"
+SF-21,-130.2200733,56.51303394,1473,Hydrothermal,Quartz-pyrite-molybdenite veinlet,191.1,0.8,0.8,hydrothermal,Re-Os,molybdenite,N-TIMS,ALS Canada Ltd. (Vancouver),"Economic Geology, Society of Economic Geologists Inc., v.114/p.303-324","Febbo, G. E. et al"
+RE-AF06-53,-123.1791656,52.02849801,,Volcanic,Basalt,9,1.4,1.4,,Ar-Ar,,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",GeoscienceBC Report GBC2006-003,"Russell, K."
+RE-AR06-10,-120.9762953,50.97459209,,Volcanic,Basalt,11.04,0.14,0.14,,Ar-Ar,,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",GeoscienceBC Report GBC2006-003,"Russell, K."
+RE-AR06-8,-120.9824903,50.97988864,,Volcanic,Basalt,9.64,0.35,0.35,,Ar-Ar,,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",GeoscienceBC Report GBC2006-003,"Russell, K."
+RE-BC-214E,-123.3753321,52.09174604,,Volcanic,Basalt,5.32,0.8,0.8,,Ar-Ar,,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",GeoscienceBC Report GBC2006-003,"Russell, K."
+RE-CD06-66,-123.7742498,51.49016867,,Volcanic,Basalt,6.21,0.3,0.3,,Ar-Ar,,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",GeoscienceBC Report GBC2006-003,"Russell, K."
+RE-CH06-12,-121.4396883,51.18101633,,Volcanic,Basalt,9.65,0.4,0.4,,Ar-Ar,,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",GeoscienceBC Report GBC2006-003,"Russell, K."
+RE-CH06-18,-121.4403993,51.18199705,,Volcanic,Basalt,9.86,0.3,0.3,,Ar-Ar,,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",GeoscienceBC Report GBC2006-003,"Russell, K."
+RE-CH06-4,-121.4459074,51.18669272,,Volcanic,Basalt,9.07,0.26,0.26,,Ar-Ar,,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",GeoscienceBC Report GBC2006-003,"Russell, K."
+RE-CH06-92,-121.4593675,51.16067438,,Volcanic,Basalt,9.83,0.32,0.32,,Ar-Ar,,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",GeoscienceBC Report GBC2006-003,"Russell, K."
+RE-CH08-1,-121.4392023,51.18015552,,Volcanic,Basalt,10,0.48,0.48,,Ar-Ar,,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",GeoscienceBC Report GBC2006-003,"Russell, K."
+RE-CH08-4,-121.4436834,51.18474766,,Volcanic,Basalt,9.44,0.24,0.24,,Ar-Ar,,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",GeoscienceBC Report GBC2006-003,"Russell, K."
+RE-CH08-91,-121.476492,51.22082728,,Volcanic,Basalt,8.89,0.42,0.42,,Ar-Ar,,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",GeoscienceBC Report GBC2006-003,"Russell, K."
+RE-CH08-92,-121.476492,51.22082728,,Volcanic,Basalt,8.18,0.74,0.74,,Ar-Ar,,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",GeoscienceBC Report GBC2006-003,"Russell, K."
+RE-DC06-32,-122.1988685,51.59879859,,Volcanic,Basalt,1.162,0.057,0.057,,Ar-Ar,,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",GeoscienceBC Report GBC2006-003,"Russell, K."
+RE-DC06-36,-122.2058165,51.5944758,,Volcanic,Basalt,2.89,0.42,0.42,,Ar-Ar,,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",GeoscienceBC Report GBC2006-003,"Russell, K."
+RE-DM06-21,-120.8856798,51.14405543,,Volcanic,Basalt,17.33,0.28,0.28,,Ar-Ar,,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",GeoscienceBC Report GBC2006-003,"Russell, K."
+RE-DM06-22,-120.8856798,51.14405543,,Volcanic,Basalt,17.43,0.16,0.16,,Ar-Ar,,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",GeoscienceBC Report GBC2006-003,"Russell, K."
+RE-HY06-241,-121.5207672,51.18518126,,Volcanic,Basalt,8.26,0.91,0.91,,Ar-Ar,,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",GeoscienceBC Report GBC2006-003,"Russell, K."
+RE-HY06-242,-121.5207672,51.18518126,,Volcanic,Basalt,9.19,0.41,0.41,,Ar-Ar,,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",GeoscienceBC Report GBC2006-003,"Russell, K."
+RE-HY06-291,-121.4871702,51.24368168,,Volcanic,Basalt,8.29,0.97,0.97,,Ar-Ar,,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",GeoscienceBC Report GBC2006-003,"Russell, K."
+RE-HY06-292,-121.4871702,51.24368168,,Volcanic,Basalt,9.04,0.41,0.41,,Ar-Ar,,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",GeoscienceBC Report GBC2006-003,"Russell, K."
+RE-SK06-60,-123.2643899,52.09017694,,Volcanic,Basalt,2.78,0.21,0.21,,Ar-Ar,,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",GeoscienceBC Report GBC2006-003,"Russell, K."
+RE-SK06-64,-123.2643899,52.09017694,,Volcanic,Basalt,2.17,0.26,0.26,,Ar-Ar,,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",GeoscienceBC Report GBC2006-003,"Russell, K."
+RE-VK06-79,-123.8068264,51.54128386,,Volcanic,Basalt,8.24,0.58,0.58,,Ar-Ar,,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",GeoscienceBC Report GBC2006-003,"Russell, K."
+RE-VK06-86,-123.8046367,51.54222506,,Volcanic,Basalt,7.27,0.35,0.35,,Ar-Ar,,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",GeoscienceBC Report GBC2006-003,"Russell, K."
+RE-VK06-89,-123.8038588,51.54226636,,Volcanic,Basalt,6.61,0.36,0.36,,Ar-Ar,,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",GeoscienceBC Report GBC2006-003,"Russell, K."
+84WV_A,-122.6166,50.7422,,Plutonic,Coarse-grained quartz-rich biotite granitoid,65,0.2,0.2,igneous crystallization,U-Pb,zircon,CA-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",GeoscienceBC Report GBC2006-005,"Hart, C. J. R."
+84WV_B,-122.6166,50.7422,,Plutonic,Coarse-grained quartz-rich biotite granitoid,65.2,0.8,0.8,igneous crystallization,U-Pb,zircon,SHRIMP,"John de Laeter Center, Curtin University (Perth)",GeoscienceBC Report GBC2006-005,"Hart, C. J. R."
+84WV_C,-122.6166,50.7422,,Plutonic,Coarse-grained quartz-rich biotite granitoid,64.9,0.6,0.6,cooling,Ar-Ar,biotite,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",GeoscienceBC Report GBC2006-005,"Hart, C. J. R."
+CH-BN,-122.7587,50.8255,,Plutonic,Coarse-grained quartz-rich biotite granitoid,64.9,0.8,0.8,igneous crystallization,U-Pb,zircon,SHRIMP,"John de Laeter Center, Curtin University (Perth)",GeoscienceBC Report GBC2006-005,"Hart, C. J. R."
+CH-BS,-122.638,50.721,,Plutonic,"Coarse-grained quartz-rich biotite granitoid, weak foliation from Piebiter Ck.",63.2,1.2,1.2,igneous crystallization,U-Pb,zircon,SHRIMP,"John de Laeter Center, Curtin University (Perth)",GeoscienceBC Report GBC2006-005,"Hart, C. J. R."
+CH-Eldo,-122.8737,51.0011,,Plutonic,"Porphyritic textured, coarse-grained quartz-rich biotite granitoid",66.9,0.9,0.9,igneous crystallization,U-Pb,zircon,SHRIMP,"John de Laeter Center, Curtin University (Perth)",GeoscienceBC Report GBC2006-005,"Hart, C. J. R."
+CH-Congress-PPY,-122.783,50.89,,Plutonic,"Andesitic feldspar porphyry, probably a dyke, from mine dump",71.2,1.5,1.5,igneous crystallization,U-Pb,zircon,SHRIMP,"John de Laeter Center, Curtin University (Perth)",GeoscienceBC Report GBC2006-005,"Hart, C. J. R."
+CH-Wayside-CGGD,-122.828,50.89,,Plutonic,"Coarse-grained tonalite, probably a dyke, collected from mine dump",81,0.7,0.7,igneous crystallization,U-Pb,zircon,SHRIMP,"John de Laeter Center, Curtin University (Perth)",GeoscienceBC Report GBC2006-005,"Hart, C. J. R."
+BGR3-51,-122.787,50.771,,Plutonic,"Leucodiorite host rocks to 51 vein, from mine dump",270,5,5,igneous crystallization,U-Pb,zircon,SHRIMP,"John de Laeter Center, Curtin University (Perth)",GeoscienceBC Report GBC2006-005,"Hart, C. J. R."
+CH-Wayside-Leuco,-122.828,50.89,,Plutonic,"Coarse grained leucocratic diorite, from mine dump",268,4,4,igneous crystallization,U-Pb,zircon,SHRIMP,"John de Laeter Center, Curtin University (Perth)",GeoscienceBC Report GBC2006-005,"Hart, C. J. R."
+Wayside93-91400,-122.828,50.89,,Plutonic,"Coarse grained leucogabbro, core from mine dump",270,2,2,igneous crystallization,U-Pb,zircon,SHRIMP,"John de Laeter Center, Curtin University (Perth)",GeoscienceBC Report GBC2006-005,"Hart, C. J. R."
+1-BR,-122.803,50.778,,Hydrothermal,Auriferous quartz vein with fuchsite in wall-rock fragments,67.6,0.7,0.7,mineralization,Ar-Ar,fuchsite,Laser step heating,USGS,GeoscienceBC Report GBC2006-005,"Hart, C. J. R."
+1-PE,-122.818,50.788,,Hydrothermal,Auriferous quartz vein with fuchsite in wall-rock fragments,66.8,0.5,0.5,mineralization,Ar-Ar,fuchsite,Laser step heating,USGS,GeoscienceBC Report GBC2006-005,"Hart, C. J. R."
+P-EXT,-122.7533,50.75,,Hydrothermal,"Auriferous quartz vein with muscovite replacing encapsulated wall-rock fragments, from mine dump",64,0.4,0.4,mineralization,Ar-Ar,muscovite,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",GeoscienceBC Report GBC2006-005,"Hart, C. J. R."
+P-EXT2,-122.7533,50.75,,Hydrothermal,"Auriferous quartz vein with muscovite replacing encapsulated wall-rock fragments, from mine dump",64.7,0.4,0.4,mineralization,Ar-Ar,muscovite,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",GeoscienceBC Report GBC2006-005,"Hart, C. J. R."
+CH-Mid-Minto1,-122.752,50.9,,Metamorphic,foliated greenstone with fuchsite alteration,93.2,0.6,0.6,formation or cooling,Ar-Ar,fuchsite,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",GeoscienceBC Report GBC2006-005,"Hart, C. J. R."
+CH-Mid-Minto2,-122.752,50.9,,Metamorphic,foliated greenstone with fuchsite alteration,92.8,0.8,0.8,formation or cooling,Ar-Ar,fuchsite,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",GeoscienceBC Report GBC2006-005,"Hart, C. J. R."
+07RH-117,-115.6179896,49.39376894,,Sediment,"Intraflow sediment. Majority of zircons are rounded, consistent with detrital origin. The zircons range from colorless to pale brown and are moderately to well rounded, with strong evidence of mechanical abrasion on the surface.",1439,18,18,maximum depositional,U-Pb,zircon,SHRIMP,Geological Survey of Canada,GeoscienceBC Report GBC2007-019,"Hartlaub, R."
+07RH-70,-115.1089968,49.24586744,,Plutonic,"K-feldspar porphyry. Zircons are colourless, euhedral and have sharply facetted crystals.",102,24,24,igneous crystallization,U-Pb,zircon,SHRIMP,Geological Survey of Canada,GeoscienceBC Report GBC2007-019,"Hartlaub, R."
+10M-06,-120.045018,49.35988605,,Plutonic,Fine to medium grained hornblende diorite,195.5,1.2,1.2,igneous crystallization,U-Pb,zircon,LA-MC-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Geoscience BC, Summary of Activies 2013, Report 2014-1, p.83","Mortensen, J."
+10M-04,-119.9162459,49.40124818,,Plutonic,Fresh hornblende granodiorite,194.5,0.9,0.9,igneous crystallization,U-Pb,zircon,LA-MC-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Geoscience BC, Summary of Activies 2013, Report 2014-1, p.83","Mortensen, J."
+10KL-115,-119.8987885,49.39531783,,Plutonic,Hornblende granodiorite,196.7,4.9,4.9,igneous crystallization,U-Pb,zircon,LA-MC-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Geoscience BC, Summary of Activies 2013, Report 2014-1, p.83","Mortensen, J."
+10M-05,-119.9707008,49.39807034,,Plutonic,"Massive, very fresh, biotite-hornblende quartz monzonite",196.7,1,1,igneous crystallization,U-Pb,zircon,LA-MC-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Geoscience BC, Summary of Activies 2013, Report 2014-1, p.83","Mortensen, J."
+10M-33,-119.923095,49.39981553,,Plutonic,Medium grained quartz diorite,195.1,1.6,1.6,igneous crystallization,U-Pb,zircon,LA-MC-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Geoscience BC, Summary of Activies 2013, Report 2014-1, p.83","Mortensen, J."
+10M-08,-120.0391515,49.33556118,,Plutonic,Biotite quartz monzonite,162.9,0.9,0.9,igneous crystallization,U-Pb,zircon,LA-MC-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Geoscience BC, Summary of Activies 2013, Report 2014-1, p.83","Mortensen, J."
+10M-10,-119.8493581,49.273049,,Plutonic,Medium grained trachytic syenite,192.8,2.9,2.9,igneous crystallization,U-Pb,zircon,LA-MC-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Geoscience BC, Summary of Activies 2013, Report 2014-1, p.83","Mortensen, J."
+10KL-111,-119.6680464,49.01839069,,Plutonic,"Massive, coarse grained, biotite quartz monzonite",169.7,0.7,0.7,igneous crystallization,U-Pb,zircon,LA-MC-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Geoscience BC, Summary of Activies 2013, Report 2014-1, p.83","Mortensen, J."
+14EW024,-124.2787493,53.49278442,,Plutonic,Hornblende quartz monzonite,163.4,2.2,2.2,igneous crystallization,U-Pb,zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","GeoscienceBC Report GBC2018-12, MDRU Publication","Angen, J. J. et al"
+14EW061,-125.0781442,53.9001637,,Plutonic,Hornblende biotite quartz monzonite,66.9,0.5,0.5,igneous crystallization,U-Pb,zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","GeoscienceBC Report GBC2018-12, MDRU Publication","Angen, J. J. et al"
+14EW180,-123.815499,53.52165237,,Volcanic,Flow banded rhyolite,165.4,1.6,1.6,igneous crystallization,U-Pb,zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","GeoscienceBC Report GBC2018-12, MDRU Publication","Angen, J. J. et al"
+14JA008,-124.9184807,53.57298535,,Volcanic,Quartz feldspar crystal tuff,51.5,0.8,0.8,igneous crystallization,U-Pb,zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","GeoscienceBC Report GBC2018-12, MDRU Publication","Angen, J. J. et al"
+14JA013,-124.9766344,53.63453745,,Volcanic,Rhyolitic lithic lapilli tuff,50.8,1.2,1.2,igneous crystallization,U-Pb,zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","GeoscienceBC Report GBC2018-12, MDRU Publication","Angen, J. J. et al"
+14JA053,-124.6352752,53.67944013,,Plutonic,Biotite Monzogranite,150.8,1.3,1.3,igneous crystallization,U-Pb,zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","GeoscienceBC Report GBC2018-12, MDRU Publication","Angen, J. J. et al"
+14JA161,-125.3157784,53.49950034,,Volcanic,Bitoite quartz feldspar phyric rhyolite,49.3,0.4,0.4,igneous crystallization,U-Pb,zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","GeoscienceBC Report GBC2018-12, MDRU Publication","Angen, J. J. et al"
+14RK048,-125.3667996,53.9053098,,Volcanic,Feldspar crystal lithic tuff,73.8,0.9,0.9,igneous crystallization,U-Pb,zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","GeoscienceBC Report GBC2018-12, MDRU Publication","Angen, J. J. et al"
+15AA005,-125.1881036,53.26314868,,Plutonic,Hornblende biotite granite,72.2,0.5,0.5,igneous crystallization,U-Pb,zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","GeoscienceBC Report GBC2018-12, MDRU Publication","Angen, J. J. et al"
+15JA017,-125.2440544,53.12824018,,Plutonic,Hornblende biotite granite,156.2,1.5,1.5,igneous crystallization,U-Pb,zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","GeoscienceBC Report GBC2018-12, MDRU Publication","Angen, J. J. et al"
+15JA037,-125.0621443,53.18831698,,Volcanic,Thin bedded mudstone and tuff,165.3,1.9,1.9,igneous crystallization,U-Pb,zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","GeoscienceBC Report GBC2018-12, MDRU Publication","Angen, J. J. et al"
+15JA069,-124.9431054,53.10599522,,Plutonic,Biotite hornblende plagioclase porphyritic quartz monzodiorite,155.9,1.5,1.5,igneous crystallization,U-Pb,zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","GeoscienceBC Report GBC2018-12, MDRU Publication","Angen, J. J. et al"
+15JA102,-124.9735194,53.14571025,,Volcanic,Quartz feldspar crystal lithic tuff,68.4,0.6,0.6,igneous crystallization,U-Pb,zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","GeoscienceBC Report GBC2018-12, MDRU Publication","Angen, J. J. et al"
+15JA136,-124.8283256,53.08736945,,Volcanic,Quartz feldspar bearing lithic lapilli tuff,180,1.4,1.4,igneous crystallization,U-Pb,zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","GeoscienceBC Report GBC2018-12, MDRU Publication","Angen, J. J. et al"
+15JA231,-124.9574866,53.93223557,,Volcanic,Fresh vitric tuff,67.5,1,1,igneous crystallization,U-Pb,zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","GeoscienceBC Report GBC2018-12, MDRU Publication","Angen, J. J. et al"
+15JL101,-124.994497,53.26784031,,Volcanic,Quartz phyric flow banded rhyolite,178.7,2.2,2.2,igneous crystallization,U-Pb,zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","GeoscienceBC Report GBC2018-12, MDRU Publication","Angen, J. J. et al"
+15JL226,-124.9852923,53.84821951,,Volcanic,Biotite quartz crystal lithic tuff,68.7,0.8,0.8,igneous crystallization,U-Pb,zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","GeoscienceBC Report GBC2018-12, MDRU Publication","Angen, J. J. et al"
+15JL257,-123.6144083,53.65835028,,Plutonic,Biotite granite,51.5,0.8,0.8,igneous crystallization,U-Pb,zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","GeoscienceBC Report GBC2018-12, MDRU Publication","Angen, J. J. et al"
+15RK184,-124.9620367,53.20050025,,Volcanic,Flow laminated rhyolite,74.6,1.9,1.9,igneous crystallization,U-Pb,zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","GeoscienceBC Report GBC2018-12, MDRU Publication","Angen, J. J. et al"
+14JA044,-124.0793343,53.64037408,,Metamorphic,Orthogneiss with garbenschiefer hornblende,51.9,0.4,0.4,metamorphic cooling,Ar-Ar,hornblende,Laser step heating,University of Alaska,"GeoscienceBC Report GBC2018-12, MDRU Publication","Angen, J. J. et al"
+14JA066,-125.1772337,53.89999824,,Volcanic,"Hornblende-, biotite- and plagioclase-phyric andesite",63.8,0.7,0.7,cooling,Ar-Ar,hornblende,Laser step heating,University of Alaska,"GeoscienceBC Report GBC2018-12, MDRU Publication","Angen, J. J. et al"
+14RK033,-125.1055744,53.95067625,,Volcanic,Plagioclase crystal tuff,71.6,0.3,0.3,cooling,Ar-Ar,biotite,Laser step heating,University of Alaska,"GeoscienceBC Report GBC2018-12, MDRU Publication","Angen, J. J. et al"
+14RK058,-124.8427746,53.83668552,,Volcanic,Hornblende megacrystic lapilli tuff,49.1,1.1,1.1,cooling,Ar-Ar,hornblende,Laser step heating,University of Alaska,"GeoscienceBC Report GBC2018-12, MDRU Publication","Angen, J. J. et al"
+14RK088,-125.1335624,53.93915163,,Volcanic,Quartz plagioclase biotite crystal lithic tuff,69,0.5,0.5,cooling,Ar-Ar,biotite,Laser step heating,University of Alaska,"GeoscienceBC Report GBC2018-12, MDRU Publication","Angen, J. J. et al"
+15JA073,-124.9457614,53.10890077,,Volcanic,Hornblende- and plagioclase-phyric andesite,156.2,1.4,1.4,cooling,Ar-Ar,hornblende,Laser step heating,University of Alaska,"GeoscienceBC Report GBC2018-12, MDRU Publication","Angen, J. J. et al"
+15RK136,-124.8552567,53.91579881,,Volcanic,Plagioclase and hornblende bearing lapilli tuff,53.4,0.8,0.8,cooling,Ar-Ar,hornblende,Laser step heating,University of Alaska,"GeoscienceBC Report GBC2018-12, MDRU Publication","Angen, J. J. et al"
+MMI97-30-6,-132.3135044,59.95998579,,Plutonic,Medium grained tonalite,352.9,1.4,1.4,Igneous crystallization,U-Pb,zircon,AA-ID-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Geological Association of Canada, Special Paper 45, p.179-200","Mihalynuk, M. G. et al"
+MMI00-6-12,-131.7114325,59.84088142,,Plutonic,Porphyry stock containing feldspar and blue quartz eyes,340,1.3,1.3,Igneous crystallization,U-Pb,zircon,AA-ID-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Geological Association of Canada, Special Paper 45, p.179-200","Mihalynuk, M. G. et al"
+99JN27-5,-132.0236192,59.62578958,,Plutonic,"Tan to pink, massive to foliated quartz-eye porphyry",336,16,1,Igneous crystallization,U-Pb,zircon,AA-ID-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Geological Association of Canada, Special Paper 45, p.179-200","Mihalynuk, M. G. et al"
+MMI97-17-7,-131.712007,59.833682,,,Intermediate composition dike,330.7,8.8,5.4,Igneous crystallization,U-Pb,zircon and titanite,AA-ID-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Geological Association of Canada, Special Paper 45, p.179-200","Mihalynuk, M. G. et al"
+MMI97-33-1,-131.9557649,59.77451786,,Plutonic,"Foliated hornblende-biotite tonalite. Weakly-oriented, fine-grained biotite forms elongated clots (20%) up to 1cm long after original biotite phenocrysts. Some of the biotite clots are cored with epidote, probably replacing hornblende. Most plagioclase is strongly replaced by epidote and muscovite.",197.9,5.1,0.5,Igneous crystallization,U-Pb,zircon and titanite,AA-ID-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Geological Association of Canada, Special Paper 45, p.179-200","Mihalynuk, M. G. et al"
+99JN-20-1,-132.0732722,59.65656043,,Plutonic,"Pink, medium to coarse-grained syenite dike",178.4,3.1,3.1,Igneous crystallization,U-Pb,zircon,AA-ID-TIMS,University of Alberta,"Geological Association of Canada, Special Paper 45, p.179-200","Mihalynuk, M. G. et al"
+MMI97-16-3,-132.2047225,59.67290679,,Plutonic,"Dark grey to red-weathering quartz diorite. It is comprised of green, pyroxene-cored hornblende (25%), biotite (10%), titanite (up to 1%), plagioclase (60%) and quartz (10%).",77,,,Igneous crystallization,U-Pb,titanite,ID-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Geological Association of Canada, Special Paper 45, p.179-200","Mihalynuk, M. G. et al"
+MMI99-23-4,-131.9005148,59.49711214,,Plutonic,"Strongly foliated, light grey to white-weathering granite. It is medium grained, consisting of quartz (30%) and plagioclase (30%), with K-feldspar as phenocrysts (20%) and matrix (10%), and 15% smeared, chloritized mafic mineral (biotite?).",57.3,0.4,0.6,Igneous crystallization,U-Pb,zircon,AA-ID-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Geological Association of Canada, Special Paper 45, p.179-200","Mihalynuk, M. G. et al"
+SLB99-31,-119.8333396,51.13936159,,Metamorphic,Quartz-feldspar-phyric schist,360.6,4.7,4.7,crystallization,U-Pb,zircon,AA-ID-TIMS,University of Alberta,"Geological Association of Canada, Special Paper 45, p.383-414","Paradis, S. et al"
+SP02-12A,-119.9010491,51.23563445,,,Coherent quartz-feldspar-phyric flow,345.8,5.3,5.3,crystallization,U-Pb,zircon,AA-ID-TIMS,University of Alberta,"Geological Association of Canada, Special Paper 45, p.383-414","Paradis, S. et al"
+SLA00-016,-119.8189559,50.89802084,,Plutonic,Variably foliated granodiorite,354.3,2.2,2.2,igneous crystallization,U-Pb,zircon,AA-ID-TIMS,University of Alberta,"Geological Association of Canada, Special Paper 45, p.383-414","Paradis, S. et al"
+SLB00-656,-119.8212607,51.07867018,,,Foliated quartz-feldspar-phyric felsic dike or sill,291.5,2.8,2.8,igneous crystallization,U-Pb,zircon,AA-ID-TIMS,University of Alberta,"Geological Association of Canada, Special Paper 45, p.383-414","Paradis, S. et al"
+SLB00-420,-119.7497943,51.12678606,,Plutonic,Foliated diorite sill or dike,"411, 778, 1217",,,Minimum ages for zircon xenocrysts,U-Pb,zircon,AA-ID-TIMS,University of Alberta,"Geological Association of Canada, Special Paper 45, p.383-414","Paradis, S. et al"
+16-2-1C,-125.5712184,49.01637086,,Plutonic,Granodiorite,36.9,0.2,0.2,igneous crystallization,U-Pb,zircon,ID-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Geosphere, Geological Society of America, v.2/p.11-34","Madsen, J. K. et al"
+22-1-1C,-124.4665866,49.12569118,,Plutonic,Hornblende-plagioclase phyric tonalite,38.6,0.2,0.2,igneous crystallization,U-Pb,zircon,ID-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Geosphere, Geological Society of America, v.2/p.11-34","Madsen, J. K. et al"
+10-7-1D,-126.79525,50.03422693,,Plutonic,Granodiorite,35.4,0.2,0.2,igneous crystallization,U-Pb,zircon,ID-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Geosphere, Geological Society of America, v.2/p.11-34","Madsen, J. K. et al"
+4-9-1C,-124.3695811,49.13213641,,Plutonic,Hornblende-plagioclase phyric tonalite,37.4,0.2,0.2,igneous crystallization,U-Pb,zircon,ID-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Geosphere, Geological Society of America, v.2/p.11-34","Madsen, J. K. et al"
+21-2-1C,-126.5928036,49.87556994,,Plutonic,Quartz diorite,48.8,0.5,0.5,igneous crystallization,U-Pb,zircon,ID-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Geosphere, Geological Society of America, v.2/p.11-34","Madsen, J. K. et al"
+15-1-1c,-125.9149096,49.14759599,,Plutonic,Granodiorite,51.2,0.4,0.4,igneous crystallization,U-Pb,zircon,ID-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Geosphere, Geological Society of America, v.2/p.11-34","Madsen, J. K. et al"
+24-5-1D,-125.2957331,49.76640404,,Plutonic,,35.2,0.2,0.2,igneous crystallization,U-Pb,zircon,ID-TIMS,Royal Ontario Museum,"Geosphere, Geological Society of America, v.2/p.11-34","Madsen, J. K. et al"
+8-3-1G,-124.7138443,49.15292502,,Plutonic,,38.6,0.6,0.6,igneous crystallization,U-Pb,zircon,ID-TIMS,Royal Ontario Museum,"Geosphere, Geological Society of America, v.2/p.11-34","Madsen, J. K. et al"
+4718A2,-124.5900151,49.2381781,,Volcanic,"Tholeiitic, pillowed flow. The texture is intersertal and glomeroporphyritic. The plagioclase feldspar is glomeroporphyritic (<2mm) and very fresh.",72.5,1.2,1.2,,Ar-Ar,Plagioclase feldspar,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Geosphere, Geological Society of America, v.6/p.47-73","Greene, A. R. et al"
+4718A3,-124.5941418,49.23833711,,Volcanic,Mafic Dike. The texture is intersertal. Very fine grained plagioclase phenocrysts (<1mm) and blocky oxides.,193,26,26,,Ar-Ar,Plagioclase feldspar,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Geosphere, Geological Society of America, v.6/p.47-73","Greene, A. R. et al"
+4720A6,-126.1349209,50.21226982,,Volcanic,"Tholeiitic, massive flow. The texture is subophitic. The plagioclase is glomeroporphyritic (<3mm) and clinopyroxene (<3mm)",180.9,3.1,3.1,,Ar-Ar,Plagioclase feldspar,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Geosphere, Geological Society of America, v.6/p.47-73","Greene, A. R. et al"
+4723A13,-127.3560262,50.53342872,,Volcanic,"Slightly upstepping plateau, picritic pillow lava. The texture is variolitic. The swallow-tail plagioclase feldspar is <1mm.",161.1,7.3,7.3,,Ar-Ar,Plagioclase feldspar,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Geosphere, Geological Society of America, v.6/p.47-73","Greene, A. R. et al"
+06WX-014-A01,-121.2250114,50.57753616,,Plutonic,Diorite,215.55,0.48,0.48,crystallization,U-Pb,zircon,CA-TIMS,Geological Survey of Canada,"Geological Survey of Canada, Open File 8334","Whalen, J. B. et al"
+06AT111A01,-121.0334854,50.442639,,Plutonic,Biotite-quartz-feldspar porphyry,204.6,1.3,1.3,cooling,U-Pb,zircon,CA-TIMS,Geological Survey of Canada,"Geological Survey of Canada, Open File 8334","Whalen, J. B. et al"
+06WX04A01,-121.0710282,50.42202297,,Plutonic,Quartz-biotite porphyritic granodiorite,208.2,7.7,7.7,cooling,U-Pb,zircon,CA-TIMS,Geological Survey of Canada,"Geological Survey of Canada, Open File 8334","Whalen, J. B. et al"
+06WX010A02,-120.988984,50.52583144,,Plutonic,Homogeneous hornblende-biotite granodiorite with interstitial K-feldspar,210.4,2.6,2.6,cooling,Ar-Ar,hornblende,Laser step heating,Geological Survey of Canada,"Geological Survey of Canada, Open File 8334","Whalen, J. B. et al"
+06AT113A02,-120.9806851,50.49349707,,Plutonic,Hornblende-biotite granodiorite,213.7,3.2,3.2,cooling,Ar-Ar,hornblende,Laser step heating,Geological Survey of Canada,"Geological Survey of Canada, Open File 8334","Whalen, J. B. et al"
+07WX024,-120.9790611,50.49553758,,Plutonic,"White, densely packed, feldspar-quartz-amphibole-porphyry dyke",210.3,0.6,0.6,crystallization,U-Pb,zircon,CA-TIMS,Geological Survey of Canada,"Geological Survey of Canada, Open File 8334","Whalen, J. B. et al"
+DCMD04,-123.3525026,48.49023374,,Intrusive,Massive medium-grained quartz diorite,181.26,0.36,0.36,crystallization,U-Pb,zircon,CA-TIMS,University of Alberta,"Lithosphere, Geological Society of America, v.5/p.82-91","Canil, D. et al."
+CS10-109,-125.982952,49.255895,,Intrusive,"Massive medium-grained quartz monzonite, in drill core",184.46,0.41,0.41,crystallization,U-Pb,zircon,CA-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Lithosphere, Geological Society of America, v.5/p.82-91","Canil, D. et al."
+DC10-02,-125.982952,49.255895,,Intrusive,Massive medium-grained quartz monzonite,186.2,0.18,0.18,crystallization,U-Pb,zircon,CA-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Lithosphere, Geological Society of America, v.5/p.82-91","Canil, D. et al."
+DC0637,-124.5574052,48.66489324,,Intrusive,Massive medium-grained granodiorite,192.62,0.38,0.38,crystallization,U-Pb,zircon,CA-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Lithosphere, Geological Society of America, v.5/p.82-91","Canil, D. et al."
+JL06-110A,-124.3553845,48.62813321,,Intrusive,Massive medium-grained melanodiorite,174.75,0.42,0.42,crystallization,U-Pb,zircon,CA-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Lithosphere, Geological Society of America, v.5/p.82-91","Canil, D. et al."
+JL06-110B,-124.3553845,48.62813321,,Intrusive,Massive medium-grained leucotonalite dike,174.72,0.38,0.38,crystallization,U-Pb,zircon,CA-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Lithosphere, Geological Society of America, v.5/p.82-91","Canil, D. et al."
+DC0507,-124.462367,48.62097654,,Intrusive,"Foliated, sheared medium-grained leucotonalite",193.9,0.2,0.2,crystallization,U-Pb,zircon,CA-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Lithosphere, Geological Society of America, v.5/p.82-91","Canil, D. et al."
+CS10-60,-125.9792524,49.25706619,,Plutonic,Quartz diorite,40.71,0.14,0.14,igneous crystallization,U-Pb,Zircon,CA-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Lithosphere, Elsevier B.V., v.154/p.361-373","Smith, C. M. et al"
+CS10-35,-125.9792524,49.25706619,,Plutonic,Quartz diorite,40.89,0.1,0.1,igneous crystallization,U-Pb,Zircon,CA-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Lithosphere, Elsevier B.V., v.154/p.361-373","Smith, C. M. et al"
+DC10-04,-125.9519116,49.24277062,,Plutonic,Quartz diorite,40.93,0.11,0.11,igneous crystallization,U-Pb,Zircon,CA-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Lithosphere, Elsevier B.V., v.154/p.361-373","Smith, C. M. et al"
+CS10-54,-125.9792524,49.25706619,,Plutonic,Quartz diorite,41.15,0.1,0.1,igneous crystallization,U-Pb,Zircon,CA-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Lithosphere, Elsevier B.V., v.154/p.361-373","Smith, C. M. et al"
+CS10-61,-125.9792524,49.25706619,,Plutonic,Quartz diorite,40.4-41.8,,,igneous crystallization,U-Pb,Zircon,CA-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Lithosphere, Elsevier B.V., v.154/p.361-373","Smith, C. M. et al"
+CF10-119,-125.9792524,49.25706619,,Hydrothermal,Molybdenite as disseminated grains in a quartz-chalcopyrite-pyrite vein.,40.9,0.2,0.2,mineralization,Re-Os,Molybdenite,N-TIMS,University of Alberta,"Lithosphere, Elsevier B.V., v.154/p.361-373","Smith, C. M. et al"
+CS10-108,-125.9792524,49.25706619,,Hydrothermal,Discrete blebs of molybdenite in a quartz-chalcopyrite-pyrite vein.,40.9,0.2,0.2,mineralization,Re-Os,Molybdenite,N-TIMS,University of Alberta,"Lithosphere, Elsevier B.V., v.154/p.361-373","Smith, C. M. et al"
+ZE15-DM-01N,-130.9611566,57.25296743,,Volcanic,Picritic Tuff,221,2,2,cooling,Ar-Ar,hornblende,Laser step heating,McMaster University,"Lithosphere, Elsevier B.V., v.308-309/p.446-461","Milidragovic, D. et al"
+KS-04-03-117,-126.7632257,57.00391308,,Hydrothermal,Quartz-pyrite-chalcopyrite-magnetite-bornite-molybdenite-sercite ± gold vein with phyllic alteration,201.3,1.2,1.2,hydrothermal mineralization,Re-Os,molybdenite,N-TIMS,University of Alberta,"Mineralium Deposita, Springer-Verlag, v.44/p.435-462","Duuring, P. et al"
+KS-04-03-273,-126.7632257,57.00391308,,Hydrothermal,Quartz-pyrite-chalcopyrite-magnetite-bornite-molybdenite-chlorite ± gold vein with phyllic alteration,201.1,1.2,1.2,hydrothermal mineralization,Re-Os,molybdenite,N-TIMS,University of Alberta,"Mineralium Deposita, Springer-Verlag, v.44/p.435-462","Duuring, P. et al"
+KB132,-120.8513804,50.4290021,1373,Plutonic,Granodiorite to quartz monzonite stock.,218.01,0.18,0.18,igneous crystallization,U-Pb,zircon,CA-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","Mineralium Deposita, Springer-Verlag","Lee, R. G., et al"
+JD05-281,-126.6773876,57.22823908,,Plutonic,Monzo-granite with epidote alteration of hornblende and some sercite alteration of plagioclase phenocrysts.,217.8,0.6,0.6,igneous crystallization,U-Pb,zircon,ID-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","M.Sc. Thesis, University of British Columbia, Vancouver, B.C.","Dickinson, J. M."
+JD05-279,-126.6767911,57.21058808,,Volcanic,Andesite tuff with epidote alteration of hornblende,200.9,0.4,0.4,igneous crystallization,U-Pb,zircon,ID-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","M.Sc. Thesis, University of British Columbia, Vancouver, B.C.","Dickinson, J. M."
+JD05-280,-126.7152753,57.21250751,,Plutonic,Quartz monzonite with potassium feldspar alteration of groundmass and sericite alteration of plagioclase phenocrysts.,197.6,0.5,0.5,igneous crystallization,U-Pb,zircon,ID-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","M.Sc. Thesis, University of British Columbia, Vancouver, B.C.","Dickinson, J. M."
+JD05-282,-126.7101736,57.21225281,,Volcanic,Syenite dyke with sericite alteration of plagioclase phenocrysts.,193.8,0.5,0.5,igneous crystallization,U-Pb,zircon,ID-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","M.Sc. Thesis, University of British Columbia, Vancouver, B.C.","Dickinson, J. M."
+JD05-283,-126.7035188,57.21247273,,Volcanic,Rhyolite dyke with some sericite alteration of plagioclase phenocrysts.,193.6,0.4,0.4,igneous crystallization,U-Pb,zircon,ID-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","M.Sc. Thesis, University of British Columbia, Vancouver, B.C.","Dickinson, J. M."
+F05-06-103,-126.6773876,57.22823908,,Hydrothermal,Quartz-pyrite-chalcopyrite ± molybdenite ± sphalerite vein,221,1.4,1.4,hydrothermal mineralization,Re-Os,molybdenite,N-TIMS,University of Alberta,"M.Sc. Thesis, University of British Columbia, Vancouver, B.C.","Dickinson, J. M."
+S.Cgl-f,-133.0401052,58.68405626,,sandstone,,189.6,1,1,Maximum depositional,U-Pb,detrital zircon,SHRIMP,Geological Survey of Canada,"M.Sc. Thesis, University of British Columbia, Vancouver, B.C.","Shirmohammad, F."
+S.b.Cgl-1,-133.0446436,58.67726178,,sandstone,,184.4,1.2,1.2,Maximum depositional,U-Pb,detrital zircon,SHRIMP,Geological Survey of Canada,"M.Sc. Thesis, University of British Columbia, Vancouver, B.C.","Shirmohammad, F."
+Cgl-1,-133.0474835,58.67768219,,conglomerate,granitoid clasts,186.6,0.5,0.5,Crystallization,U-Pb,zircon,CA-ID-TIMS,Geological Survey of Canada,"M.Sc. Thesis, University of British Columbia, Vancouver, B.C.","Shirmohammad, F."
+Cgl-3,-133.0453478,58.67546676,,conglomerate,granitoid clasts,221,1,1,Crystallization,U-Pb,zircon,CA-ID-TIMS,Geological Survey of Canada,"M.Sc. Thesis, University of British Columbia, Vancouver, B.C.","Shirmohammad, F."
+M.Cgl.5-C1,-133.0446571,58.67147652,,conglomerate,micaschist,177,15,15,cooling,Ar-Ar,biotite,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","M.Sc. Thesis, University of British Columbia, Vancouver, B.C.","Shirmohammad, F."
+M.Cgl.4-C4,-133.0439346,58.67082771,,conglomerate,gneiss,160.1,1.3,1.3,cooling,Ar-Ar,biotite,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","M.Sc. Thesis, University of British Columbia, Vancouver, B.C.","Shirmohammad, F."
+S.J-1,-133.0486374,58.66938085,,sandstone,,184.4,1,1,Maximum depositional,U-Pb,detrital zircon,SHRIMP,Geological Survey of Canada,"M.Sc. Thesis, University of British Columbia, Vancouver, B.C.","Shirmohammad, F."
+SU151A,-130.1891964,56.4543828,1242,Hydrothermal,Quartz stockwork veins,191.7,0.8,0.8,hydrothermal,Re-Os,molybdenite,N-TIMS,University of Alberta,"M.Sc. Thesis. University of Alberta, Edmonton, Alberta","Tombe, S. P."
+SU151B,-130.1891964,56.4543828,1242,Hydrothermal,Quartz stockwork veins,191.5,0.8,0.8,hydrothermal,Re-Os,molybdenite,N-TIMS,University of Alberta,"M.Sc. Thesis. University of Alberta, Edmonton, Alberta","Tombe, S. P."
+P-BJ003,-130.1912773,56.46539646,1327,Hydrothermal,Quartz stockwork veins,188.9,0.9,0.9,hydrothermal,Re-Os,molybdenite,N-TIMS,University of Alberta,"M.Sc. Thesis. University of Alberta, Edmonton, Alberta","Tombe, S. P."
+SU277,-130.1896055,56.46072231,1295,Plutonic,Fine-grained porphyry flow,196.2,0.1,0.1,igneous crystallization,U-Pb,zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","M.Sc. Thesis. University of Alberta, Edmonton, Alberta","Tombe, S. P."
+RG-1206,-130.2141585,56.47848164,1445,Plutonic,Fine-grained porphyry flow,194.5,0.5,0.5,igneous crystallization,U-Pb,zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","M.Sc. Thesis. University of Alberta, Edmonton, Alberta","Tombe, S. P."
+CG11-428B,-130.1958697,56.46278259,1491,Plutonic,Fine-grained porphyry flow,194.1,0.9,0.9,igneous crystallization,U-Pb,zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","M.Sc. Thesis. University of Alberta, Edmonton, Alberta","Tombe, S. P."
+CG12-563,-130.1957096,56.46956783,1354,Plutonic,Fine-grained porphyry flow,193.8,1.1,1.1,igneous crystallization,U-Pb,zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","M.Sc. Thesis. University of Alberta, Edmonton, Alberta","Tombe, S. P."
+SU-262,-130.1898597,56.45795249,1602,Plutonic,Coarse-grained porphyry flow,189.4,0.7,0.7,igneous crystallization,U-Pb,zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","M.Sc. Thesis. University of Alberta, Edmonton, Alberta","Tombe, S. P."
+CG12-1866,-130.1571892,56.4658177,1473,Plutonic,Coarse-grained porphyry flow,186.8,0.9,0.9,igneous crystallization,U-Pb,zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","M.Sc. Thesis. University of Alberta, Edmonton, Alberta","Tombe, S. P."
+CG11-1654,-130.1862197,56.46039531,1529,Plutonic,Fine-grained porphyry flow,186.5,0.7,0.7,igneous crystallization,U-Pb,zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","M.Sc. Thesis. University of Alberta, Edmonton, Alberta","Tombe, S. P."
+RG2226,-130.1832912,56.4690309,1369,Plutonic,Fine-grained porphyry flow,185,0.9,0.9,igneous crystallization,U-Pb,zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","M.Sc. Thesis. University of Alberta, Edmonton, Alberta","Tombe, S. P."
+CG12-1888,-130.2176924,56.49453023,1501,Plutonic,Fine-grained porphyry flow,182.8,1,1,igneous crystallization,U-Pb,zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","M.Sc. Thesis. University of Alberta, Edmonton, Alberta","Tombe, S. P."
+SU-539,-130.1929494,56.46229854,1513,Plutonic,Mesozoic basaltic andesite dyke,182.7,1,1,minimum age of mineralization,U-Pb,zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","M.Sc. Thesis. University of Alberta, Edmonton, Alberta","Tombe, S. P."
+SU-580,-130.187127,56.46242623,1480,Plutonic,Fine-grained porphyry flow,182.6,1.1,1.1,igneous crystallization,U-Pb,zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","M.Sc. Thesis. University of Alberta, Edmonton, Alberta","Tombe, S. P."
+CG510,-130.1918683,56.47182406,1445,Plutonic,Fine-grained porphyry flow,182.5,2.3,2.3,igneous crystallization,U-Pb,zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)","M.Sc. Thesis. University of Alberta, Edmonton, Alberta","Tombe, S. P."
+ST2015-001,-130.1603856,56.46524877,1552,Plutonic,Fine-grained porphyry flow,183.1,1.1,1.1,igneous crystallization,U-Pb,zircon,LA-MC-ICP-MS,University of Alberta,"M.Sc. Thesis. University of Alberta, Edmonton, Alberta","Tombe, S. P."
+ST2015-002,-130.1564857,56.4597594,1701,Plutonic,Fine-grained porphyry flow,179.8,1.1,1.1,igneous crystallization,U-Pb,zircon,LA-MC-ICP-MS,University of Alberta,"M.Sc. Thesis. University of Alberta, Edmonton, Alberta","Tombe, S. P."
+A8,-130.1935156,56.46017263,1511,Hydrothermal,Massive monomineralic sericite,105.41,2.41,2.41,deformation,Ar-Ar,sericite,Laser step heating,University of Nevada,"M.Sc. Thesis. University of Alberta, Edmonton, Alberta","Tombe, S. P."
+A20,-130.1904834,56.45973453,1227,Hydrothermal,Hydrothermally sericitized polylithic conglomerate on the margins of strong pervasive silica alteration,112.29,2.57,2.57,deformation,Ar-Ar,sercite,Laser step heating,University of Nevada,"M.Sc. Thesis. University of Alberta, Edmonton, Alberta","Tombe, S. P."
+BJ-005,-130.1906987,56.4609095,1277,Hydrothermal,Fracture-filling muscovite in volcanic sandstone,98.9,0.4,0.4,,Ar-Ar,muscovite,Laser step heating,University of Nevada,"M.Sc. Thesis. University of Alberta, Edmonton, Alberta","Tombe, S. P."
+GBR-2,-122.2726669,52.51808292,1194,Plutonic,"Medium grained tonalite with epidote-chlorite-quartz veinlets, mineralized with chalcopyrite and bornite.",213.2,2.4,2.4,crystallization,U-Pb,Zircon,LA-ICP-MS,University of Ottawa,"M.Sc. Thesis, Univeristy of Ottawa, Ottawa, Ontario","Kobylinski, C."
+GBR-7,-122.2788181,52.50783559,1219,Plutonic,"Shear zone medium grained foliated tonalite, mineralized with chalcopyrite and bornite.",218.9,3.1,3.1,crystallization,U-Pb,Zircon,LA-ICP-MS,University of Ottawa,"M.Sc. Thesis, Univeristy of Ottawa, Ottawa, Ontario","Kobylinski, C."
+GBR-16,-122.3113827,52.52749363,945,Plutonic,"Foliated and fractured medium grained tonalite, mineralized with chalcopyrite.",201.9,5,5,crystallization,U-Pb,Zircon,LA-ICP-MS,University of Ottawa,"M.Sc. Thesis, Univeristy of Ottawa, Ottawa, Ontario","Kobylinski, C."
+GBR-12,-122.2986054,52.51620766,992,Plutonic,Medium grained foliated tonalite with moderate white mica alteration.,206.8,4,4,crystallization,U-Pb,Zircon,LA-ICP-MS,University of Ottawa,"M.Sc. Thesis, Univeristy of Ottawa, Ottawa, Ontario","Kobylinski, C."
+GBR-15,-122.2972735,52.51840239,1021,Plutonic,"Foliated medium grained tonalite with malachite, oxidized.",205.9,3.7,3.7,crystallization,U-Pb,Zircon,LA-ICP-MS,University of Ottawa,"M.Sc. Thesis, Univeristy of Ottawa, Ottawa, Ontario","Kobylinski, C."
+GBR-21,-122.2499144,52.50842909,1280,Plutonic,"Leucocratic medium grained tonalite with large scale (1cm +) epidote veins, mineralized with chalcopyrite.",205.6,4.4,4.4,crystallization,U-Pb,Zircon,LA-ICP-MS,University of Ottawa,"M.Sc. Thesis, Univeristy of Ottawa, Ottawa, Ontario","Kobylinski, C."
+GBR2-16,-122.2971042,52.49761569,1052,Plutonic,Coarse grained isotropic tonalite with biotite intact.,226.8,8.3,8.3,crystallization,U-Pb,Zircon,LA-ICP-MS,University of Ottawa,"M.Sc. Thesis, Univeristy of Ottawa, Ottawa, Ontario","Kobylinski, C."
+GBR2-25,-122.2136166,52.48239995,1041,Plutonic,Coarse grained leucocratic tonalite.,227,10,10,crystallization,U-Pb,Zircon,LA-ICP-MS,University of Ottawa,"M.Sc. Thesis, Univeristy of Ottawa, Ottawa, Ontario","Kobylinski, C."
+GBR2-30,-122.1973547,52.52714391,1090,Plutonic,Medium grained leucocratic tonalite with weak epidote alteration.,232,11,11,crystallization,U-Pb,Zircon,LA-ICP-MS,University of Ottawa,"M.Sc. Thesis, Univeristy of Ottawa, Ottawa, Ontario","Kobylinski, C."
+GBR2-38,-122.2345909,52.53978825,1122,Plutonic,"Coarse grained tonalite, mafics intact (hornblende).",231.7,7.4,7.4,crystallization,U-Pb,Zircon,LA-ICP-MS,University of Ottawa,"M.Sc. Thesis, Univeristy of Ottawa, Ottawa, Ontario","Kobylinski, C."
+M-11-123,-130.2580926,56.52552132,-621,Plutonic,"Medium grained, potassic altered, Phase 1 diorite. The porphyry contains 35% sercitized anorthitic plagioclase (0.5-2mm in diameter), 7% potassium feldspar (1-5mm in diameter) with inclusions of hornblende in an altered, fine-grained groundmass. Overprinted by pervasive and vein-controlled secondary potassium feldspar, quartz, biotite, chlorite, magnetite, pyrite and chalcopyrite.",196,2.9,2.9,igneous crystallization,U-Pb,zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geological Fieldwork P2015-01-04,"Febbo, G.E., Kennedy, L.A., Savell, M., Creaser, R.A., and Friedman, R.M."
+GF-13-02,-130.2466186,56.52561899,990,Plutonic,"Medium grained, chlorite and phyllic altered, Phase 1 diorite that outcrops adjacent to the high quartz zone. The porphyry contains 35% sercitized laths interpreted to be replaced plagioclase (1-2mm in diameter), 8% chlorite rhombohedral aggregates interpreted to be replaced hornblende (0.5-1mm in diameter) and 5% equant anhedral potassium feldspar partially replaced to sericite (2-3mm diameter) in an altered, fine-grained groundmass. The intrusion is overprinted by Stage 2 sericite-chlorite-pyrite alteration with disseminations of secondary magnetite, trace chalcopyrite, 2% pyrite and ~10% quartz-chalcopyrite-pyrite veins by volume.",189.9,2.8,2.8,igneous crystallization,U-Pb,zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geological Fieldwork P2015-01-04,"Febbo, G.E., Kennedy, L.A., Savell, M., Creaser, R.A., and Friedman, R.M."
+M-07-49,-130.249748,56.52734862,619,Plutonic,"Fine grained Phase 2 diorite plug that cuts the high quartz zone and is overprinted by Stage 2 phyllic alteration. The porphyry contains 30% sericitized laths (~1mm long) interpreted to be replaced by plagioclase, 5% chlorite aggregates interpreted to be replaced by hornblende, and 5% anhedral inclusion-rich K-feldspar in a fine-grained groundmass. The intrusion is overprinted by Stage 2 sericite-chlorite-pyrite alteration with 1% secondary magnetite, trace chalcopyrite and stringers of anhydrite and calcite.",192.2,2.8,2.8,igneous crystallization,U-Pb,zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geological Fieldwork P2015-01-04,"Febbo, G.E., Kennedy, L.A., Savell, M., Creaser, R.A., and Friedman, R.M."
+M-10-116,-130.2414144,56.53102615,214.6,Hydrothermal,"Stage 2 quartz-pyrite vein with yellow sericite alteration haloes in intensely sericite-pyrite-chlorite altered andesite breccia. The vein host rock contains juvenile porphyritic angular andesite fragments 60% clasts 1cm in diameter with < 1% subrounded granule-sized felsic clasts. The host rock is intensely altered to sericite-pyrite-chlorite and is well foliated. The molybdenite-bearing vein is 3-4mm wide with wavy margins, is parallel to foliation and contains a thin (1mm) selvage of white and yellow sericite alteration. The vein contains 75% grey-white microcrystalline quartz, 15% blue-grey elongate molybdenite disseminations, 8% brass-yellow anhedral to subhedral pyrite disseminations (<0.2; mm) and 2% sericite.",190.3,0.8,0.8,hydrothermal crystallization,Re-Os,molybdenite,N-TIMS,University of Alberta,BCGS Geological Fieldwork P2015-01-04,"Febbo, G.E., Kennedy, L.A., Savell, M., Creaser, R.A., and Friedman, R.M."
+15BvS-37-08,-129.3803858,55.70853818,,Sedimentary,"Sandstone interval, about 8m thick and containing common belemnite casts, that gradationally overlies volcanic rocks with cm-scale, light-coloured aphanitic to plagioclase-phyric felsic volcanic clasts. B",228.4,1.4,1.4,maximum deposition,U-Pb,zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geological Fieldwork P2020-01-07,"Hunter, R. C. and van Straaten, B. I."
+15BvS-36-13,-129.4481702,55.71171504,,Sedimentary,"Polymictic pebble conglomerate containing clasts of hornblende-plagioclase-phyric volcanic rock, grey limestone, black chert, sandstone, conglomerate, and rare maroon plagioclase-phyric volcanic rock.",206.7,1.9,1.9,maximum deposition,U-Pb,zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geological Fieldwork P2020-01-07,"Hunter, R. C. and van Straaten, B. I."
+15BvS-38-01,-129.5941485,55.74826875,,Plutonic,Variably-altered monzonite dike with locally well-preserved 3-7mm blocky to tabular hornblende.,191.71,0.2,0.2,igneous crystallization,U-Pb,zircon,CA-TIMS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geological Fieldwork P2020-01-07,"Hunter, R. C. and van Straaten, B. I."
+15BvS-39-03,-129.5182908,55.70775512,,Volcanic,It is from a lower sequence of tuffaceous sandstone and argillaceous tuff that is overlain by a section of intermediate lithic and/or crystal-rich volcaniclastic rocks.,178.1,2.2,2.2,igneous crystallization,U-Pb,zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geological Fieldwork P2020-01-07,"Hunter, R. C. and van Straaten, B. I."
+15BvS-34-08,-129.504731,55.75829193,,Sedimentary,"Sandstone interval, about 8m thick and containing common belemnite casts, that gradationally overlies volcanic rocks with cm-scale, light-coloured aphanitic to plagioclase-phyric felsic volcanic clasts. B",168.9,2.2,2.2,maximum deposition,U-Pb,zircon,LA-ICP-MS,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geological Fieldwork P2020-01-07,"Hunter, R. C. and van Straaten, B. I."
+15BvS-39-01,-129.5210684,55.70720424,,Volcanic,"Pale potassium feldspar altered, generally massive, poorly-sorted volcaniclastic rock with minor matrix-supported, subrounded to subangular andesitic volcanic clasts in a crystal-rich matrix.",44.23,0.43,0.43,cooling,Ar-Ar,potassium feldspar,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geological Fieldwork P2020-01-07,"Hunter, R. C. and van Straaten, B. I."
+15BvS-39-02,-129.520206,55.70816934,,Volcanic,"Potassium feldspar-, sericite-, and locally Fe carbonate-altered, largely massive and poorly sorted volcaniclastic rock with matrix- to locally clast-supported subrounded to angular andesitic clasts in a crystal-bearing matrix.",41.81,0.35,0.35,cooling,Ar-Ar,potassium feldspar,Laser step heating,"University of British Columbia
+for Isotopic and Geochemical Research (UBC)",BCGS Geological Fieldwork P2020-01-07,"Hunter, R. C. and van Straaten, B. I."
