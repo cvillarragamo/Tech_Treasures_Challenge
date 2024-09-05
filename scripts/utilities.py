@@ -41,17 +41,26 @@ def to_geodataframe(path, lat_col, lon_col):
     try:
         #Determine the file type and load the DF
         if path.endswith('.csv'):
-            df=pd.read_csv(path)
+            try:
+                df=pd.read_csv(path)
+            except UnicodeDecodeError:
+                print("Error reading the file with utf-8. Trying with 'latin1' encoding...")
+                df=pd.read_csv(path,encoding='latin1')
+
+
         elif path.endswith('.xlxs'):
             df=pd.read_excel(path)
         else:
             print(f"Unsupported file format: {path}")
             return None
             
+    
+    
     #Convert DF to GeoDF
         geometry = [Point(xy) for xy in zip(df[lon_col], df[lat_col])]
         gdf = gpd.GeoDataFrame(df, geometry= geometry)
-        print(f"GeoDataFrame created with {len(gdf)} records\nGeometry type: {gdf.geom_type.unique()}")
+        gdf.set_crs(epsg=4269, inplace=True)
+        print(f"GeoDataFrame created with {len(gdf)} records\nGeometry type: {gdf.geom_type.unique()}\nCRS={gdf.crs}")
         return gdf
        
     except Exception as e:
