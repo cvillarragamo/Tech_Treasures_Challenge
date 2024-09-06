@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="gsc - iso 19139 (1).xslt"?>
+<gmd:MD_Metadata xsi:schemaLocation="http://www.isotc211.org/2005/gmd ../schemas/iso19139fra/gmd/gmd.xsd" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:map="urn:brgm:mapping" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:gml="http://www.opengis.net/gml" xmlns:gts="http://www.isotc211.org/2005/gts" xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:gfc="http://www.isotc211.org/2005/gfc" xmlns:gco="http://www.isotc211.org/2005/gco">
+	<geosoft xmlns="http://www.geosoft.com/schema/geo">
+		<dataset version="1">
+			<lineage>
+				<process name="MapExport" user="Oneschuk, Douglas" version="Version 2023.2 (20231121.28)" date="2024-03-11" time="09:38:31">
+					<parameter name="MAPEXPORT.ACTIVEVIEW" value="Data" type="string"/>
+					<parameter name="MAPEXPORT.BITS" value="24" type="integer"/>
+					<parameter name="MAPEXPORT.CELLSIZE" value="99.9999990042796" type="double"/>
+					<parameter name="MAPEXPORT.DITHER" value="FloydsteinDithering" type="string"/>
+					<parameter name="MAPEXPORT.FORMAT" value="GeoTIFF Compressed (*.tif)" type="string"/>
+					<parameter name="MAPEXPORT.MAXX" value="677.869899998525" type="double"/>
+					<parameter name="MAPEXPORT.MAXY" value="586.549913470333" type="double"/>
+					<parameter name="MAPEXPORT.MINX" value="-0.0099999985247905" type="double"/>
+					<parameter name="MAPEXPORT.MINY" value="91.3099865296669" type="double"/>
+					<parameter name="MAPEXPORT.NAME" value=".\2024\Canada - 200m - Residual Magnetic Field - 2024 - March - Geotiff.tif" type="string"/>
+					<parameter name="MAPEXPORT.OPTIONS" value="" type="string"/>
+					<parameter name="MAPEXPORT.OUTPUT" value="FILE" type="string"/>
+					<parameter name="MAPEXPORT.SELECTEDGROUP" value="AGG_Canada - 200m - Residual Magnetic Field - 2024 - March" type="string"/>
+					<parameter name="MAPEXPORT.SIZEX" value="67788" type="integer"/>
+					<parameter name="MAPEXPORT.SIZEY" value="49524" type="integer"/>
+					<parameter name="MAPEXPORT.VIEWS" value="2" type="integer"/>
+					<source name="c:\current_work\200mgridofcanada\2024\Canada - 200m - Residual Magnetic Field - 2024 - March.grd" type="GRID">
+						<lineage>
+							<process name="mosaic.gx" displaystring="Create a grid mosaic from a set of input grids" user="Oneschuk, Douglas" version="Version 2023.2 (20231121.28)" date="2024-03-08" time="11:38:16">
+								<parameter name="MOSAIC::INGRIDS" value=".\2024\Canada_200m_Mag_RES_2020_June5_CanAtlas.grd|Eastern Wollaston - 200m – MAG Knitted.grd|Makkovik River West - 200m – MAG Knitted.grd|S Glennie 200mKnitted mag.grd(GRD)" type="string"/>
+								<parameter name="MOSAIC::OUTGRID" value=".\2024\Canada - 200m - Residual Magnetic Field - 2024 - March.grd(GRD)" type="string"/>
+								<source name="c:\current_work\200mgridofcanada\2024\Canada_200m_Mag_RES_2020_June5_CanAtlas.grd" type="GRID"/>
+								<source name="c:\current_work\200mgridofcanada\2024\Eastern Wollaston - 200m – MAG Knitted.grd" type="GRID"/>
+								<source name="c:\current_work\200mgridofcanada\2024\Makkovik River West - 200m – MAG Knitted.grd" type="GRID"/>
+								<source name="c:\current_work\200mgridofcanada\2024\S Glennie 200mKnitted mag.grd" type="GRID"/>
+							</process>
+						</lineage>
+					</source>
+					<source name="c:\current_work\200mgridofcanada\2024\Canada - 200m - Residual Magnetic Field - 2024 - March_s.grd" type="GRID"/>
+				</process>
+			</lineage>
+			<title>Canada - 200m - Residual Magnetic Field - 2024 - March - Geotiff</title>
+			<file_format>TIF</file_format>
+			<project_name>c:\current_work\200mgridofcanada\200mgridofcanada2024.gpf</project_name>
+			<data_created_by>Oneschuk, Douglas</data_created_by>
+			<data_creation_date>2024-03-11</data_creation_date>
+			<metadata_created_by>Oneschuk, Douglas</metadata_created_by>
+			<metadata_creation_date>2024-03-11</metadata_creation_date>
+			<georeference>
+				<dataextents>
+					<extent2d minx="-3141450.0000004983" miny="-994250.00000049779" maxx="3635549.932519529" maxy="3955749.9507113411"/>
+				</dataextents>
+				<projection type="LAMBERT_CONFORMAL_CONIC_2SP" name="NAD83 / Canada Atlas Lambert" wellknown_epsg="3978" projection="Canada Atlas Lambert" ellipsoid="GRS 1980" datum="NAD83" datumtrf="NAD83 to WGS 84 (1)" datumtrf_epsg="1188" datumtrf_description="[NAD83] (4m) North America - Canada and USA (CONUS, Alaska mainland)" radius="6378137" eccentricity="0.081819191042815792">
+					<shift x="0" y="0" z="0"/>
+					<parameters false_east="0" false_north="0" lat_origin="49" lon_origin="-95" parallel1="49" parallel2="77"/>
+					<units name="m" unit_scale="1"/>
+				</projection>
+			</georeference>
+		</dataset>
+	</geosoft>
+	<gmd:dataQualityInfo>
+		<gmd:DQ_DataQuality>
+			<gmd:lineage>
+				<gmd:LI_Lineage>
+					<gmd:processStep xlink:type="Geosoft Process" xlink:title="MapExport">
+						<gmd:LI_ProcessStep>
+							<gmd:dateTime>
+								<gco:DateTime>2024-03-11T09:38:31</gco:DateTime>
+							</gmd:dateTime>
+							<gmd:processor>
+								<gmd:CI_ResponsibleParty>
+									<gmd:individualName>
+										<gco:CharacterString>Oneschuk, Douglas</gco:CharacterString>
+									</gmd:individualName>
+								</gmd:CI_ResponsibleParty>
+							</gmd:processor>
+							<gmd:source xlink:type="Data Parameter" xlink:role="MAPEXPORT.ACTIVEVIEW" xlink:title="Data">
+								<gmd:LI_Source/>
+							</gmd:source>
+							<gmd:source xlink:type="Data Parameter" xlink:role="MAPEXPORT.BITS" xlink:title="24">
+								<gmd:LI_Source/>
+							</gmd:source>
+							<gmd:source xlink:type="Data Parameter" xlink:role="MAPEXPORT.CELLSIZE" xlink:title="99.9999990042796">
+								<gmd:LI_Source/>
+							</gmd:source>
+							<gmd:source xlink:type="Data Parameter" xlink:role="MAPEXPORT.DITHER" xlink:title="FloydsteinDithering">
+								<gmd:LI_Source/>
+							</gmd:source>
+							<gmd:source xlink:type="Data Parameter" xlink:role="MAPEXPORT.FORMAT" xlink:title="GeoTIFF Compressed (*.tif)">
+								<gmd:LI_Source/>
+							</gmd:source>
+							<gmd:source xlink:type="Data Parameter" xlink:role="MAPEXPORT.MAXX" xlink:title="677.869899998525">
+								<gmd:LI_Source/>
+							</gmd:source>
+							<gmd:source xlink:type="Data Parameter" xlink:role="MAPEXPORT.MAXY" xlink:title="586.549913470333">
+								<gmd:LI_Source/>
+							</gmd:source>
+							<gmd:source xlink:type="Data Parameter" xlink:role="MAPEXPORT.MINX" xlink:title="-0.0099999985247905">
+								<gmd:LI_Source/>
+							</gmd:source>
+							<gmd:source xlink:type="Data Parameter" xlink:role="MAPEXPORT.MINY" xlink:title="91.3099865296669">
+								<gmd:LI_Source/>
+							</gmd:source>
+							<gmd:source xlink:type="Data Parameter" xlink:role="MAPEXPORT.NAME" xlink:title=".\2024\Canada - 200m - Residual Magnetic Field - 2024 - March - Geotiff.tif">
+								<gmd:LI_Source/>
+							</gmd:source>
+							<gmd:source xlink:type="Data Parameter" xlink:role="MAPEXPORT.OPTIONS" xlink:title="">
+								<gmd:LI_Source/>
+							</gmd:source>
+							<gmd:source xlink:type="Data Parameter" xlink:role="MAPEXPORT.OUTPUT" xlink:title="FILE">
+								<gmd:LI_Source/>
+							</gmd:source>
+							<gmd:source xlink:type="Data Parameter" xlink:role="MAPEXPORT.SELECTEDGROUP" xlink:title="AGG_Canada - 200m - Residual Magnetic Field - 2024 - March">
+								<gmd:LI_Source/>
+							</gmd:source>
+							<gmd:source xlink:type="Data Parameter" xlink:role="MAPEXPORT.SIZEX" xlink:title="67788">
+								<gmd:LI_Source/>
+							</gmd:source>
+							<gmd:source xlink:type="Data Parameter" xlink:role="MAPEXPORT.SIZEY" xlink:title="49524">
+								<gmd:LI_Source/>
+							</gmd:source>
+							<gmd:source xlink:type="Data Parameter" xlink:role="MAPEXPORT.VIEWS" xlink:title="2">
+								<gmd:LI_Source/>
+							</gmd:source>
+							<gmd:source xlink:type="Data Source" xlink:role="GRID" xlink:title="c:\current_work\200mgridofcanada\2024\Canada - 200m - Residual Magnetic Field - 2024 - March.grd">
+								<gmd:LI_Source/>
+							</gmd:source>
+							<gmd:source xlink:type="Data Source" xlink:role="GRID" xlink:title="c:\current_work\200mgridofcanada\2024\Canada - 200m - Residual Magnetic Field - 2024 - March_s.grd">
+								<gmd:LI_Source/>
+							</gmd:source>
+						</gmd:LI_ProcessStep>
+					</gmd:processStep>
+				</gmd:LI_Lineage>
+			</gmd:lineage>
+		</gmd:DQ_DataQuality>
+	</gmd:dataQualityInfo>
+	<gmd:identificationInfo>
+		<gmd:MD_DataIdentification>
+			<gmd:citation>
+				<gmd:CI_Citation>
+					<gmd:title>
+						<gco:CharacterString>Canada - 200m - Residual Magnetic Field - 2024 - March - Geotiff</gco:CharacterString>
+					</gmd:title>
+					<gmd:collectiveTitle>
+						<gco:CharacterString>c:\current_work\200mgridofcanada\200mgridofcanada2024.gpf</gco:CharacterString>
+					</gmd:collectiveTitle>
+					<gmd:date>
+						<gmd:CI_Date>
+							<gmd:date>
+								<gco:Date>2024-3-11</gco:Date>
+							</gmd:date>
+						</gmd:CI_Date>
+					</gmd:date>
+				</gmd:CI_Citation>
+			</gmd:citation>
+			<gmd:resourceFormat>
+				<gmd:MD_Format>
+					<gmd:name>
+						<gco:CharacterString>TIF</gco:CharacterString>
+					</gmd:name>
+				</gmd:MD_Format>
+			</gmd:resourceFormat>
+			<gmd:pointOfContact>
+				<gmd:CI_ResponsibleParty>
+					<gmd:individualName>
+						<gco:CharacterString>Oneschuk, Douglas</gco:CharacterString>
+					</gmd:individualName>
+				</gmd:CI_ResponsibleParty>
+			</gmd:pointOfContact>
+			<gmd:extent>
+				<gmd:EX_Extent>
+					<gmd:geographicElement>
+						<gmd:EX_GeographicBoundingBox>
+							<gmd:westBoundLongitude>
+								<gco:Decimal>-180.99732559027896</gco:Decimal>
+							</gmd:westBoundLongitude>
+							<gmd:eastBoundLongitude>
+								<gco:Decimal>-7.1600022987106424</gco:Decimal>
+							</gmd:eastBoundLongitude>
+							<gmd:southBoundLatitude>
+								<gco:Decimal>31.261493922282625</gco:Decimal>
+							</gmd:southBoundLatitude>
+							<gmd:northBoundLatitude>
+								<gco:Decimal>84.792898120369628</gco:Decimal>
+							</gmd:northBoundLatitude>
+						</gmd:EX_GeographicBoundingBox>
+					</gmd:geographicElement>
+				</gmd:EX_Extent>
+			</gmd:extent>
+		</gmd:MD_DataIdentification>
+	</gmd:identificationInfo>
+	<gmd:contact>
+		<gmd:CI_ResponsibleParty>
+			<gmd:individualName>
+				<gco:CharacterString>Oneschuk, Douglas</gco:CharacterString>
+			</gmd:individualName>
+		</gmd:CI_ResponsibleParty>
+	</gmd:contact>
+	<gmd:dateStamp>
+		<gco:Date>2024-3-11</gco:Date>
+	</gmd:dateStamp>
+	<gmd:referenceSystemInfo>
+		<gmd:MD_ReferenceSystem>
+			<gmd:referenceSystemIdentifier>
+				<gmd:RS_Identifier>
+					<gmd:codeSpace>
+						<gco:CharacterString>ESRI</gco:CharacterString>
+					</gmd:codeSpace>
+					<gmd:code>
+						<gco:CharacterString>PROJCS["NAD_1983_Canada_Atlas_Lambert",GEOGCS["GCS_North_American_1983",DATUM["D_North_American_1983",SPHEROID["GRS_1980",6378137.0,298.257222101]],PRIMEM["Greenwich",0.0],UNIT["Degree",0.0174532925199433]],PROJECTION["Lambert_Conformal_Conic"],PARAMETER["False_Easting",0.0],PARAMETER["False_Northing",0.0],PARAMETER["Central_Meridian",-95.0],PARAMETER["Standard_Parallel_1",49.0],PARAMETER["Standard_Parallel_2",77.0],PARAMETER["Latitude_Of_Origin",49.0],UNIT["Meter",1.0],AUTHORITY["EPSG",3978]]</gco:CharacterString>
+					</gmd:code>
+					<gmd:version>
+						<gco:CharacterString>1</gco:CharacterString>
+					</gmd:version>
+				</gmd:RS_Identifier>
+			</gmd:referenceSystemIdentifier>
+		</gmd:MD_ReferenceSystem>
+	</gmd:referenceSystemInfo>
+</gmd:MD_Metadata>
