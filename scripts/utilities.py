@@ -1,6 +1,8 @@
 import geopandas as gpd
 import pandas as pd
 from shapely.geometry import Point
+import rasterio
+from rasterio.warp import calculate_default_transform, reproject, Resampling
 
 def read_shapefile(path):
     """
