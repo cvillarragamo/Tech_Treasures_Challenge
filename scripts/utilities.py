@@ -1,8 +1,14 @@
 import geopandas as gpd
 import pandas as pd
 from shapely.geometry import Point
+import matplotlib as plt
 import rasterio
 from rasterio.warp import calculate_default_transform, reproject, Resampling
+from rasterio.mask import mask
+from shapely.geometry import mapping
+import os
+from rasterio.plot import show
+from ipywidgets import interact, Dropdown
 
 def read_shapefile(path):
     """
@@ -90,3 +96,125 @@ def check_transform_crs(gdf, target_crs='EPSG:4269'):
     else:
         print('CRS is already correct.')
         return gdf
+################################################## ~~~~~~~~~~~~~~~~~~~~~~ ###################################
+### RASTER processing ####################
+
+
+def process_and_reproject_rasters(raster_paths, polygon_gdf, output_directory, target_crs='EPSG:4269'):
+    """
+    Processes a list of rasters by ensuring they all have the CRS EPSG:4269,
+    reprojects if necessary, and crops the rasters using a reference polygon.
+
+    Args:
+    raster_paths (list of str): Paths to the raster files.
+    polygon_shapefile (str): Path to the shapefile containing the cropping polygon.
+    output_directory (str): Directory where the cropped and reprojected rasters will be saved.
+    target_crs (str): The target CRS to standardize all rasters (default 'EPSG:4269').
+    """
+    
+    # Get the polygon as a geometric object
+    geometry = polygon_gdf.iloc[0].geometry
+    geojson = [mapping(geometry)]
+    
+    for raster_path in raster_paths:
+        with rasterio.open(raster_path) as src:
+            src_crs = src.crs
+            if src_crs != target_crs:
+                # Calculate the transformation needed and the new dimensions
+                transform, width, height = calculate_default_transform(
+                    src.crs, target_crs, src.width, src.height, *src.bounds)
+                kwargs = src.meta.copy()
+                kwargs.update({
+                    'crs': target_crs,
+                    'transform': transform,
+                    'width': width,
+                    'height': height
+                })
+                
+                # Reproject the raster
+                reprojected_path = f"{output_directory}/reprojected_{os.path.basename(raster_path)}"
+                with rasterio.open(reprojected_path, 'w', **kwargs) as dst:
+                    for i in range(1, src.count + 1):
+                        reproject(
+                            source=rasterio.band(src, i),
+                            destination=rasterio.band(dst, i),
+                            src_transform=src.transform,
+                            src_crs=src.crs,
+                            dst_transform=transform,
+                            dst_crs=target_crs,
+                            resampling=Resampling.nearest)
+                raster_path = reprojected_path
+            
+            # Crop the raster using the polygon
+            with rasterio.open(raster_path) as src:
+                out_image, out_transform = mask(src, geojson, crop=True)
+                out_meta = src.meta.copy()
+                out_meta.update({
+                    "driver": "GTiff",
+                    "height": out_image.shape[1],
+                    "width": out_image.shape[2],
+                    "transform": out_transform
+                })
+                
+                output_path = f"{output_directory}/cropped_{os.path.basename(raster_path)}"
+                with rasterio.open(output_path, "w", **out_meta) as dest:
+                    dest.write(out_image)
+
+    print("All rasters processed to CRS EPSG:4269 and cropped as specified.")
+
+
+## Plotting Rasters
+
+def plot_raster(raster_path, poi):
+    """
+    Plot a raster file with a point of interest overlay.
+    
+    Args:
+    raster_path (str): The path to the raster file.
+    poi (GeoDataFrame): A GeoDataFrame containing the point of interest with geometry and label.
+    
+    Displays a raster plot with a point of interest marked on it.
+    """
+    with rasterio.open(raster_path) as src:
+        fig, ax = plt.subplots(figsize=(10, 7))
+        show(src, ax=ax, title=os.path.basename(raster_path))
+        
+        ##Point of interest
+        x, y = poi.geometry.x.iloc[0], poi.geometry.y.iloc[0]
+        ax.scatter(x, y, color='blue', marker='o', s=70) 
+        ax.text(x, y, "Wicheeda", fontsize=10, ha='left', va='top', color='blue')
+        
+        plt.show()
+
+def list_rasters(directory):
+    """
+    List all TIFF files in a specified directory.
+
+    Args:
+    directory (str): The directory path that contains TIFF files.
+
+    Returns:
+    dict: A dictionary mapping file names to their full paths.
+    """
+    return {os.path.basename(f): os.path.join(directory, f) for f in os.listdir(directory) if f.lower().endswith('.tif')}
+
+def interactive_plot_raster(directory, poi):
+    """
+    Create an interactive raster plot selector with a predefined point of interest.
+
+    Args:
+    directory (str): The directory from which to list and select raster files.
+    poi (GeoDataFrame): The GeoDataFrame containing the point of interest data.
+    
+    Displays a dropdown widget to select different raster files for plotting.
+    """
+    rasters = list_rasters(directory)
+    if rasters:
+        raster_dropdown = Dropdown(options=list(rasters.keys()))
+        def update_plot(change):
+            plot_raster(rasters[change.new], poi)
+        raster_dropdown.observe(update_plot, names='value')
+        display(raster_dropdown)
+        plot_raster(list(rasters.values())[0], poi)  # Plot the first raster initially
+    else:
+        print("No TIFF files found in the specified directory.")
