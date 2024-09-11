@@ -1,7 +1,7 @@
 import geopandas as gpd
 import pandas as pd
 from shapely.geometry import Point
-import matplotlib as plt
+import matplotlib.pyplot as plt
 import rasterio
 from rasterio.warp import calculate_default_transform, reproject, Resampling
 from rasterio.mask import mask
