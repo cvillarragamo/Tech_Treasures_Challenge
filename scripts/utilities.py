@@ -4,11 +4,17 @@ from shapely.geometry import Point
 import matplotlib.pyplot as plt
 import rasterio
 from rasterio.warp import calculate_default_transform, reproject, Resampling
+from rasterio.enums import Resampling
 from rasterio.mask import mask
 from shapely.geometry import mapping
+from rasterio import Affine
+
 import os
 from rasterio.plot import show
 from ipywidgets import interact, Dropdown
+
+
+
 
 def read_shapefile(path):
     """
@@ -107,7 +113,10 @@ from shapely.geometry import mapping
 import matplotlib.pyplot as plt
 import numpy as np
 
-def convert_raster_to_float(raster_path, output_path):
+import rasterio
+import numpy as np
+
+def convert_raster_to_float(raster_path, output_directory):
     """
     Checks the data type of the raster bands and converts them to float32 if they are integers.
     
@@ -115,25 +124,35 @@ def convert_raster_to_float(raster_path, output_path):
     raster_path (str): The file path to the input raster.
     output_path (str): The file path where the converted raster will be saved.
     """
+
+    # Generate a new output filename by appending '_float' to the original filename
+    original_filename = os.path.basename(raster_path)
+    new_filename = f"{os.path.splitext(original_filename)[0]}_float.tif"
+    output_path = os.path.join(output_directory, new_filename)
     with rasterio.open(raster_path) as src:
-        meta = src.meta.copy()
+        meta = src.meta.copy()  # Copy the original metadata to use in the output file
         
-        # checking the data type
-        if any(dtype in rasterio.int_types for dtype in src.dtypes):
-            # update if dtype is integer
+        # Iterate through each band and check if the data type is an integer
+        integer_band = False
+        for dtype in src.dtypes:
+            if np.issubdtype(np.dtype(dtype), np.integer):
+                integer_band = True
+                break
+        
+        if integer_band:
+            # Update the metadata for the new data type
             meta.update(dtype='float32', nodata=np.nan)
             
             with rasterio.open(output_path, 'w', **meta) as dst:
                 for i in range(1, src.count + 1):
                     band = src.read(i)
-                    # converting to float32 dtype and managing to NaN
+                    # Convert the band to float32 and handle NoData
                     band = band.astype('float32')
-                    if src.nodatavals[i - 1] is not None:
+                    if src.nodatavals[i - 1] is not None and not np.isnan(src.nodatavals[i - 1]):
                         band[band == src.nodatavals[i - 1]] = np.nan
                     dst.write(band, i)
-                    print('All rasters are float and ')
         else:
-            print("All bands are processed in float format and NaN values are assigned")
+            print("All bands are already in a float format.")
 
 
 def process_and_reproject_rasters(raster_paths, polygon_gdf, output_directory, target_crs='EPSG:3153'):
@@ -194,9 +213,49 @@ def process_and_reproject_rasters(raster_paths, polygon_gdf, output_directory, t
                 with rasterio.open(output_path, "w", **out_meta) as dest:
                     dest.write(out_image)
     
-    print("All rasters processed to CRS EPSG:3153 and cropped as specified with NaN for non-covered areas.")
+    print(f"All rasters processed to CRS {target_crs} and cropped as specified with NaN for non-covered areas.")
 
 
+def resample_rasters_to_resolution(raster_paths, output_directory, target_resolution):
+    """
+    Resamples a list of raster files to a specified resolution.
+    
+    Args:
+    raster_paths (list of str): Paths to the raster files.
+    output_directory (str): Directory where the resampled rasters will be saved.
+    target_resolution (float): The target pixel size to resample all rasters to.
+    """
+    for path in raster_paths:
+        with rasterio.open(path) as src:
+            # Calculate the scale factor
+            scale = src.res[0] / target_resolution
+            
+            # Calculate new dimensions
+            new_width = int(src.width * scale)
+            new_height = int(src.height * scale)
+            
+            # Define transformation and metadata for output
+            kwargs = src.meta.copy()
+            kwargs.update({
+                'width': new_width,
+                'height': new_height,
+                'transform': rasterio.Affine(target_resolution, 0, src.bounds.left,
+                                             0, -target_resolution, src.bounds.top)
+            })
+            
+            resampled_path = f"{output_directory}/resampled_{os.path.basename(path)}"
+            with rasterio.open(resampled_path, 'w', **kwargs) as dst:
+                for i in range(1, src.count + 1):
+                    reproject(
+                        source=rasterio.band(src, i),
+                        destination=rasterio.band(dst, i),
+                        src_transform=src.transform,
+                        src_crs=src.crs,
+                        dst_transform=kwargs['transform'],
+                        dst_crs=src.crs,
+                        resampling=Resampling.bilinear  # Choose resampling method (bilinear for continuous data)
+                    )
+    print("All rasters have been resampled to the specified resolution.")
 
 # def process_and_reproject_rasters(raster_paths, polygon_gdf, output_directory, target_crs): #EPSG:4269
 #     """
