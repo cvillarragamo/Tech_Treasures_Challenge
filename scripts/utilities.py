@@ -77,7 +77,7 @@ def to_geodataframe(path, lat_col, lon_col):
 
 
                  
-def check_transform_crs(gdf, target_crs='EPSG:4269'):
+def check_transform_crs(gdf, target_crs): #EPSG:4269
     """
     Check the coordinate reference system (CRS) of a GeoDataFrame and transform it
     to the target CRS if it is different.
@@ -99,20 +99,56 @@ def check_transform_crs(gdf, target_crs='EPSG:4269'):
 ################################################## ~~~~~~~~~~~~~~~~~~~~~~ ###################################
 ### RASTER processing ####################
 
+import os
+import rasterio
+from rasterio.warp import calculate_default_transform, reproject, Resampling
+from rasterio.mask import mask
+from shapely.geometry import mapping
+import matplotlib.pyplot as plt
+import numpy as np
 
-def process_and_reproject_rasters(raster_paths, polygon_gdf, output_directory, target_crs='EPSG:4269'):
+def convert_raster_to_float(raster_path, output_path):
     """
-    Processes a list of rasters by ensuring they all have the CRS EPSG:4269,
-    reprojects if necessary, and crops the rasters using a reference polygon.
+    Checks the data type of the raster bands and converts them to float32 if they are integers.
+    
+    Args:
+    raster_path (str): The file path to the input raster.
+    output_path (str): The file path where the converted raster will be saved.
+    """
+    with rasterio.open(raster_path) as src:
+        meta = src.meta.copy()
+        
+        # checking the data type
+        if any(dtype in rasterio.int_types for dtype in src.dtypes):
+            # update if dtype is integer
+            meta.update(dtype='float32', nodata=np.nan)
+            
+            with rasterio.open(output_path, 'w', **meta) as dst:
+                for i in range(1, src.count + 1):
+                    band = src.read(i)
+                    # converting to float32 dtype and managing to NaN
+                    band = band.astype('float32')
+                    if src.nodatavals[i - 1] is not None:
+                        band[band == src.nodatavals[i - 1]] = np.nan
+                    dst.write(band, i)
+                    print('All rasters are float and ')
+        else:
+            print("All bands are processed in float format and NaN values are assigned")
 
+
+def process_and_reproject_rasters(raster_paths, polygon_gdf, output_directory, target_crs='EPSG:3153'):
+    """
+    Processes a list of rasters by ensuring they align with the CRS EPSG:3153,
+    reprojects if necessary, and crops the rasters to a reference polygon, filling areas
+    outside the high-resolution rasters with NaN where they do not cover the entire BC.
+    
     Args:
     raster_paths (list of str): Paths to the raster files.
-    polygon_shapefile (str): Path to the shapefile containing the cropping polygon.
+    polygon_gdf (GeoDataFrame): GeoDataFrame containing the cropping polygon.
     output_directory (str): Directory where the cropped and reprojected rasters will be saved.
-    target_crs (str): The target CRS to standardize all rasters (default 'EPSG:4269').
+    target_crs (str): The target CRS to standardize all rasters (default 'EPSG:3153').
     """
     
-    # Get the polygon as a geometric object
     geometry = polygon_gdf.iloc[0].geometry
     geojson = [mapping(geometry)]
     
@@ -120,7 +156,6 @@ def process_and_reproject_rasters(raster_paths, polygon_gdf, output_directory, t
         with rasterio.open(raster_path) as src:
             src_crs = src.crs
             if src_crs != target_crs:
-                # Calculate the transformation needed and the new dimensions
                 transform, width, height = calculate_default_transform(
                     src.crs, target_crs, src.width, src.height, *src.bounds)
                 kwargs = src.meta.copy()
@@ -131,7 +166,6 @@ def process_and_reproject_rasters(raster_paths, polygon_gdf, output_directory, t
                     'height': height
                 })
                 
-                # Reproject the raster
                 reprojected_path = f"{output_directory}/reprojected_{os.path.basename(raster_path)}"
                 with rasterio.open(reprojected_path, 'w', **kwargs) as dst:
                     for i in range(1, src.count + 1):
@@ -145,22 +179,86 @@ def process_and_reproject_rasters(raster_paths, polygon_gdf, output_directory, t
                             resampling=Resampling.nearest)
                 raster_path = reprojected_path
             
-            # Crop the raster using the polygon
             with rasterio.open(raster_path) as src:
-                out_image, out_transform = mask(src, geojson, crop=True)
+                out_image, out_transform = mask(src, geojson, crop=True, nodata=np.nan)
                 out_meta = src.meta.copy()
                 out_meta.update({
                     "driver": "GTiff",
                     "height": out_image.shape[1],
                     "width": out_image.shape[2],
-                    "transform": out_transform
+                    "transform": out_transform,
+                    "nodata": np.nan
                 })
                 
                 output_path = f"{output_directory}/cropped_{os.path.basename(raster_path)}"
                 with rasterio.open(output_path, "w", **out_meta) as dest:
                     dest.write(out_image)
+    
+    print("All rasters processed to CRS EPSG:3153 and cropped as specified with NaN for non-covered areas.")
 
-    print("All rasters processed to CRS EPSG:4269 and cropped as specified.")
+
+
+# def process_and_reproject_rasters(raster_paths, polygon_gdf, output_directory, target_crs): #EPSG:4269
+#     """
+#     Processes a list of rasters by ensuring they all have the CRS EPSG:4269,
+#     reprojects if necessary, and crops the rasters using a reference polygon.
+
+#     Args:
+#     raster_paths (list of str): Paths to the raster files.
+#     polygon_shapefile (str): Path to the shapefile containing the cropping polygon.
+#     output_directory (str): Directory where the cropped and reprojected rasters will be saved.
+#     target_crs (str): The target CRS to standardize all rasters (default 'EPSG:4269').
+#     """
+    
+#     # Get the polygon as a geometric object
+#     geometry = polygon_gdf.iloc[0].geometry
+#     geojson = [mapping(geometry)]
+    
+#     for raster_path in raster_paths:
+#         with rasterio.open(raster_path) as src:
+#             src_crs = src.crs
+#             if src_crs != target_crs:
+#                 # Calculate the transformation needed and the new dimensions
+#                 transform, width, height = calculate_default_transform(
+#                     src.crs, target_crs, src.width, src.height, *src.bounds)
+#                 kwargs = src.meta.copy()
+#                 kwargs.update({
+#                     'crs': target_crs,
+#                     'transform': transform,
+#                     'width': width,
+#                     'height': height
+#                 })
+                
+#                 # Reproject the raster
+#                 reprojected_path = f"{output_directory}/reprojected_{os.path.basename(raster_path)}"
+#                 with rasterio.open(reprojected_path, 'w', **kwargs) as dst:
+#                     for i in range(1, src.count + 1):
+#                         reproject(
+#                             source=rasterio.band(src, i),
+#                             destination=rasterio.band(dst, i),
+#                             src_transform=src.transform,
+#                             src_crs=src.crs,
+#                             dst_transform=transform,
+#                             dst_crs=target_crs,
+#                             resampling=Resampling.nearest)
+#                 raster_path = reprojected_path
+            
+#             # Crop the raster using the polygon
+#             with rasterio.open(raster_path) as src:
+#                 out_image, out_transform = mask(src, geojson, crop=True)
+#                 out_meta = src.meta.copy()
+#                 out_meta.update({
+#                     "driver": "GTiff",
+#                     "height": out_image.shape[1],
+#                     "width": out_image.shape[2],
+#                     "transform": out_transform
+#                 })
+                
+#                 output_path = f"{output_directory}/cropped_{os.path.basename(raster_path)}"
+#                 with rasterio.open(output_path, "w", **out_meta) as dest:
+#                     dest.write(out_image)
+
+#     print("All rasters processed to CRS EPSG:4269 and cropped as specified.")
 
 
 ## Plotting Rasters
