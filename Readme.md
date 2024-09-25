@@ -9,8 +9,12 @@ A Random Forest model was later implemented, but it performed poorly, potentiall
 
 ## Repository Structure
 - **`datasets/`**: Contains all relevant datasets, including:
-  - **raster** 
-  - **shapefiles**
+  - **raster**:
+   - **originals/**: The original raster files used in the project. These are kept in the repository for size management and proper functioning of the analysis and dashboard.
+    - **resampled/**: Contains rasters that have been resampled to a standardized resolution. These files are used in the final analysis.
+    - **cropped_reprojected/**: Rasters that have been both cropped and reprojected to the required CRS. These rasters are generated through preprocessing in the first notebook and are computationally expensive. They are not included in the repository.
+    - **float/**: Rasters converted to a floating-point format for further analysis. These files are also generated through preprocessing and are not included in the repository.
+ - **shapefiles**
 - **`documents/`**: Reference materials and auxiliary documents.
 - **`models/`**: Any saved models used during the analysis process.
 - **`scripts/`**: Python scripts for data preprocessing and utility functions.
@@ -31,22 +35,11 @@ A Random Forest model was later implemented, but it performed poorly, potentiall
     ```
 ### Map Outputs:
 - **`predicted_prospectivity_map_discrete.tif`**: The resulting prospectivity map generated from the analysis.
-
-## Key Insights:
-The main focus of the project was integrating various datasets and applying Machine Learning techniques to predict areas with REE potential. While some initial results were produced, certain challenges were encountered with the available data, and further refinement is required. The dashboard represents the current state of the analysis and offers a platform to visualize the results and interact with the data.
-
-## Contact
-For any inquiries or feedback, please reach out to **cvillaragamo@gmail.com**.
-
 ---
-
-This project was an enriching experience, though some ideas could not be fully implemented within the timeframe and computational constraints. Further work will focus on improving the model and refining the dashboard.
-
-
 ## Next steps
-- **Integrating Geophysical Data:** Expand the current dataset by adding gravimetry and magnetic field data.
-- **Developing Insights from Data:** Leverage the cleaned and enriched datasets to generate meaningful insights for critical mineral exploration.
-- **Potential AI and ML Integration:** Explore the possibility of incorporating AI and ML models for prediction and analysis, though the current focus is primarily on data preparation and understanding.
+- **Incorporate More Data**: Adding geochemical data and other geological layers could refine predictions.
+- **Synthetic Data**: Potential to generate synthetic non-mineralized samples to improve model balance.
+- **Model Tuning**: Further hyperparameter tuning to improve classification accuracy.
 
 ## Contact
 cvillaragamo@gmail.com
