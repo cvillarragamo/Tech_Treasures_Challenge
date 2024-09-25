@@ -83,7 +83,7 @@ def to_geodataframe(path, lat_col, lon_col):
 
 
                  
-def check_transform_crs(gdf, target_crs): #EPSG:4269
+def check_transform_crs(gdf, target_crs): #EPSG:4326
     """
     Check the coordinate reference system (CRS) of a GeoDataFrame and transform it
     to the target CRS if it is different.
@@ -375,3 +375,30 @@ def interactive_plot_raster(directory, poi):
         plot_raster(list(rasters.values())[0], poi)  # Plot the first raster initially
     else:
         print("No TIFF files found in the specified directory.")
+
+
+
+
+#####################################
+def shapefiles_to_geojson(shapefile_paths, geojson_paths, target_crs='EPSG:4326'):
+    """
+    Converts a list of shapefiles to GeoJSON format, checking and transforming their CRS if needed.
+    
+    Parameters:
+        shapefile_paths (list of str): List of file paths to the shapefiles.
+        geojson_paths (list of str): List of output file paths for the GeoJSONs.
+        target_crs (str): The target CRS for the GeoJSON files. Default is 'EPSG:4269'.
+    
+    Returns:
+        None
+    """
+    for shapefile_path, geojson_path in zip(shapefile_paths, geojson_paths):
+        
+        gdf = gpd.read_file(shapefile_path)
+        
+        # recycling former function to transform crs
+        gdf = check_transform_crs(gdf, target_crs)
+        
+        # Exporting to GeoJSON
+        gdf.to_file(geojson_path, driver="GeoJSON")
+        print(f"Shapefile {shapefile_path} convertido a GeoJSON en {geojson_path}")
