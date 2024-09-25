@@ -60,8 +60,8 @@ with col2:
     #fig = px.scatter(df_filtered, x='Longitude', y='Latitude', color='Mineral Type', 
                      #title="Deposits by Location")
     #st.plotly_chart(fig, use_container_width=True)
-    #m = geology.explore('rock_class')
-    #st_folium(m)
+    m = geology.explore('rock_class')
+    st_folium(m)
 
 ## Section 2 Prospectivity map
 st.subheader("Predicted Prospectivity Map")
