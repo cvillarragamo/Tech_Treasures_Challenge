@@ -1,4 +1,3 @@
-
 import streamlit as st
 import rasterio
 import numpy as np
@@ -14,8 +13,8 @@ from matplotlib.colors import ListedColormap
 import matplotlib.pyplot as plt
 from matplotlib import colors
 import plotly.graph_objects as go
+gpd.options.use_pygeos = False
 
-import tempfile
 # Setting up the page configuration
 st.set_page_config(page_title="Mineral Exploration Dashboard", page_icon=":pick:", layout="wide")
 #Load Model
