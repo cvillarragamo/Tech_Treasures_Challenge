@@ -30,7 +30,7 @@ A Random Forest model was later implemented, but it performed poorly, potentiall
     ```bash
     streamlit run dash.py
     ```
-  - You can also access the deployed version of the dashboard [here](#) (add the deployment link).
+  - You can also access the deployed version of the dashboard [here](#)
 
     ```
 ### Map Outputs:
