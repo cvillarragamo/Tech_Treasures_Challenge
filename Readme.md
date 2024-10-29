@@ -10,7 +10,7 @@ A Random Forest model was later implemented, but it performed poorly, potentiall
 ## Repository Structure
 - **`datasets/`**: Contains all relevant datasets, including:
   - **raster**:
-   - **originals/**: The original raster files used in the project. These are kept in the repository for size management and proper functioning of the analysis and dashboard.
+   - **originals/**: The original raster files used in the project. These are kept in the repository for size management and proper functioning of the analysis and dashboard. (at the end due constraints of ZIP.file submissions only the ones that are utilized for random forest were kept in the folder)
     - **resampled/**: Contains rasters that have been resampled to a standardized resolution. These files are used in the final analysis.
     - **cropped_reprojected/**: Rasters that have been both cropped and reprojected to the required CRS. These rasters are generated through preprocessing in the first notebook and are computationally expensive. They are not included in the repository.
     - **float/**: Rasters converted to a floating-point format for further analysis. These files are also generated through preprocessing and are not included in the repository.
